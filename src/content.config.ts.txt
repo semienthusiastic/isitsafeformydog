@@ -1,13 +1,15 @@
 import { z, defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const foodsCollection = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: "**/*.md", base: "./src/content/foods" }),
+  
   schema: z.object({
     name: z.string(),
-    // We restrict the status to these 4 options so we don't make typos later
     status: z.enum(['Safe', 'Caution', 'Toxic', 'Emergency']),
-    description: z.string(), // Short summary for search results
-    keywords: z.array(z.string()).optional(), // Alt names (e.g. "Raisins")
+    description: z.string(),
+    keywords: z.array(z.string()).optional(),
+    image: z.string().optional(), // <--- The new image field
   }),
 });
 

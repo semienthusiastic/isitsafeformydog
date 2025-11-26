@@ -36,7 +36,18 @@ const statusColors = {
       
       <!-- Header Section -->
       <div class="border-b pb-6 mb-6">
-        <h1 class="text-4xl font-bold mt-2 text-gray-900">{entry.data.name}</h1>
+        <a href="/" class="text-blue-500 hover:underline text-sm">&larr; Back to Search</a>
+        
+        <!-- NEW: Image Logic -->
+        {entry.data.image && (
+          <img 
+            src={entry.data.image} 
+            alt={entry.data.name} 
+            class="w-full h-64 object-cover rounded-xl mt-4 shadow-md"
+          />
+        )}
+
+        <h1 class="text-4xl font-bold mt-6 text-gray-900">{entry.data.name}</h1>
         
         <div class={`inline-block mt-4 px-4 py-2 rounded-full font-bold border ${statusColors[entry.data.status]}`}>
           {entry.data.status.toUpperCase()}
