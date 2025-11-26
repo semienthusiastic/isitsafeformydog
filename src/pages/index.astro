@@ -1,5 +1,6 @@
 ---
 // src/pages/index.astro
+import Footer from '../components/Footer.astro';
 ---
 
 <html lang="en">
@@ -8,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
   </head>
-  <body class="bg-blue-50 min-h-screen font-sans flex flex-col items-center">
+  <body class="bg-blue-50 min-h-screen font-sans flex flex-col">
 
     <!-- Main Container -->
     <main class="w-full max-w-2xl px-6 mt-20 text-center">
@@ -130,5 +131,7 @@
           });
       }
     </script>
+  <!-- ... existing script ... -->
+    <Footer />
   </body>
 </html>
