@@ -1,0 +1,108 @@
+---
+// src/components/SearchHeader.astro
+---
+<header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+  <div class="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between gap-4">
+    
+    <!-- Logo / Home Link -->
+    <a href="/" class="text-xl font-extrabold text-blue-900 shrink-0 hover:text-blue-700 transition">
+      Is It Safe? 🐶
+    </a>
+
+    <!-- Mini Search Bar -->
+    <div class="relative w-full max-w-md">
+      <input 
+        type="text" 
+        id="nav-search-input" 
+        placeholder="Search again..."
+        class="w-full px-4 py-2 rounded-full bg-gray-100 border border-gray-300 focus:bg-white focus:ring-2 focus:ring-blue-300 focus:outline-none text-sm transition"
+      >
+      
+      <!-- Dropdown Results -->
+      <ul 
+        id="nav-results-container" 
+        class="hidden absolute top-full right-0 left-0 bg-white shadow-xl rounded-xl mt-2 overflow-hidden border border-gray-100 max-h-96 overflow-y-auto"
+      >
+      </ul>
+    </div>
+
+  </div>
+</header>
+
+<script>
+  import Fuse from 'fuse.js';
+
+  // 1. Fetch Data (Cached if possible)
+  let searchIndex = [];
+  async function loadData() {
+    try {
+        if(searchIndex.length === 0) {
+            const response = await fetch('/search.json');
+            searchIndex = await response.json();
+        }
+    } catch (e) { console.error(e); }
+  }
+
+  const navInput = document.getElementById('nav-search-input');
+  const navResults = document.getElementById('nav-results-container');
+
+  // Status Colors
+  const statusColors = {
+    Safe: "bg-green-100 text-green-800",
+    Caution: "bg-yellow-100 text-yellow-800",
+    Toxic: "bg-red-100 text-red-800",
+    Emergency: "bg-red-600 text-white"
+  };
+
+  if (navInput && navResults) {
+    // Load data as soon as user clicks the box
+    navInput.addEventListener('focus', loadData);
+
+    navInput.addEventListener('input', (e) => {
+        // @ts-ignore
+        const query = e.target.value;
+        if (query.length === 0) {
+            navResults.classList.add('hidden');
+            return;
+        }
+
+        const fuse = new Fuse(searchIndex, {
+            keys: ['name', 'keywords'],
+            threshold: 0.3,
+        });
+
+        const results = fuse.search(query);
+        navResults.innerHTML = '';
+
+        if (results.length > 0) {
+            navResults.classList.remove('hidden');
+            results.forEach((result) => {
+                const item = result.item;
+                const li = document.createElement('li');
+                li.className = 'border-b last:border-0 hover:bg-gray-50';
+                li.innerHTML = `
+                    <a href="/${item.slug}" class="block px-4 py-3">
+                        <div class="flex justify-between items-center">
+                            <span class="font-bold text-gray-800 text-sm">${item.name}</span>
+                            <span class="px-2 py-0.5 rounded-full text-[10px] font-bold uppercase ${statusColors[item.status]}">
+                                ${item.status}
+                            </span>
+                        </div>
+                    </a>
+                `;
+                navResults.appendChild(li);
+            });
+        } else {
+            navResults.classList.add('hidden');
+        }
+    });
+
+    // Close dropdown if clicking outside
+    document.addEventListener('click', (e) => {
+        // @ts-ignore
+        if (!navInput.contains(e.target) && !navResults.contains(e.target)) {
+            navResults.classList.add('hidden');
+        }
+    });
+  }
+</script>

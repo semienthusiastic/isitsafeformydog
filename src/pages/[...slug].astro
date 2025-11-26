@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from 'astro:content';
+import SearchHeader from '../components/SearchHeader.astro';
+
+export async function getStaticPaths() {
+  const foodEntries = await getCollection('foods');
+  return foodEntries.map(entry => ({
+    params: { slug: entry.slug }, props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const statusColors = {
+  Safe: "bg-green-100 text-green-800 border-green-200",
+  Caution: "bg-yellow-100 text-yellow-800 border-yellow-200",
+  Toxic: "bg-red-100 text-red-800 border-red-200",
+  Emergency: "bg-red-600 text-white border-red-800 animate-pulse"
+};
+---
+
+<html lang="en">
+  <head>
+    <title>Is {entry.data.name} Safe for Dogs?</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body class="bg-gray-50 min-h-screen font-sans">
+    
+    <!-- 1. The New Header -->
+    <SearchHeader />
+    
+    <main class="max-w-2xl mx-auto p-6 bg-white shadow-lg mt-6 rounded-lg mb-20">
+      
+      <!-- Header Section -->
+      <div class="border-b pb-6 mb-6">
+        <h1 class="text-4xl font-bold mt-2 text-gray-900">{entry.data.name}</h1>
+        
+        <div class={`inline-block mt-4 px-4 py-2 rounded-full font-bold border ${statusColors[entry.data.status]}`}>
+          {entry.data.status.toUpperCase()}
+        </div>
+
+        <p class="text-gray-600 mt-4 text-lg italic">{entry.data.description}</p>
+      </div>
+
+      <!-- Article Content -->
+      <article class="prose prose-lg text-gray-800 prose-headings:text-blue-900">
+        <Content />
+      </article>
+
+    </main>
+
+  </body>
+</html>
