@@ -1,17 +1,20 @@
 ---
 name: Peanut Butter
-category: Nuts
-status: Caution
-description: Most peanut butter is safe, BUT you must check for "Xylitol" (Birch Sugar). Xylitol is deadly to dogs.
-keywords: ["nuts", "spread", "xylitol", "treats"]
+category: Pantry
+status: Safe
+image: /images/peanut-butter.jpg
+description: Generally safe and a great source of protein, BUT you must check the label for Xylitol (Birch Sugar), which is deadly.
+source: American Kennel Club (AKC)
+sourceUrl: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanut-butter/
+keywords: ["nuts", "spread", "protein", "xylitol"]
 ---
 
-# Safe, BUT Check the Label
-Peanut butter is a favorite treat for many dogs and is generally safe and healthy. **However**, some sugar-free brands contain **Xylitol** (often labeled as Birch Sugar), which is highly toxic.
+# Safe (Check the Label!)
+Peanut butter is a favorite treat for many dogs. It is an excellent source of protein, healthy fats, and vitamins B and E. It is often used to hide pills or fill puzzle toys.
 
-## The Xylitol Danger
-If the peanut butter contains Xylitol, it can cause a sudden release of insulin, leading to hypoglycemia (low blood sugar), seizures, and liver failure within minutes.
+## ⚠️ Critical Warning: Xylitol
+Some "sugar-free" or "low-calorie" peanut butters contain **Xylitol** (sometimes listed as **Birch Sugar**). Xylitol is extremely toxic to dogs and can cause liver failure. **ALWAYS check the ingredients list before giving peanut butter to your dog.**
 
-## Safe Usage
-* **Check ingredients:** Ensure it contains only peanuts and maybe salt/sugar.
-* **Moderation:** It is high in fat, so too much can cause pancreatitis.
+## Safe Consumption
+* Stick to unsalted, natural peanut butter.
+* Moderation is key due to high fat content (too much can cause pancreatitis).

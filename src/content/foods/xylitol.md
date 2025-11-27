@@ -1,21 +1,25 @@
 ---
-name: Xylitol (Artificial Sweetener)
-category: Sweetener
+name: Xylitol
+category: Household
 status: Emergency
-description: Found in gum, candy, and toothpaste. Causes rapid liver failure and hypoglycemia. Extremely deadly.
-keywords: ["gum", "toothpaste", "birch sugar", "sugar free", "candy"]
+image: /images/xylitol.jpg
+description: Xylitol (Birch Sugar) is an artificial sweetener found in gum and peanut butter. It causes rapid insulin release and liver failure.
+source: FDA Center for Veterinary Medicine
+sourceUrl: https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs
+keywords: ["gum", "sweetener", "birch sugar", "toothpaste", "mints", "sugar-free"]
 ---
 
-# EXTREME DANGER
-Xylitol (often labeled as **Birch Sugar**) is one of the most dangerous substances for dogs. It is found in sugar-free gum, candy, toothpaste, and some peanut butters.
+# Extremely Dangerous
+Xylitol (often labeled as **Birch Sugar**) is a sugar substitute found in sugar-free gum, candies, toothpaste, and some peanut butters. 
 
-## Why is it so bad?
-In dogs, Xylitol stimulates a massive release of insulin from the pancreas. This causes a rapid, life-threatening drop in blood sugar (hypoglycemia). It can also destroy the liver tissue.
+## Why is it dangerous?
+In dogs, Xylitol is quickly absorbed into the bloodstream and triggers a potent release of insulin from the pancreas. This causes a rapid, life-threatening drop in blood sugar (**hypoglycemia**).
 
-## Symptoms (Can occur in 15-30 mins)
+## Symptoms
+Symptoms can occur within 15-30 minutes:
 * Vomiting
-* Loss of coordination (stumbling)
-* Collapse
-* Seizures
+* Weakness and staggering (loss of coordination)
+* Collapse / Seizures
+* Liver failure (can occur days later)
 
-**If you suspect Xylitol ingestion, run (don't walk) to the vet.**
+**Action:** This is a true emergency. If you suspect your dog ate Xylitol, do not wait for symptoms. Go to an emergency vet immediately.

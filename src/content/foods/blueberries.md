@@ -2,16 +2,19 @@
 name: Blueberries
 category: Fruits
 status: Safe
-description: Blueberries are a low-calorie superfood rich in antioxidants and vitamins. A great training treat.
-keywords: ["fruit", "berries", "antioxidants", "vitamin c"]
+image: /images/blueberries.jpg
+description: Blueberries are a safe, low-calorie superfood rich in antioxidants, fiber, and vitamins.
+source: American Kennel Club (AKC)
+sourceUrl: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-blueberries/
+keywords: ["berry", "fruit", "antioxidants", "treats"]
 ---
 
-# A Healthy Superfood
-Blueberries are completely safe for dogs and are often used as a training treat. They are packed with antioxidants, fiber, and Vitamin C.
+# Safe and Healthy
+Blueberries are an excellent treat for dogs. They are packed with antioxidants, which help prevent cell damage, and they provide fiber and phytochemicals.
 
 ## Benefits
-* Low in calories (great for diabetic dogs)
-* Supports the immune system
-* Safe frozen or fresh
+* **Antioxidants:** High levels help support the immune system.
+* **Low Calorie:** A great alternative to store-bought treats for training.
+* **Vitamin C & K:** Essential for overall health.
 
-*Tip: Frozen blueberries make a great crunchy treat on a hot day.*
+*Tip: Frozen blueberries make a great crunchy summer treat.*

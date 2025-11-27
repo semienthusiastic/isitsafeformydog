@@ -1,4 +1,3 @@
-// src/content.config.ts
 import { z, defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 
@@ -7,21 +6,27 @@ const foodsCollection = defineCollection({
   
   schema: z.object({
     name: z.string(),
-    // NEW: Define your categories here
     category: z.enum([
         'Fruits', 
-        'Vegetables', 
-        'Meats', 
-        'Dairy', 
-        'Pantry', 
-        'Household', 
-        'Plants', 
-        'Other'
+    'Vegetables', 
+    'Meats', 
+    'Dairy', 
+    'Pantry', 
+    'Household',
+    'Seafood',
+    'Grains',
+    'Nuts',
+    'Beverages',
+    'Herbs and Spices'
     ]),
     status: z.enum(['Safe', 'Caution', 'Toxic', 'Emergency']),
     description: z.string(),
     keywords: z.array(z.string()).optional(),
     image: z.string().optional(),
+    
+    // NEW FIELDS
+    source: z.string().optional(),      // e.g. "American Kennel Club"
+    sourceUrl: z.string().url().optional(), // e.g. "https://akc.org/..."
   }),
 });
 

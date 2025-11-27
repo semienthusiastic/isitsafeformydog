@@ -7,16 +7,16 @@ import Footer from '../../components/Footer.astro';
 // 1. Generate paths for every category found in your content
 export async function getStaticPaths() {
   const allFoods = await getCollection('foods');
-  
-  // Get unique categories
   const uniqueCategories = [...new Set(allFoods.map((item) => item.data.category))];
 
   return uniqueCategories.map((category) => {
-    // Filter foods that belong to this category
     const categoryFoods = allFoods.filter((item) => item.data.category === category);
     
+    // NEW: Create a "slug" version of the name (herbs-and-spices)
+    const slug = category.toLowerCase().replace(/\s+/g, '-');
+
     return {
-      params: { category: category.toLowerCase() },
+      params: { category: slug }, // The URL will be based on this slug
       props: { categoryName: category, foods: categoryFoods },
     };
   });

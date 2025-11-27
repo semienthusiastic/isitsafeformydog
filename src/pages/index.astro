@@ -1,6 +1,14 @@
 ---
 // src/pages/index.astro
 import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+// 1. Fetch all food items to generate the category list dynamically
+const allFoods = await getCollection('foods');
+
+// 2. Extract unique categories and sort them alphabetically
+// This replaces the hardcoded list. If you add "Seafood" to a markdown file, it appears here automatically.
+const categories = [...new Set(allFoods.map((item) => item.data.category))].sort();
 ---
 
 <html lang="en">
@@ -42,18 +50,21 @@ import Footer from '../components/Footer.astro';
         </ul>
       </div>
 
-      <!-- NEW: Category Quick Links -->
+      <!-- NEW: DYNAMIC Category Quick Links -->
       <div class="mt-12">
         <h2 class="text-gray-400 text-sm font-bold uppercase tracking-widest mb-4">Browse by Category</h2>
         <div class="flex flex-wrap justify-center gap-3">
-            {['Fruits', 'Vegetables', 'Meats', 'Dairy', 'Pantry'].map(cat => (
-                <a href={`/category/${cat.toLowerCase()}`} class="bg-white px-4 py-2 rounded-full text-blue-900 font-medium shadow-sm border border-blue-100 hover:bg-blue-600 hover:text-white hover:border-blue-600 transition">
+            
+            {/* We map over the dynamic 'categories' array instead of a hardcoded list */}
+            {categories.map(cat => (
+                <a 
+                  href={`/category/${cat.toLowerCase().replace(/\s+/g, '-')}`} 
+                  class="bg-white px-4 py-2 rounded-full text-blue-900 font-medium shadow-sm border border-blue-100 hover:bg-blue-600 hover:text-white hover:border-blue-600 transition"
+                >
                     {cat}
                 </a>
             ))}
-            <a href="/category/household" class="bg-white px-4 py-2 rounded-full text-blue-900 font-medium shadow-sm border border-blue-100 hover:bg-blue-600 hover:text-white hover:border-blue-600 transition">
-                Household
-            </a>
+
         </div>
       </div>
 
@@ -103,8 +114,9 @@ import Footer from '../components/Footer.astro';
     
             // Configure Fuse (Fuzzy search settings)
             const fuse = new Fuse(searchIndex, {
-              keys: ['name', 'keywords', 'description'], // What to search in
-              threshold: 0.3, // 0 = perfect match, 1 = match anything
+              // ADDED 'category' here so people can search for "Fruit" or "Meat"
+              keys: ['name', 'keywords', 'category', 'description'], 
+              threshold: 0.3, 
             });
     
             const results = fuse.search(query);

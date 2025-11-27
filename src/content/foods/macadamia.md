@@ -1,18 +1,22 @@
 ---
 name: Macadamia Nuts
-category: Nuts
+category: Pantry
 status: Toxic
-description: Macadamia nuts affect nerve function. Even a few nuts can cause weakness and inability to walk.
-keywords: ["nuts", "cookies", "hawaiian"]
+image: /images/macadamia.jpg
+description: Macadamia nuts can cause weakness, overheating, and tremors. They are one of the most toxic nuts for dogs.
+source: Merck Veterinary Manual
+sourceUrl: https://www.merckvetmanual.com/toxicology/food-hazards/macadamia-nuts
+keywords: ["nuts", "snack", "hawaiian", "cookies"]
 ---
 
-# Dangerous
-Macadamia nuts are one of the most toxic foods for dogs, although the exact mechanism is unknown. Ingestion affects the nervous system and muscles.
+# Toxic
+Macadamia nuts are highly toxic to dogs. Ingestion can result in a specific syndrome characterized by weakness, especially in the hind legs.
 
-## Symptoms (Appear within 12 hours)
-* Weakness in the back legs (inability to stand)
+## Symptoms
+Symptoms usually appear within 12 hours of ingestion:
+* **Weakness in back legs** (inability to stand)
 * Vomiting
-* Tremors / Shaking
-* High fever (Hyperthermia)
+* Tremors and shaking
+* Hyperthermia (high body temperature)
 
-Most dogs recover with veterinary care, but the symptoms can be frightening and severe.
+While rarely fatal, the symptoms can be frightening and painful for the dog. Veterinary supportive care is usually required to manage pain and nausea.

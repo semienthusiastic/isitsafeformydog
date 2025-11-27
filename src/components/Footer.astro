@@ -6,16 +6,27 @@ const today = new Date();
 <footer class="mt-auto w-full">
   
   <!-- 1. The Medical Disclaimer (High Visibility) -->
-  <div class="bg-yellow-50 border-t border-yellow-200 px-6 py-8 text-center">
-    <div class="max-w-4xl mx-auto">
-      <p class="text-yellow-800 font-bold uppercase tracking-wide text-sm mb-2">
-        ⚠️ Important Medical Disclaimer
+  <div class="bg-yellow-50 border-t border-yellow-200 px-6 py-10 text-center">
+    <div class="max-w-4xl mx-auto space-y-4">
+      
+      <!-- Headline -->
+      <p class="text-yellow-900 font-extrabold uppercase tracking-widest text-xs">
+        ⚠️ Not Veterinary Advice
       </p>
-      <p class="text-yellow-700 text-sm leading-relaxed">
-        The content on <strong>Is It Safe For My Dog?</strong> is for informational purposes only and does not constitute veterinary medical advice. 
-        Every dog is different. If you suspect your dog has ingested something toxic, or if they are showing symptoms of illness, 
-        <strong>contact your veterinarian or an emergency animal hospital immediately.</strong> Do not rely solely on internet research for emergencies.
+
+      <!-- The "Source" Disclaimer -->
+      <p class="text-yellow-800 text-sm leading-relaxed">
+        <strong>We are not veterinarians.</strong> The content on this site is aggregated from publicly available veterinary resources, 
+        including the <em>American Veterinary Medical Association (AVMA)</em>, the <em>ASPCA Animal Poison Control Center</em>, 
+        and the <em>Pet Poison Helpline</em>. 
+        This information is for educational purposes only and does <strong>not</strong> constitute medical or professional advice.
       </p>
+
+      <!-- The Emergency Call to Action -->
+      <p class="text-red-700 font-bold text-base bg-red-50 inline-block px-4 py-2 rounded border border-red-100">
+        If you suspect poisoning or illness, stop reading and contact your veterinarian immediately.
+      </p>
+
     </div>
   </div>
 
@@ -26,7 +37,6 @@ const today = new Date();
       
       <div class="flex justify-center gap-6 mt-4 font-medium">
         <a href="/" class="hover:text-white transition-colors">Home</a>
-        <!-- We will create these pages later, for now they are placeholders -->
         <a href="#" class="hover:text-white transition-colors">About</a>
         <a href="#" class="hover:text-white transition-colors">Contact</a>
       </div>
