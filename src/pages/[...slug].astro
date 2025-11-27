@@ -7,7 +7,9 @@ import AdPlaceholder from '../components/AdPlaceholder.astro';
 export async function getStaticPaths() {
   const foodEntries = await getCollection('foods');
   return foodEntries.map(entry => ({
-    params: { slug: entry.slug }, props: { entry },
+    // FIX: Ensure we strip the extension here too, so the page exists at /coffee
+    params: { slug: entry.id.replace(/\.md$/, '') }, 
+    props: { entry },
   }));
 }
 

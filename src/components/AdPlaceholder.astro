@@ -1,8 +1,15 @@
 ---
+// src/components/AdPlaceholder.astro
+// You can pass props to determine size
+const { size = "rectangle" } = Astro.props;
+
+const dimensions = size === "rectangle" 
+  ? "w-[300px] h-[250px]" 
+  : "w-[300px] h-[600px]";
 ---
-<div class="my-8 flex justify-center">
-  <div class="w-[300px] h-[250px] bg-gray-100 border border-gray-200 flex flex-col items-center justify-center text-gray-400 text-sm">
-    <span class="font-bold tracking-widest uppercase">Ad Space</span>
-    <span class="text-xs">(300 x 250)</span>
-  </div>
+
+<!-- The gray background reserves the space immediately -->
+<div class={`mx-auto bg-gray-100 flex items-center justify-center border border-gray-200 my-8 ${dimensions}`}>
+  <span class="text-xs text-gray-400 uppercase tracking-widest">Advertisement</span>
+  <!-- Your Ad Script will inject the iframe here later -->
 </div>
