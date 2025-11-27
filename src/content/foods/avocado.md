@@ -1,6 +1,6 @@
 ---
 name: Avocado
-category: Fruits
+category: ["Fruits"]
 status: Caution
 image: /images/avocado.jpg
 description: Avocado contains persin, which can be toxic in large amounts. The pit also poses a major choking obstruction risk.

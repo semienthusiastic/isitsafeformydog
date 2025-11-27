@@ -1,6 +1,6 @@
 ---
 name: Rice
-category: Grains
+category: ["Pantry", "Grains"]
 status: Safe
 image: /images/rice.jpg
 description: Plain white rice is the go-to food for dogs with upset stomachs. It is easy to digest and low in fiber.

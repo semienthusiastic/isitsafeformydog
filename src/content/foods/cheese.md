@@ -1,6 +1,6 @@
 ---
 name: Cheese
-category: Dairy
+category: ["Dairy"]
 status: Safe
 image: /images/cheese.jpg
 description: Cheese is a popular high-value training treat. However, it is high in fat, and some dogs are lactose intolerant.

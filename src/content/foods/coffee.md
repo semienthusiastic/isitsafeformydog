@@ -1,6 +1,6 @@
 ---
 name: Coffee
-category: Beverages
+category: ["Beverages"]
 status: Emergency
 image: /images/coffee.jpg
 description: Coffee contains caffeine, which is much more potent in dogs than humans. Ingestion can lead to seizures and death.

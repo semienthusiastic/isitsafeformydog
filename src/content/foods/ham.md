@@ -1,6 +1,6 @@
 ---
 name: Ham
-category: Meats
+category: ["Meats"]
 status: Caution
 image: /images/ham.jpg
 description: Ham is not toxic, but it is very high in sodium and fat. It can cause dehydration, vomiting, or even pancreatitis.

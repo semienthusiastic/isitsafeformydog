@@ -6,9 +6,9 @@ import { getCollection } from 'astro:content';
 // 1. Fetch all food items to generate the category list dynamically
 const allFoods = await getCollection('foods');
 
-// 2. Extract unique categories and sort them alphabetically
-// This replaces the hardcoded list. If you add "Seafood" to a markdown file, it appears here automatically.
-const categories = [...new Set(allFoods.map((item) => item.data.category))].sort();
+// 2. Use flatMap to get every category from every item's array
+const categories = [...new Set(allFoods.flatMap((item) => item.data.category))].sort();
+
 ---
 
 <html lang="en">

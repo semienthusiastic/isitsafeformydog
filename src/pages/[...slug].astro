@@ -74,12 +74,17 @@ const links = {
           />
         )}
 
-        <div>
-        <!-- NEW CATEGORY LINK -->
-            Category: <a href={`/category/${entry.data.category.toLowerCase().replace(/\s+/g, '-')}`} class="text-gray-400 hover:text-blue-500 font-bold uppercase tracking-wider">
-                {entry.data.category} &rarr;
-            </a>
-        </div>
+        <!-- NEW: Loop through categories to display multiple links -->
+            <div class="flex flex-wrap gap-2">
+              {entry.data.category.map(cat => (
+                <a 
+                  href={`/category/${cat.toLowerCase().replace(/\s+/g, '-')}`} 
+                  class="text-xs font-bold uppercase tracking-wider bg-gray-100 text-gray-600 px-2 py-1 rounded hover:bg-blue-100 hover:text-blue-600 transition-colors"
+                >
+                    {cat}
+                </a>
+              ))}
+            </div>
 
         <h1 class="text-4xl font-bold mt-6 text-gray-900">{entry.data.name}</h1>
         

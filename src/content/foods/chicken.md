@@ -1,6 +1,6 @@
 ---
 name: Chicken
-category: Meats
+category: ["Meats"]
 status: Safe
 image: /images/chicken.jpg
 description: Cooked, unseasoned chicken is a safe, high-protein food. However, cooked bones are dangerous and raw chicken carries bacterial risks.

@@ -1,6 +1,6 @@
 ---
 name: Chocolate
-category: Pantry
+category: ["Pantry"]
 status: Emergency
 image: /images/chocolate.jpg
 description: Chocolate contains theobromine and caffeine, both of which are toxic to dogs and affect the heart and nervous system.

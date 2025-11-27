@@ -1,6 +1,6 @@
 ---
 name: Grapes
-category: Fruits
+category: ["Fruits"]
 status: Emergency
 image: /images/grapes.jpg
 description: Grapes and raisins are highly toxic and can cause sudden, acute kidney failure in dogs.

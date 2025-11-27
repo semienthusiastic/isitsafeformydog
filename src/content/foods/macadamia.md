@@ -1,6 +1,6 @@
 ---
 name: Macadamia Nuts
-category: Pantry
+category: ["Pantry", "Nuts"]
 status: Toxic
 image: /images/macadamia.jpg
 description: Macadamia nuts can cause weakness, overheating, and tremors. They are one of the most toxic nuts for dogs.

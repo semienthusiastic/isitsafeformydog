@@ -1,6 +1,6 @@
 ---
 name: Carrots
-category: Vegetables
+category: ["Vegetables"]
 status: Safe
 image: /images/carrots.jpg
 description: Carrots are a healthy, low-calorie snack. They are good for a dog's teeth and high in vitamins.

@@ -1,6 +1,6 @@
 ---
 name: Almonds
-category: Nuts
+category: ["Nuts"]
 status: Caution
 image: /images/almonds.jpg
 description: Almonds are not toxic, but they are a choking hazard and difficult for dogs to digest due to high fat content.

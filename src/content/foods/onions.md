@@ -1,6 +1,6 @@
 ---
 name: Onions
-category: Vegetables
+category: ["Vegetables"]
 status: Toxic
 image: /images/onions.jpg
 description: Onions, garlic, and chives contain N-propyl disulfide, which damages red blood cells and causes anemia.

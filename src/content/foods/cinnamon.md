@@ -1,6 +1,6 @@
 ---
 name: Cinnamon
-category: Herbs and Spices
+category: ["Herbs and Spices"]
 status: Safe
 image: /images/cinnamon.jpg
 description: Cinnamon is non-toxic and safe in small amounts. However, cinnamon sticks and essential oils can be dangerous.

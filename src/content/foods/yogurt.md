@@ -1,6 +1,6 @@
 ---
 name: Yogurt
-category: Dairy
+category: ["Dairy"]
 status: Safe
 image: /images/yogurt.jpg
 description: "Plain, unsweetened yogurt is safe and provides probiotics. WARNING: Xylitol (Birch Sugar) in sugar-free yogurt is deadly."

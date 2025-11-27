@@ -1,6 +1,6 @@
 ---
 name: Xylitol
-category: Household
+category: ["Household"]
 status: Emergency
 image: /images/xylitol.jpg
 description: Xylitol (Birch Sugar) is an artificial sweetener found in gum and peanut butter. It causes rapid insulin release and liver failure.

@@ -1,6 +1,6 @@
 ---
 name: Blueberries
-category: Fruits
+category: ["Fruits"]
 status: Safe
 image: /images/blueberries.jpg
 description: Blueberries are a safe, low-calorie superfood rich in antioxidants, fiber, and vitamins.

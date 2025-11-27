@@ -1,9 +1,9 @@
 ---
 name: Salmon
-category: Seafood
+category: ["Seafood"]
 status: Safe
 image: /images/salmon.jpg
-description: Cooked salmon is excellent for dogs, providing Omega-3 fatty acids. WARNING: Raw salmon can contain a deadly parasite.
+description: "Cooked salmon is excellent for dogs, providing Omega-3 fatty acids. WARNING: Raw salmon can contain a deadly parasite."
 source: American Kennel Club (AKC)
 sourceUrl: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-salmon/
 keywords: ["fish", "omega-3", "sushi", "raw fish", "seafood"]

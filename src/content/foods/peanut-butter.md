@@ -1,6 +1,6 @@
 ---
 name: Peanut Butter
-category: Pantry
+category: ["Pantry", "Nuts"]
 status: Safe
 image: /images/peanut-butter.jpg
 description: Generally safe and a great source of protein, BUT you must check the label for Xylitol (Birch Sugar), which is deadly.
