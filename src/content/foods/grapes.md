@@ -1,5 +1,6 @@
 ---
 name: Grapes & Raisins
+category: Fruits
 status: Emergency
 description: Grapes and raisins can cause sudden kidney failure in dogs. Even a small amount can be fatal.
 keywords: ["sultanas", "currants", "wine", "fruit"]

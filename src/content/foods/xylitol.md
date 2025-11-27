@@ -1,5 +1,6 @@
 ---
 name: Xylitol (Artificial Sweetener)
+category: Sweetener
 status: Emergency
 description: Found in gum, candy, and toothpaste. Causes rapid liver failure and hypoglycemia. Extremely deadly.
 keywords: ["gum", "toothpaste", "birch sugar", "sugar free", "candy"]

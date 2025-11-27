@@ -2,6 +2,7 @@
 import Footer from '../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import SearchHeader from '../components/SearchHeader.astro';
+import AdPlaceholder from '../components/AdPlaceholder.astro';
 
 export async function getStaticPaths() {
   const foodEntries = await getCollection('foods');
@@ -19,31 +20,44 @@ const statusColors = {
   Toxic: "bg-red-100 text-red-800 border-red-200",
   Emergency: "bg-red-600 text-white border-red-800 animate-pulse"
 };
+
+// 1. Pluralization Logic (Is vs Are)
+const isPlural = entry.data.name.toLowerCase().endsWith('s'); 
+const verb = isPlural ? "Are" : "Is";
+
+// 2. Generate Share Links
+const currentUrl = new URL(Astro.url.pathname, Astro.site);
+const shareText = `${verb} ${entry.data.name} safe for dogs? Find out here:`;
+const links = {
+  facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl.href)}`,
+  twitter: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl.href)}`,
+  whatsapp: `https://wa.me/?text=${encodeURIComponent(shareText + " " + currentUrl.href)}`,
+  email: `mailto:?subject=${verb} ${entry.data.name} Safe for Dogs?&body=${encodeURIComponent(shareText + " " + currentUrl.href)}`
+};
 ---
 
 <html lang="en">
   <head>
     <!-- Basic SEO -->
-    <title>Is {entry.data.name} Safe for Dogs? | Is It Safe?</title>
+    <title>{verb} {entry.data.name} Safe for Dogs? | Is It Safe?</title>
     <meta name="description" content={entry.data.description} />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     
     <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:type" content="article" />
-    <meta property="og:title" content={`Is ${entry.data.name} Safe for Dogs?`} />
+    <meta property="og:title" content={`${verb} ${entry.data.name} Safe for Dogs?`} />
     <meta property="og:description" content={entry.data.description} />
     {entry.data.image && <meta property="og:image" content={new URL(entry.data.image, Astro.site)} />}
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:title" content={`Is ${entry.data.name} Safe for Dogs?`} />
+    <meta property="twitter:title" content={`${verb} ${entry.data.name} Safe for Dogs?`} />
     <meta property="twitter:description" content={entry.data.description} />
     {entry.data.image && <meta property="twitter:image" content={new URL(entry.data.image, Astro.site)} />}
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
     
-    <!-- 1. The New Header -->
     <SearchHeader />
     
     <main class="max-w-2xl mx-auto p-6 bg-white shadow-lg mt-6 rounded-lg mb-20">
@@ -52,7 +66,6 @@ const statusColors = {
       <div class="border-b pb-6 mb-6">
         <a href="/" class="text-blue-500 hover:underline text-sm">&larr; Back to Search</a>
         
-        <!-- NEW: Image Logic -->
         {entry.data.image && (
           <img 
             src={entry.data.image} 
@@ -61,6 +74,13 @@ const statusColors = {
           />
         )}
 
+        <div>
+        <!-- NEW CATEGORY LINK -->
+            Category: <a href={`/category/${entry.data.category.toLowerCase()}`} class="text-gray-400 hover:text-blue-500 font-bold uppercase tracking-wider">
+                {entry.data.category}
+            </a>
+        </div>
+
         <h1 class="text-4xl font-bold mt-6 text-gray-900">{entry.data.name}</h1>
         
         <div class={`inline-block mt-4 px-4 py-2 rounded-full font-bold border ${statusColors[entry.data.status]}`}>
@@ -68,10 +88,20 @@ const statusColors = {
         </div>
 
         <p class="text-gray-600 mt-4 text-lg italic">{entry.data.description}</p>
-      </div>
+
+        <!-- Social Share Buttons -->
+        <div class="flex gap-3 mt-6 pt-6 border-t border-gray-100">
+           <span class="text-xs text-gray-400 font-bold tracking-wider uppercase mt-1">Share:</span>
+           <a href={links.facebook} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-blue-600">Facebook</a>
+           <a href={links.twitter} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-blue-400">X (Twitter)</a>
+           <a href={links.whatsapp} target="_blank" rel="noopener noreferrer" class="text-gray-400 hover:text-green-500">WhatsApp</a>
+           <a href={links.email} class="text-gray-400 hover:text-gray-800">Email</a>
+        </div>
+      </div> 
 
       <!-- Article Content -->
       <article class="prose prose-lg text-gray-800 prose-headings:text-blue-900">
+        <AdPlaceholder />
         <Content />
       </article>
 

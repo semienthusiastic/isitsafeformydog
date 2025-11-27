@@ -1,5 +1,6 @@
 ---
 name: Avocado
+category: Fruits
 status: Caution
 description: Avocados contain persin, which causes vomiting. The large pit is also a major choking hazard.
 keywords: ["guacamole", "fruit", "pit", "stone"]

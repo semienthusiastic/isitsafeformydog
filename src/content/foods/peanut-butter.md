@@ -1,5 +1,6 @@
 ---
 name: Peanut Butter
+category: Nuts
 status: Caution
 description: Most peanut butter is safe, BUT you must check for "Xylitol" (Birch Sugar). Xylitol is deadly to dogs.
 keywords: ["nuts", "spread", "xylitol", "treats"]

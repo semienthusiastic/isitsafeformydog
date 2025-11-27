@@ -1,5 +1,6 @@
 ---
 name: Macadamia Nuts
+category: Nuts
 status: Toxic
 description: Macadamia nuts affect nerve function. Even a few nuts can cause weakness and inability to walk.
 keywords: ["nuts", "cookies", "hawaiian"]

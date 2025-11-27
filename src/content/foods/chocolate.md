@@ -1,5 +1,6 @@
 ---
 name: Chocolate
+category: Confectionery
 slug: chocolate
 status: Toxic
 toxicity_level: High

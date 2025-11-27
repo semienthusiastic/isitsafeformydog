@@ -1,5 +1,6 @@
 ---
 name: Blueberries
+category: Fruits
 status: Safe
 description: Blueberries are a low-calorie superfood rich in antioxidants and vitamins. A great training treat.
 keywords: ["fruit", "berries", "antioxidants", "vitamin c"]
