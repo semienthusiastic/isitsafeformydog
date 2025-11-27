@@ -23,9 +23,23 @@ const statusColors = {
 
 <html lang="en">
   <head>
-    <title>Is {entry.data.name} Safe for Dogs?</title>
+    <!-- Basic SEO -->
+    <title>Is {entry.data.name} Safe for Dogs? | Is It Safe?</title>
+    <meta name="description" content={entry.data.description} />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={`Is ${entry.data.name} Safe for Dogs?`} />
+    <meta property="og:description" content={entry.data.description} />
+    {entry.data.image && <meta property="og:image" content={new URL(entry.data.image, Astro.site)} />}
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content={`Is ${entry.data.name} Safe for Dogs?`} />
+    <meta property="twitter:description" content={entry.data.description} />
+    {entry.data.image && <meta property="twitter:image" content={new URL(entry.data.image, Astro.site)} />}
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
     
