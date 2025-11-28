@@ -1,15 +1,28 @@
 ---
 // src/components/AdPlaceholder.astro
-// You can pass props to determine size
-const { size = "rectangle" } = Astro.props;
+const { variant = 'mpu' } = Astro.props;
 
-const dimensions = size === "rectangle" 
-  ? "w-[300px] h-[250px]" 
-  : "w-[300px] h-[600px]";
+// Dimensions mapping
+// mpu = Mid-Page Unit (Standard Square 300x250)
+// skyscraper = Tall Sidebar Ad (300x600)
+const sizes = {
+  mpu: "w-[300px] h-[250px]",
+  skyscraper: "w-[300px] h-[600px]"
+};
+
+const dimensions = sizes[variant] || sizes.mpu;
 ---
 
-<!-- The gray background reserves the space immediately -->
-<div class={`mx-auto bg-gray-100 flex items-center justify-center border border-gray-200 my-8 ${dimensions}`}>
-  <span class="text-xs text-gray-400 uppercase tracking-widest">Advertisement</span>
-  <!-- Your Ad Script will inject the iframe here later -->
+<!-- The gray box reserves space to prevent layout shift (CLS) -->
+<div class={`flex flex-col items-center justify-center bg-gray-50 border border-gray-100 rounded-lg mx-auto overflow-hidden ${dimensions}`}>
+  <span class="text-[10px] text-gray-400 font-bold uppercase tracking-widest mb-1">Advertisement</span>
+  
+  <!-- This div is where your Ad Network Script (Google/Ezoic) will inject the actual iframe -->
+  <!-- For now, we keep it empty or put a placeholder image -->
+  <div class="w-full h-full bg-gray-100/50 relative">
+     <!-- Optional: Visual pattern to make it look less empty during dev -->
+     <svg class="absolute inset-0 w-full h-full text-gray-200" fill="none" viewBox="0 0 24 24">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" d="M0 0l24 24M24 0L0 24" />
+     </svg>
+  </div>
 </div>
