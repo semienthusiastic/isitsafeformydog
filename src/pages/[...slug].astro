@@ -1,4 +1,6 @@
 ---
+import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+
 import Footer from '../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import SearchHeader from '../components/SearchHeader.astro';
@@ -40,6 +42,8 @@ const links = {
 
 <html lang="en">
   <head>
+    <GoogleAnalytics id="G-EYN5ZFZK56" />
+    
     <!-- Basic SEO -->
     <title>{verb} {entry.data.name} Safe for Dogs? | Is It Safe?</title>
     <meta name="description" content={entry.data.description} />
