@@ -3,7 +3,7 @@
 import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
-import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import GA from '../components/GoogleAnalytics.astro';
 
 // 1. Fetch all food items to generate the category list dynamically
 const allFoods = await getCollection('foods');
@@ -15,7 +15,7 @@ const categories = [...new Set(allFoods.flatMap((item) => item.data.category))].
 
 <html lang="en">
   <head>
-    <GoogleAnalytics id={import.meta.env.PUBLIC_GA_ID} />
+    <GA id="G-EYN5ZFZK56" />
 
     <title>Is It Safe For My Dog?</title>
     <meta charset="utf-8" />

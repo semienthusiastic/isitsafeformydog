@@ -1,5 +1,5 @@
 ---
-import GoogleAnalytics from '../components/GoogleAnalytics.astro';
+import GA from '../components/GoogleAnalytics.astro';
 
 import Footer from '../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
@@ -42,7 +42,7 @@ const links = {
 
 <html lang="en">
   <head>
-    <GoogleAnalytics id={import.meta.env.PUBLIC_GA_ID} />
+    <GA id="G-EYN5ZFZK56" />
     
     <!-- Basic SEO -->
     <title>{verb} {entry.data.name} Safe for Dogs? | Is It Safe?</title>
