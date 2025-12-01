@@ -1,0 +1,48 @@
+/* src/styles/global.css */
+
+/* 1. Import Tailwind layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2. Custom Base Styles */
+@layer base {
+  /* This targets ALL H1s, H2s, etc. across the site */
+  h1 {
+    @apply font-sans font-extrabold text-slate-900;
+  }
+  h2 {
+    @apply font-sans font-bold text-slate-800;
+  }
+}
+
+/* 3. Specific Styling for Markdown Content */
+/* Because you use the class "prose" in your markdown wrapper, we target that specifically */
+
+.prose h1 {
+  /* No need to style H1 here, usually, as the Title is handled by your template */
+}
+
+.prose h2 {
+  /* This makes H2s inside your articles look distinct */
+  @apply text-2xl text-blue-900 border-b-2 border-blue-100 pb-2 mt-8 mb-4;
+}
+
+.prose h3 {
+  @apply text-xl text-blue-800 mt-6 mb-3;
+}
+
+.prose strong {
+  @apply text-blue-900 font-extrabold;
+}
+
+.prose ul {
+  @apply list-disc list-outside ml-5 space-y-2;
+}
+
+.prose li {
+  @apply text-gray-700;
+}
+
+/* Example: Highlight the word "Toxic" if it appears in bold? */
+/* (This is harder in pure CSS, stick to general tag styling) */
