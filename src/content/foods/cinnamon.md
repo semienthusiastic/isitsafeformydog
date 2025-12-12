@@ -1,6 +1,6 @@
 ---
 name: "Cinnamon"
-category: ["Spices"]
+category: ["Herbs and Spices"]
 status: Caution
 image: "/images/cinnamon.jpg"
 description: "Veterinary organisations state that cinnamon is not toxic to dogs, but large amounts or concentrated forms may cause irritation or digestive upset."

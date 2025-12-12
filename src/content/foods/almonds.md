@@ -1,6 +1,6 @@
 ---
 name: "Almonds"
-category: ["Nuts", "Human Foods"]
+category: ["Nuts"]
 status: Caution
 image: "/images/almonds.jpg"
 description: "Veterinary organisations generally classify almonds as unsuitable for dogs due to digestive difficulty, high fat content, and choking or obstruction risks, even though they are not considered toxic in the same way as macadamia nuts."
