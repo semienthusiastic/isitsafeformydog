@@ -1,262 +1,116 @@
 ---
 name: "Chocolate"
-category: ["Pantry"]
+category: ["Sweets"]
 status: Toxic
-image: /images/chocolate.jpg
-description: "Veterinary and animal-poison-control organisations classify chocolate as toxic to dogs due to its theobromine and caffeine content. Darker chocolates and cocoa powder contain especially high concentrations."
-source: "American Kennel Club (AKC)"
-sourceUrl: "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/"
-keywords: ["chocolate", "theobromine", "cocoa", "dogs chocolate risk", "chocolate poisoning dogs", "cacao toxicity"]
+image: "/images/chocolate.jpg"
+description: "Veterinary organisations classify chocolate as toxic to dogs because it contains theobromine and caffeine, which dogs cannot process effectively."
+source: ["ASPCA", "VCA Hospitals", "Merck Veterinary Manual", "Cornell University"]
+sourceUrl: [
+  "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet",
+  "https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals",
+  "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate"
+]
+keywords: ["chocolate", "can dogs eat chocolate", "dog safety", "chocolate dogs"]
+shortAnswer: ["No, chocolate is toxic to dogs and should never be eaten. Veterinary organisations explain that chocolate contains theobromine and caffeine, which dogs cannot process well. Dark chocolate, baking chocolate, and cocoa powder have even higher levels of these chemicals and are linked to more serious toxic effects."]
 ---
 
-# Is Chocolate Safe for Dogs?
+## Is Chocolate Safe for Dogs?
 
-This page summarises information from **veterinary and animal-poison-control sources** about how chocolate is viewed in relation to dog health.  
-It is provided for general informational purposes only and **is not a substitute for professional veterinary advice, diagnosis, or treatment**.
+Veterinary toxicology sources, including the ASPCA and Merck Veterinary Manual, state clearly that **chocolate is toxic to dogs**. Chocolate contains the methylxanthines **theobromine** and **caffeine**, which dogs process far more slowly than humans.  
+Source: https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
 
-> **Status according to veterinary sources:**  
-> **TOXIC to dogs — risk level varies by chocolate type and amount.**
+VCA Hospitals explains that even small amounts of chocolate may cause vomiting, diarrhoea, agitation, or an increased heart rate, while larger amounts can lead to tremors, seizures, or dangerous heart rhythm changes.  
+Source: https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
 
----
+Cornell University notes that the severity of chocolate toxicity depends on the type of chocolate, the amount eaten, and the size of the dog, with darker chocolates posing the highest risk.  
+Source: https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate
 
-## What Is Chocolate?
+## Why Chocolate Can Be a Problem for Some Dogs
 
-Chocolate is a food product made from roasted and processed cacao beans. Veterinary sources highlight several common forms:
+### Main compounds of concern
+- **Theobromine**, identified in all veterinary toxicology references as the primary toxic component.  
+- **Caffeine**, contributing additional stimulant effects.
 
-- **Dark chocolate** – typically highest in theobromine  
-- **Baker’s chocolate** – extremely concentrated  
-- **Milk chocolate** – lower concentration than dark  
-- **White chocolate** – contains little or no cocoa solids  
-- **Cocoa powder** – one of the most concentrated forms  
-- **Chocolate chips / baking mixes** – risk varies depending on ingredients  
+### Portion size and dog size
+Toxicology sources emphasise that even small amounts can cause illness, and smaller dogs are at greater risk from the same dose compared to larger dogs.
 
-Dogs may encounter chocolate in sweets, baked goods, holiday foods, drinks, and cocoa-based mixes.
+### Preparation differences
+Veterinary organisations consistently warn that:
+- **Dark chocolate** and **baking chocolate** contain the highest theobromine concentrations.  
+- **Cocoa powder** is among the most concentrated and dangerous forms.  
+- **Milk chocolate**, though lower in toxins, is still classified as unsafe.
 
----
-
-## Is Chocolate Safe for Dogs? (Short Answer)
-
-Veterinary organisations consistently classify chocolate as **toxic** to dogs.  
-According to information published by the **American Kennel Club (AKC)**, the **ASPCA Animal Poison Control Center (APCC)**, and the **Pet Poison Helpline**, chocolate contains compounds that dogs process very slowly, which may lead to adverse effects even at relatively small doses.
-
-Readers can review these sources directly:
-
-- AKC – *“Can Dogs Eat Chocolate?”*  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/
-
-- ASPCA Animal Poison Control Center – Toxic Foods  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
-- Pet Poison Helpline – Chocolate Toxicity  
-  https://www.petpoisonhelpline.com/pet-safety-tips/chocolate/
-
-Across these sources, chocolate is described as a **known canine toxin**, with severity depending on the type of chocolate and the dog’s size.
-
----
-
-## Why Chocolate Is Toxic to Dogs
-
-Chocolate contains two compounds often discussed in veterinary literature:
-
-### **Theobromine (primary toxin)**
-
-Theobromine is the main reason chocolate appears on toxic food lists.  
-According to multiple veterinary organisations:
-
-- Dogs metabolise theobromine **much more slowly** than humans.  
-- The compound can accumulate in their system.  
-- Higher concentrations are found in **dark chocolate**, **baker’s chocolate**, and **cocoa powder**.
-
-### **Caffeine**
-
-Caffeine occurs naturally in cacao beans alongside theobromine.  
-Pet Poison Helpline notes that both chemicals belong to a group of stimulants called **methylxanthines**, which can affect the cardiovascular and nervous systems in dogs.
-
-### **Differences Between Chocolate Types**
-
-Veterinary sources frequently rank chocolate by theobromine concentration, from highest to lowest:
-
-1. **Cocoa powder**  
-2. **Unsweetened/baker’s chocolate**  
-3. **Dark chocolate (various percentages)**  
-4. **Milk chocolate**  
-5. **White chocolate** (contains negligible cocoa solids)
-
-Because toxicity scales with concentration, **even small amounts** of high-theobromine chocolate may pose a greater risk.
-
-### **Dose, Body Weight, and Individual Sensitivity**
-
-Veterinary literature often notes that the risk varies based on:
-
-- the **amount** eaten  
-- the **dog’s weight**  
-- the **type** of chocolate  
-- whether the dog has **pre-existing conditions**
-
-For detailed dose calculations and clinical considerations, readers can consult the reference materials linked above.
-
----
-
-## Symptoms of Chocolate Poisoning
-
-Public-facing veterinary resources describe a range of symptoms associated with chocolate ingestion.  
-These may appear within a few hours and vary in severity depending on dose and chocolate type.
-
-### **Commonly Reported Early Symptoms**
+## Signs Reported When Dogs React Poorly to Chocolate
 
 - Vomiting  
-- Diarrhea  
-- Restlessness  
-- Panting  
-- Increased thirst  
-- Excessive urination  
+- Diarrhoea  
+- Restlessness or agitation  
+- Increased heart rate  
 
-### **Moderate to Severe Symptoms**
-
-- Elevated heart rate  
-- Irregular heartbeat  
+### More serious signs
 - Tremors  
-- Hyperactivity  
-
-### **Severe or Late-Stage Symptoms (reported in high-dose cases)**
-
 - Seizures  
-- Collapse  
-- In rare instances, complications may be life-threatening (as noted by ASPCA APCC & Pet Poison Helpline)
+- Irregular heartbeat  
 
-Readers seeking full clinical symptom lists may review:
+These signs are documented in toxicology summaries by VCA Hospitals and Merck Veterinary Manual.
 
-- ASPCA APCC chocolate toxicity overview  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets  
+## Ingredients or Additives to Watch For
 
-- Pet Poison Helpline – Chocolate Toxicity  
-  https://www.petpoisonhelpline.com/pet-safety-tips/chocolate/
+- ❌ **High cocoa content** (greater toxin concentration)  
+- ❌ **Xylitol** (found in some sugar-free chocolate products; highly toxic)  
+- ⚠️ **Added fats or sugar** (may worsen digestive issues)
 
----
+## Puppies vs. Adult Dogs
 
-## How Vets Typically Manage Chocolate Ingestion (According to Sources)
+Puppies are at higher risk because of their smaller body size and developing physiology. However, **all age groups** are vulnerable, and chocolate is classified as toxic for every dog regardless of age.
 
-Information published by veterinary hospitals, poison-control centres, and pet-safety organisations describes **commonly used approaches** when chocolate ingestion is reported.  
-These may include:
+## Other Common Variants of Chocolate
 
-- Gathering information on **type of chocolate**, **amount**, and **time eaten**  
-- Considering the dog’s **weight, age, and health status**  
-- Monitoring for symptoms over time  
-- Providing treatment measures depending on the situation  
+### Dark Chocolate
+Contains very high levels of theobromine and caffeine; considered **highly toxic**.
 
-The specific steps taken are determined by licensed veterinary professionals and may vary case to case.
+### Milk Chocolate
+Lower in toxins than dark chocolate but still unsafe.
 
-Readers can review examples of professional discussions here:
+### Cocoa Powder
+One of the most concentrated sources of theobromine; associated with severe toxicity in veterinary case reports.
 
-- Pet Poison Helpline – Chocolate toxicity treatment information  
-  https://www.petpoisonhelpline.com/pet-safety-tips/chocolate/  
+## Dog-Friendly Alternatives Mentioned in Pet-Nutrition Sources
 
-- VCA Animal Hospitals – Chocolate Poisoning in Dogs  
-  https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs  
+- Carrot sticks  
+- Blueberries  
+- Apple slices (seedless)  
+- Commercial dog treats  
 
-These resources describe how veterinary teams evaluate ingestion incidents and what factors influence treatment decisions.
+## Frequently Asked Questions (FAQ)
 
----
+> *This FAQ summarises themes appearing in veterinary pet-care articles.  
+> It is informational only and not a substitute for professional veterinary care.*
 
-## Preventing Accidental Chocolate Ingestion
+### Why is chocolate toxic to dogs?
+Chocolate contains theobromine and caffeine, which dogs cannot process effectively, leading to harmful stimulant effects.
 
-Pet-safety campaigns and veterinary organisations frequently emphasise prevention.  
-Examples of themes highlighted in their materials include:
+### Which chocolate is most dangerous?
+Dark chocolate, baking chocolate, and cocoa powder contain the highest toxin levels.
 
-- Keeping chocolate and cocoa-based products out of pets’ reach  
-- Being aware of chocolate in baked goods, holiday foods, and dessert mixes  
-- Ensuring that children and visitors understand that dogs should not be given chocolate  
-- Monitoring pets closely during events where chocolate is likely to be present (e.g. holidays)
+### Can dogs eat white chocolate?
+White chocolate contains very little theobromine but is still considered unsuitable due to sugar and fat content.
 
-Examples of prevention guidance may be found in:
+## Source Reference
 
-- ASPCA APCC – Pet Safety Resources  
-  https://www.aspca.org/pet-care/animal-poison-control  
+This page compiles information from publicly accessible veterinary and pet-safety resources, including:
 
-- AVMA – Household Hazards  
-  https://www.avma.org/resources/pet-owners/petcare/household-hazards
+- **ASPCA** — “People Foods to Avoid Feeding Your Pet”  
+  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
 
----
-
-## Dog-Friendly Alternatives Mentioned by Veterinary Sources
-
-Some veterinary nutrition resources and pet-care articles mention alternative treats that are considered dog-appropriate when used in moderation and suited to a dog’s individual needs.
-
-Commonly mentioned alternatives include:
-
-- **Carob** – often used in dog-safe treats as a chocolate substitute  
-- **Commercial dog biscuits** formulated for canine nutrition  
-- **Peanut butter** products without added sugar or artificial sweeteners  
-
-Suitability depends on the dog’s dietary needs and any underlying medical conditions. Veterinary sources generally advise discussing individual treat choices with a licensed professional.
-
----
-
-## Frequently Asked Questions About Dogs and Chocolate
-
-> *This FAQ summarises themes commonly found across veterinary information websites and animal poison-control resources.  
-> It is not veterinary advice and is intended only as a general informational reference.*
-
-### **Is white chocolate dangerous for dogs?**
-
-Veterinary sources note that white chocolate contains very little theobromine.  
-However, many sources still classify it as **unsafe** due to its high fat and sugar content and the possibility of contamination with cocoa solids in some products.  
-Readers can review further information at:
-
-- Pet Poison Helpline – Chocolate Types  
-  https://www.petpoisonhelpline.com/pet-safety-tips/chocolate/
-
-### **Does dark chocolate pose a greater risk?**
-
-Yes. According to AKC and Pet Poison Helpline, dark chocolate and cocoa powder contain **significantly higher** concentrations of theobromine, which is the primary toxic component.
-
-### **What if a dog ate chocolate several hours ago?**
-
-Some poison-control resources note that signs of chocolate ingestion may appear later and that timing can affect case management.  
-Readers may consult the examples here:
-
-- VCA Animal Hospitals – Chocolate Poisoning  
+- **VCA Hospitals** — “Chocolate Poisoning in Dogs”  
   https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
 
-### **How much chocolate is considered dangerous?**
+- **Merck Veterinary Manual** — “Chocolate Toxicosis in Animals”  
+  https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals
 
-Toxicity thresholds depend heavily on:
+- **Cornell University College of Veterinary Medicine** — “Chocolate Toxicity: What Should I Do If My Dog Eats Chocolate?”  
+  https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate
 
-- the **type** of chocolate  
-- the **amount** consumed  
-- the **dog’s weight**  
-
-Dose tables and calculators may be found in the Pet Poison Helpline and VCA resources linked above.
-
-### **Does baking with chocolate products pose a risk?**
-
-Yes. Veterinary organisations highlight baking chocolate, cocoa powder, and concentrated mixes as some of the **highest-risk** sources of theobromine exposure.
-
----
-
-## Source References
-
-This page compiles publicly available information from the following veterinary and pet-safety organisations:
-
-- **American Kennel Club (AKC)** – “Can Dogs Eat Chocolate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/
-
-- **ASPCA Animal Poison Control Center** – Toxic Foods List  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
-- **Pet Poison Helpline** – Chocolate Toxicity  
-  https://www.petpoisonhelpline.com/pet-safety-tips/chocolate/
-
-- **VCA Animal Hospitals** – Chocolate Poisoning in Dogs  
-  https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
-
-Readers are encouraged to review the original materials directly.  
-For any concerns about a specific dog, veterinary sources generally direct individuals to contact a **licensed veterinarian** or an **animal poison-control helpline**.
-
----
-
-## Related Guides
-
-- [Is Coffee Safe for Dogs?](/coffee)  
-- [Is Cocoa Powder Safe for Dogs?](/cocoa-powder)  
-- [Is White Chocolate Safe for Dogs?](/white-chocolate)
+This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -46,3 +46,8 @@
 
 /* Example: Highlight the word "Toxic" if it appears in bold? */
 /* (This is harder in pure CSS, stick to general tag styling) */
+
+/* Target paragraphs inside the prose class */
+.prose p {
+  margin-bottom: 1.5rem; /* Adjust this value (e.g., 20px, 2rem, etc.) */
+}
