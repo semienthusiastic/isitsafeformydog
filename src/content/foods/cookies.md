@@ -1,82 +1,78 @@
 ---
-name: "Biscuits (Cookies)"
+name: "Cookies"
 category: ["Sweets", "Snacks"]
 status: Caution
 image: "/images/cookies.jpg"
-description: "Veterinary nutrition sources generally classify cookies as unsuitable for dogs due to high sugar, fat, and the frequent presence of ingredients that are toxic or harmful to dogs."
-source: ["AKC", "PetMD"]
-sourceUrl: [
-  "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/",
-  "https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies"
-]
-keywords: ["cookies", "biscuits", "can dogs eat cookies", "dog safety", "cookies dogs"]
-shortAnswer: ["Caution: cookies are not considered safe foods for dogs. Veterinary sources explain that cookies are high in sugar and fat and often contain ingredients like chocolate, raisins, or xylitol, which can be harmful or toxic to dogs."]
+description: "Veterinary pet-care sources state that cookies are not a single toxic food, but many cookies contain ingredients such as chocolate, xylitol, raisins, or high sugar and fat levels that are associated with health risks for dogs."
+source: ["AKC", "PetMD", "ASPCA"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies", "https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat"]
+keywords: ["cookies", "can dogs eat cookies", "dog safety", "cookies dogs"]
+shortAnswer: ["Caution: the food is not toxic, but there are risks. Cookies are not a single toxic item, but veterinary sources note that many cookies contain ingredients like chocolate, xylitol, or raisins that are toxic to dogs. Even plain cookies are high in sugar and fat, which can cause digestive upset."]
 ---
 
-## Are Biscuits (Cookies) Safe for Dogs?
+## Are Cookies Safe for Dogs?
 
-According to the AKC, **cookies are not a suitable food for dogs**. While plain baked goods are not inherently poisonous, cookies are typically high in sugar and fat and may include ingredients that veterinary organisations classify as unsafe.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/
+Veterinary pet-care sources including the American Kennel Club and PetMD explain that **cookies are not inherently a single toxic food**, but they are commonly unsuitable for dogs. This is because cookies are typically made with ingredients that are either harmful or nutritionally inappropriate for dogs.
 
-PetMD similarly reports that cookies provide no nutritional benefit for dogs and frequently contain chocolate, raisins, nuts, or artificial sweeteners, all of which may pose risks.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies
+Veterinary literature consistently places cookies in a **caution category**. The overall risk depends heavily on the recipe and ingredients rather than on cookies as a general concept.
 
-Across veterinary nutrition guidance, cookies are consistently classified with **caution**, primarily due to ingredient-related concerns rather than the baked product itself.
+Across authoritative sources, cookies are discussed as a food that often combines multiple concerns in one item.
 
-## Why Biscuits (Cookies) Can Be a Problem for Some Dogs
+## Why Cookies Can Be a Problem for Some Dogs
 
-### Main considerations
-- **High sugar content**: May contribute to digestive upset, weight gain, and dental issues.  
-- **High fat content**: Linked in veterinary literature to gastrointestinal upset and pancreatitis.  
-- **Unsafe ingredients**: Chocolate, raisins, macadamia nuts, and xylitol are commonly found in cookies.
+### Main factors of concern
+- **Chocolate**, commonly used in cookies and classified as toxic to dogs by veterinary toxicology sources.  
+- **Xylitol**, an artificial sweetener used in some baked goods and classified as toxic to dogs.  
+- **Raisins**, which veterinary sources associate with kidney failure in dogs.  
+- **High sugar and fat content**, frequently linked to digestive upset and weight-related concerns.
 
 ### Portion size and dog size
-Smaller dogs may be more affected by sugar and fat intake because even small pieces can represent a large relative amount.
+Veterinary articles note that small dogs are particularly vulnerable to ingredient toxicity due to lower body weight, but rich foods can cause problems in dogs of all sizes.
 
 ### Preparation differences
-Veterinary sources distinguish between:
-- **Plain, unsweetened biscuits** (still not nutritionally appropriate)  
-- **Sweet cookies** (high sugar and fat)  
-- **Sugar-free cookies** (may contain xylitol, which is highly toxic)
+Veterinary sources distinguish between **plain baked goods** and cookies containing chocolate, nuts, dried fruit, or sugar substitutes, with added ingredients significantly increasing risk.
 
-## Signs Reported When Dogs React Poorly to Biscuits (Cookies)
+## Signs Reported When Dogs React Poorly to Cookies
 
-- Vomiting  
+Veterinary sources commonly associate cookie ingestion with:
+
 - Diarrhoea  
-- Gas  
+- Vomiting  
+- Abdominal discomfort  
 
 ### More serious signs
-- Tremors or agitation (linked to chocolate ingestion)  
-- Weakness or collapse (linked to xylitol exposure)
+- Tremors or seizures (linked to chocolate exposure)  
+- Weakness or collapse (associated with xylitol ingestion)  
+- Signs of kidney failure (linked to raisins)
 
 ## Ingredients or Additives to Watch For
 
-- ❌ **Chocolate or cocoa** (toxic to dogs)  
-- ❌ **Raisins or currants** (classified as toxic)  
-- ❌ **Xylitol** (highly toxic sweetener)  
-- ⚠️ **Macadamia nuts** (toxic to dogs)
+- ❌ **Chocolate or cocoa**  
+- ❌ **Xylitol** (sometimes listed as birch sugar)  
+- ❌ **Raisins or currants**  
+- ⚠️ **Nuts** (some nuts are toxic or difficult to digest)  
+- ⚠️ **High fat ingredients** (butter, oils, shortening)
 
 ## Puppies vs. Adult Dogs
 
-Veterinary sources do not classify cookies differently for puppies and adult dogs. However, puppies may be more sensitive to sugar, fat, and toxic ingredients due to their smaller size.
+Veterinary sources indicate that **puppies may be at higher risk** due to smaller body size and developing digestive systems. Ingredient-related risks apply to dogs of all ages.
 
-## Other Common Variants of Biscuits (Cookies)
+## Other Common Variants of Cookies
 
 ### Chocolate Chip Cookies
-Contain chocolate, which veterinary toxicology sources classify as toxic to dogs.
+Veterinary references consistently classify these as unsafe due to chocolate content.
 
 ### Sugar-Free Cookies
-May contain xylitol, which is considered extremely dangerous for dogs.
+Veterinary sources highlight xylitol as a major concern in sugar-free baked goods.
 
 ### Homemade Cookies
-Safety depends entirely on ingredients; many commonly used baking ingredients are unsuitable.
+Veterinary literature notes that homemade cookies may still contain sugar, butter, or other unsuitable ingredients.
 
 ## Dog-Friendly Alternatives Mentioned in Pet-Nutrition Sources
 
-- Plain dog biscuits formulated for dogs  
-- Carrot sticks  
-- Apple slices (seedless)  
-- Commercial dog treats  
+- Commercial dog treats formulated for canine diets  
+- Plain fruit without seeds or pits  
+- Plain vegetables such as carrots  
 
 ## Frequently Asked Questions (FAQ)
 
@@ -84,22 +80,25 @@ Safety depends entirely on ingredients; many commonly used baking ingredients ar
 > It is informational only and not a substitute for professional veterinary care.*
 
 ### Are cookies toxic to dogs?
-Cookies themselves are not inherently toxic, but many contain ingredients that are.
+Veterinary sources do not classify all cookies as toxic, but they highlight frequent ingredient-related dangers.
 
-### Why is chocolate such a concern?
-Chocolate contains theobromine and caffeine, which dogs metabolise slowly and which can cause serious harm.
+### Why are chocolate and xylitol such a concern in cookies?
+Pet-safety organisations classify chocolate and xylitol as toxic to dogs, and both are common cookie ingredients.
 
-### Are dog biscuits different from human cookies?
-Yes. Dog biscuits are formulated specifically for dogs and do not include toxic ingredients.
+### Are plain cookies safer than flavoured cookies?
+Veterinary articles note that plain cookies remove some toxic ingredient risks but still contain high sugar and fat levels.
 
 ## Source Reference
 
 This page compiles information from publicly accessible veterinary and pet-safety resources, including:
 
-- **AKC** — “Can Dogs Eat Cookies?”  
+- **American Kennel Club (AKC)** — “Can Dogs Eat Cookies?”  
   https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/
 
 - **PetMD** — “Can Dogs Eat Cookies?”  
   https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies
 
-This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.
+- **ASPCA** — “People Foods Pets Should Never Eat”  
+  https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat
+
+This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.
