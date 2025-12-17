@@ -1,6 +1,6 @@
 ---
 name: "Clams"
-category: ["Seafood"]
+category: ["Fish & Seafood"]
 status: Caution
 image: "/images/clams.jpg"
 description: "Veterinary pet-care sources state that clams are not toxic to dogs, but risks are associated with preparation, spoilage, sodium content, and naturally occurring marine toxins."

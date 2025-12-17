@@ -1,6 +1,6 @@
 ---
 name: "Basil"
-category: ["Herbs and Spices"]
+category: ["Herbs & Spices"]
 status: Safe
 image: "/images/basil.jpg"
 description: "Veterinary nutrition sources generally classify basil as non-toxic to dogs, noting that plain, fresh basil is usually well tolerated in small amounts."

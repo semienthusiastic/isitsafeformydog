@@ -1,6 +1,6 @@
 ---
 name: "Anchovies"
-category: ["Seafood", "Pantry", "Fish"]
+category: ["Fish & Seafood", "Pantry"]
 status: Caution
 image: "/images/anchovies.jpg"
 description: "Veterinary organisations generally describe anchovies as non-toxic to dogs, while noting concerns around salt content, preparation methods, and small bones."

@@ -1,6 +1,6 @@
 ---
 name: "Fish Sticks"
-category: ["Seafood", "Frozen"]
+category: ["Fish & Seafood", "Frozen"]
 status: Caution
 image: "/images/fish-sticks.jpg"
 description: "Veterinary and pet-nutrition sources generally describe plain fish as safe for dogs, but classify fish sticks as a food of concern due to breading, added salt, oils, and seasoning."

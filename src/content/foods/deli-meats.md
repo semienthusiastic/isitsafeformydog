@@ -1,6 +1,6 @@
 ---
 name: "Deli Meats"
-category: ["Meats"]
+category: ["Meat"]
 status: Caution
 image: "/images/deli-meats.jpg"
 description: "Veterinary pet-care sources state that deli meats are not toxic to dogs, but they are typically high in sodium, fat, and preservatives that are associated with digestive upset and other health concerns."

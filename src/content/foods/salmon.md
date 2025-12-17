@@ -1,6 +1,6 @@
 ---
 name: "Salmon"
-category: ["Meat", "Fish", "Seafood"]
+category: ["Fish & Seafood"]
 status: Caution
 image: "/images/salmon.jpg"
 description: "Veterinary organisations note that cooked, plain salmon is generally safe for dogs, but raw salmon can contain parasites and bacteria that may cause serious illness."
