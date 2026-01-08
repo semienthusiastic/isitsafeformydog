@@ -1,6 +1,6 @@
 ---
 name: "Scallops"
-category: ["Seafood"]
+category: ["Fish & Seafood"]
 status: Caution
 image: "/images/scallops.jpg"
 description: "Veterinary and pet-nutrition sources describe scallops as not toxic to dogs when plain and fully cooked, while noting risks related to preparation methods, high cholesterol, and additives commonly used in seafood dishes."
