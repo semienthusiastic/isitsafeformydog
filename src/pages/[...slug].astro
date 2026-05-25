@@ -32,6 +32,7 @@ const verb = isPlural ? "Are" : "Is";
 
 // 2. SEO Title Construction
 const seoTitle = `Can Dogs Eat ${entry.data.name}?`;
+const pageTitle = entry.data.metaTitle ?? `${seoTitle} | Is It Safe?`;
 
 // 3. Generate Share Links
 const currentUrl = new URL(Astro.url.pathname, Astro.site);
@@ -80,7 +81,7 @@ const relatedPosts = allFoods
     
     <!-- Basic SEO -->
     <!-- UPDATED: Uses the question format "Can Dogs Eat X?" -->
-    <title>{seoTitle} | Is It Safe?</title>
+    <title>{pageTitle}</title>
     <meta name="description" content={entry.data.description} />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
@@ -112,7 +113,7 @@ const relatedPosts = allFoods
           <div class="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 text-sm mb-4">
               <a href="/" class="text-blue-500 hover:underline">&larr; Back to Search</a>
               <div class="flex flex-wrap gap-2">
-                {entry.data.category.map(cat => (
+                {(entry.data.category ?? []).map(cat => (
                   <a 
                     href={`/category/${cat.toLowerCase().replace(/\s+/g, '-')}`} 
                     class="text-xs font-bold uppercase tracking-wider bg-gray-100 text-gray-600 px-2 py-1 rounded hover:bg-blue-100 hover:text-blue-600 transition-colors"
