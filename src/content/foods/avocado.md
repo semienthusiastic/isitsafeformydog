@@ -5,7 +5,7 @@ status: Toxic
 image: "/images/avocado.jpg"
 description: "Veterinary toxicology sources classify avocado as unsafe for dogs because the plant contains persin and the pit presents a physical obstruction risk."
 source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/avocado", "https://www.petpoisonhelpline.com/avocado", "https://www.akc.org/avocado"]
+sourceUrl: ["https://www.aspca.org/avocado", "https://www.petpoisonhelpline.com/avocado", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-avocado/"]
 keywords: ["avocado", "can dogs eat avocado", "dog safety", "avocado dogs"]
 shortAnswer: ["No, avocado is toxic to dogs and should not be eaten. Veterinary organisations such as the ASPCA and Pet Poison Helpline warn that avocado contains persin and that the pit can cause choking or blockage. The AKC also notes that the plant parts contain higher levels of persin and that the flesh is still considered a food of concern."]
 ---

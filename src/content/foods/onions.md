@@ -8,7 +8,7 @@ source: ["ASPCA", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospita
 sourceUrl: [
   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion",
   "https://www.petpoisonhelpline.com/poison/onions/",
-  "https://www.merckvetmanual.com/toxicology/food-hazards/onion-and-garlic-toxicity-in-animals",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
   "https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs"
 ]
 keywords: ["onions", "can dogs eat onions", "dog safety", "onions dogs"]
@@ -21,7 +21,7 @@ Veterinary organisations, including the ASPCA and Pet Poison Helpline, classify 
 Source: https://www.petpoisonhelpline.com/poison/onions/
 
 The Merck Veterinary Manual explains that toxicity can occur from raw, cooked, or powdered onion, and that onion powder found in processed foods is a particularly common source of exposure.  
-Source: https://www.merckvetmanual.com/toxicology/food-hazards/onion-and-garlic-toxicity-in-animals
+Source: https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals
 
 VCA Hospitals notes that clinical signs may not appear for several days after ingestion, but damage to red blood cells begins earlier.  
 Source: https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs
@@ -107,7 +107,7 @@ This page compiles information from publicly accessible veterinary and pet-safet
   https://www.petpoisonhelpline.com/poison/onions/
 
 - **Merck Veterinary Manual** — “Onion and Garlic Toxicity in Animals”  
-  https://www.merckvetmanual.com/toxicology/food-hazards/onion-and-garlic-toxicity-in-animals
+  https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals
 
 - **VCA Hospitals** — “Onion Toxicity in Dogs”  
   https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs
