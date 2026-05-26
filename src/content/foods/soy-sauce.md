@@ -8,7 +8,7 @@ description: "Soy sauce is too salty for dogs and can cause salt poisoning in la
 source: ["ASPCA", "Pet Poison Helpline", "AKC", "Merck Veterinary Manual"]
 sourceUrl: [
   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
-  "https://www.petpoisonhelpline.com/poison/salt/",
+  "https://www.petpoisonhelpline.com/",
   "https://www.akc.org/expert-advice/nutrition/is-salt-bad-for-dogs/",
   "https://www.merckvetmanual.com/toxicology/salt-toxicosis/salt-toxicosis-in-animals"
 ]
