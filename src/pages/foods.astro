@@ -1,0 +1,71 @@
+---
+import '../styles/global.css';
+import SearchHeader from '../components/SearchHeader.astro';
+import Footer from '../components/Footer.astro';
+import GA from '../components/GoogleAnalytics.astro';
+import { getCollection } from 'astro:content';
+
+const allFoods = await getCollection('foods');
+
+const sorted = [...allFoods].sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+const grouped: Record<string, typeof sorted> = {};
+for (const food of sorted) {
+  const cat = food.data.category[0];
+  if (!grouped[cat]) grouped[cat] = [];
+  grouped[cat].push(food);
+}
+
+const categories = Object.keys(grouped).sort();
+
+const statusColors: Record<string, string> = {
+  Safe: 'bg-green-100 text-green-800',
+  Caution: 'bg-yellow-100 text-yellow-800',
+  Toxic: 'bg-red-100 text-red-800',
+  Emergency: 'bg-red-600 text-white',
+};
+---
+
+<html lang="en">
+  <head>
+    <GA id="G-EYN5ZFZK56" />
+    <title>All Foods | Is It Safe For My Dog?</title>
+    <meta name="description" content="Browse every dog food safety guide on Is It Safe For My Dog? — grouped by category and sorted A–Z." />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
+
+    <SearchHeader />
+
+    <main class="max-w-4xl mx-auto px-4 py-8 w-full flex-grow">
+
+      <div class="bg-white shadow-sm rounded-lg p-8">
+        <a href="/" class="text-sm text-blue-500 hover:underline mb-6 inline-block">&larr; Home</a>
+
+        <h1 class="text-3xl font-extrabold text-blue-900 mb-2">All Foods</h1>
+        <p class="text-gray-600 mb-8">Every food guide on the site, grouped by category and sorted A–Z. Updated automatically as new guides are added.</p>
+
+        {categories.map(cat => (
+          <section class="mb-8">
+            <h2 class="text-lg font-bold text-blue-900 border-b border-gray-200 pb-2 mb-3">{cat}</h2>
+            <ul class="space-y-1">
+              {grouped[cat].map(food => (
+                <li class="flex items-center justify-between py-1">
+                  <a href={`/${food.slug}/`} class="text-blue-700 hover:underline text-sm font-medium">{food.data.name}</a>
+                  <span class={`px-2 py-0.5 rounded-full text-[10px] font-bold uppercase ${statusColors[food.data.status]}`}>
+                    {food.data.status}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+
+      </div>
+
+    </main>
+
+    <Footer />
+  </body>
+</html>
