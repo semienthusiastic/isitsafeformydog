@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import SearchHeader from '../components/SearchHeader.astro';
+import Footer from '../components/Footer.astro';
+import GA from '../components/GoogleAnalytics.astro';
+---
+
+<html lang="en">
+  <head>
+    <GA id="G-EYN5ZFZK56" />
+    <title>About | Is It Safe For My Dog?</title>
+    <meta name="description" content="The story behind Is It Safe For My Dog? — a clear, honest, properly sourced dog food safety resource written by a lifelong dog owner with a background in research and education." />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
+
+    <SearchHeader />
+
+    <main class="max-w-4xl mx-auto px-4 py-8 w-full flex-grow">
+
+      <div class="bg-white shadow-sm rounded-lg p-8">
+        <a href="/" class="text-sm text-blue-500 hover:underline mb-6 inline-block">&larr; Home</a>
+
+        <article class="prose prose-lg text-gray-800 prose-headings:text-blue-900 max-w-none">
+
+          <h1>About Is It Safe For My Dog?</h1>
+
+          <h2>Why this site exists</h2>
+
+          <p>Like a lot of dog owners, I've spent more time than I'd care to admit standing in the kitchen, holding something, wondering: <em>can the dog have a bit of this?</em></p>
+
+          <p>The honest answer is usually online somewhere — but finding it is harder than it should be. Search "can dogs eat [anything]" and you get a wall of pages that are either vague ("it depends!"), alarmist ("NEVER feed your dog this!"), or padded with so much filler that the actual answer is buried six paragraphs down. Worse, many of them don't agree with each other, and very few tell you <em>how much</em> matters — which, as it turns out, is usually the whole question.</p>
+
+          <p>I wanted a resource that just answered the question: clearly, quickly, and honestly. Is it safe or not? Why? How much is too much? What do I actually do if my dog already ate it? When I couldn't find one I trusted, I decided to build it.</p>
+
+          <h2>Who's behind it</h2>
+
+          <p>This site is written and maintained under the name <strong>Claire Donnelly</strong>. I'm a lifelong dog owner — I've never really known life without a dog in the house, and like most owners I think of them squarely as family. That's the lens the whole site is written through: I want to enrich a dog's life through food, treats, and play <em>without</em> accidentally putting them at risk.</p>
+
+          <p>My background is in scientific research and education — a little over two decades of it. I'm not a vet, and this site never pretends to be one (more on exactly how we handle that below). But that background shapes how every page here is made: a habit of going to primary sources, reading them carefully, distinguishing what the evidence actually says from what gets repeated around the internet, and being honest about uncertainty. The same instinct that makes me check a citation is what makes me uncomfortable with the "never feed your dog X or it will die" tone that dominates this topic — because it's usually not true, and overstating risk is its own kind of misinformation.</p>
+
+          <h2>How we try to be useful</h2>
+
+          <p>Every food guide on this site aims to do three things the rushed version online usually doesn't:</p>
+
+          <ul>
+            <li><strong>Give a clear answer</strong>, not a hedge.</li>
+            <li><strong>Explain the dose</strong> — because "toxic" almost always depends on how much, and a stray lick is rarely the same as a real serving.</li>
+            <li><strong>Tell you what to do next</strong>, including when something is genuinely an emergency and when it isn't.</li>
+          </ul>
+
+          <p>We compile our information from published veterinary and toxicology sources and cross-check the specifics before publishing. Exactly how we do that — and the limits of what this site can be — is set out on our <a href="/editorial-standards/">Editorial Standards</a> page, which is worth a read if you want to know how much to trust what you find here.</p>
+
+          <h2>A word on what this site is not</h2>
+
+          <p>This site is an information resource, not a veterinary service. It can help you understand a hazard and make a calmer, better-informed decision — but it can't examine your dog, and it doesn't replace your vet, who knows your individual animal's size, age, and health. If your dog is unwell or you think they've eaten something dangerous, please contact your vet or a local animal poison service. We'll always tell you when something warrants that call.</p>
+
+          <h2>Get in touch</h2>
+
+          <p>Questions, corrections, or a food you'd like us to cover? You can reach the operator of isitsafeformydog.com at <strong>[CONTACT EMAIL]</strong>. We genuinely welcome corrections — if you spot something on this site that's wrong or out of date, telling us makes the resource better for the next worried owner standing in their kitchen.</p>
+
+        </article>
+      </div>
+
+    </main>
+
+    <Footer />
+  </body>
+</html>

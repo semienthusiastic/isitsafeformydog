@@ -1,0 +1,84 @@
+---
+import '../styles/global.css';
+import SearchHeader from '../components/SearchHeader.astro';
+import Footer from '../components/Footer.astro';
+import GA from '../components/GoogleAnalytics.astro';
+---
+
+<html lang="en">
+  <head>
+    <GA id="G-EYN5ZFZK56" />
+    <title>Editorial Standards | Is It Safe For My Dog?</title>
+    <meta name="description" content="How we research, write, and fact-check our dog food safety guides — our sources, our cross-checking process, and the limits of what this site can be." />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
+
+    <SearchHeader />
+
+    <main class="max-w-4xl mx-auto px-4 py-8 w-full flex-grow">
+
+      <div class="bg-white shadow-sm rounded-lg p-8">
+        <a href="/" class="text-sm text-blue-500 hover:underline mb-6 inline-block">&larr; Home</a>
+
+        <article class="prose prose-lg text-gray-800 prose-headings:text-blue-900 max-w-none">
+
+          <h1>Editorial Standards</h1>
+
+          <p>This page explains how the guides on <em>Is It Safe For My Dog?</em> are researched, written, and checked — and, just as importantly, what the limits of this site are. We'd rather be clear about our process than ask you to take our word for it.</p>
+
+          <h2>We are not veterinarians</h2>
+
+          <p>Let's start with the most important thing. This site is an information resource compiled from published veterinary and toxicology sources. It is <strong>not</strong> a veterinary service, and nothing on it is a substitute for professional veterinary advice. We can help you understand a hazard and decide how worried to be; we cannot examine your dog. Your vet knows your individual animal — its size, age, history, and health — and that context can change everything. <strong>If your dog is unwell, or you believe they've eaten something dangerous, contact your vet or a local animal poison service.</strong> Each guide tells you when a situation warrants that call.</p>
+
+          <h2>Where our information comes from</h2>
+
+          <p>We build each guide from published, publicly accessible veterinary and toxicology sources. The ones we lean on most often are:</p>
+
+          <ul>
+            <li>The <strong>ASPCA Animal Poison Control Center</strong></li>
+            <li>The <strong>Pet Poison Helpline</strong></li>
+            <li>The <strong>Merck Veterinary Manual</strong> (including its toxicology sections)</li>
+            <li>The <strong>American Kennel Club (AKC)</strong></li>
+            <li><strong>VCA Hospitals</strong></li>
+          </ul>
+
+          <p>Where a guide cites a specific figure — a toxic dose, a sodium content, an onset time — we name the source it came from, and we link to it so you can read the original yourself.</p>
+
+          <h2>We cross-check the specifics</h2>
+
+          <p>Single sources can be wrong, out of date, or oversimplified. So for the claims that matter — especially anything involving a dose or a real safety threshold — we check the figure against more than one authoritative source before publishing. When sources disagree, or when a precise figure isn't available and we've had to reason from the numbers that <em>are</em> published, we say so plainly rather than presenting an estimate as established fact.</p>
+
+          <h2>We report the real risk, not the scariest version</h2>
+
+          <p>Most "is it safe" content online has one of two problems: it's too vague to be useful, or it's alarmist to the point of being misleading. We try hard to avoid both.</p>
+
+          <p>For a great many foods, the honest answer isn't "deadly poison" or "totally fine" — it's "it depends on how much, and on your dog." So our guides aim to give you the <strong>dose context</strong>: roughly how much it takes to matter, how that scales with your dog's size, and the difference between a stray lick and a real serving. Overstating risk might seem harmless, but it isn't — it causes needless panic, it buries the genuinely dangerous cases among the trivial ones, and over time it teaches people to stop trusting safety information altogether. We'd rather tell you the truth: that a crumb is usually fine, <em>and</em> that there's no good reason to make a habit of it.</p>
+
+          <p>When something <strong>is</strong> genuinely dangerous — a true toxin, or a time-sensitive emergency — we say so clearly and without hedging, and we tell you what to do.</p>
+
+          <h2>We keep our sources alive</h2>
+
+          <p>Links rot. Authorities reorganise their websites; pages move or disappear. We periodically check that the sources we cite still resolve, and we update or replace links that have broken. A dead link to a source you can't verify is worse than useful, and we'd rather a guide cite one solid, working reference than several that lead nowhere. If you find a broken or incorrect link on the site, please tell us.</p>
+
+          <h2>Corrections</h2>
+
+          <p>We get things wrong sometimes — everyone does — and we'd much rather know. If you spot an error, an out-of-date figure, or a source that no longer checks out, email <strong>[CONTACT EMAIL]</strong> and we'll review it. Accuracy on a topic like this matters more than ego, and reader corrections genuinely make the site better.</p>
+
+          <h2>Independence and honesty about money</h2>
+
+          <p>Being upfront about this is part of being trustworthy. This site may earn revenue through advertising and through affiliate links (for example, the Amazon Associates programme), where we may receive a small commission if you buy something via a link here, at no extra cost to you. This <strong>never</strong> changes our safety assessments. Whether a food is safe for a dog is a matter of veterinary evidence, not commercial interest, and we will never label something safe — or unsafe — to suit an advertiser or earn a commission. Our full data and privacy practices are described in our <a href="/privacy-policy/">Privacy Policy</a>.</p>
+
+          <h2>In short</h2>
+
+          <p>We try to be the resource we wished existed: clear, honest, properly sourced, calibrated to the real level of risk, and upfront about what we are and aren't. We're not your vet — but we hope we're a trustworthy first stop on the way to a calmer, better-informed decision.</p>
+
+        </article>
+      </div>
+
+    </main>
+
+    <Footer />
+  </body>
+</html>
