@@ -52,7 +52,7 @@ const statusColors: Record<string, string> = {
             <ul class="space-y-1">
               {grouped[cat].map(food => (
                 <li class="flex items-center justify-between py-1">
-                  <a href={`/${food.slug}/`} class="text-blue-700 hover:underline text-sm font-medium">{food.data.name}</a>
+                  <a href={`/${food.id}/`} class="text-blue-700 hover:underline text-sm font-medium">{food.data.name}</a>
                   <span class={`px-2 py-0.5 rounded-full text-[10px] font-bold uppercase ${statusColors[food.data.status]}`}>
                     {food.data.status}
                   </span>
