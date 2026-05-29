@@ -1,108 +1,97 @@
 ---
 name: "Tomato Paste"
+metaTitle: "Can Dogs Eat Tomato Paste? Plain vs. Seasoned & the Real Risks | Is It Safe For My Dog"
 category: ["Pantry"]
 status: Caution
 image: "/images/tomato-paste.jpg"
-description: "Tomato paste is not considered toxic to dogs, but veterinary sources note concerns related to acidity, concentration, and added ingredients such as salt found in many commercial products."
-source: ["AKC", "PetMD", "VCA Hospitals"]
+description: "Plain tomato paste is not toxic to dogs and poses little real risk in small amounts. The concern is seasoned paste — garlic and onion powder in flavoured varieties are a genuine allium hazard. Check the label."
+source: ["American Kennel Club", "PetMD", "ASPCA"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/",
   "https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes",
-  "https://vcahospitals.com/know-your-pet/tomato-toxicity-in-dogs"
+  "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/tomato-plant"
 ]
-keywords: ["tomato paste", "can dogs eat tomato paste", "tomatoes dogs", "tomato paste dog safety"]
-shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources such as the AKC and PetMD state that ripe tomatoes are not toxic to dogs, but concentrated tomato products like tomato paste may cause digestive upset due to acidity and added ingredients. VCA Hospitals also notes that tomato plant parts are toxic, which contributes to caution around tomato-based foods."]
+keywords: ["can dogs eat tomato paste", "tomato paste dogs", "dog ate tomato paste", "is tomato paste safe for dogs", "seasoned tomato paste dogs", "garlic tomato paste dogs", "tomato paste sodium dogs"]
+shortAnswer: ["Plain tomato paste is not toxic to dogs. Tomato paste is made from ripe tomatoes, and ripe tomatoes contain only trace levels of the compounds (solanine/tomatine) that make green tomato plant parts harmful — and those levels drop further in paste. The real question is what else is in the can: seasoned pastes often contain garlic powder or onion powder, which are allium toxins and a categorically more serious hazard. Always check the label before anything else."]
 ---
 
 ## Is Tomato Paste Safe for Dogs?
 
-Veterinary and pet-nutrition sources generally agree that **tomato paste is not toxic to dogs**, but it is commonly discussed under a **caution classification**. The AKC and PetMD both explain that **ripe tomato flesh is not considered toxic**, while unripe tomatoes and tomato plant parts contain compounds of concern.
+The answer depends almost entirely on what is in the paste — specifically, whether it is plain or seasoned.
 
-Tomato paste differs from fresh tomatoes because it is a **highly concentrated and processed product**, often containing added salt or preservatives.
+**Plain tomato paste** is not toxic to dogs. It is made from ripe tomatoes, and ripe tomato flesh is consistently classified as non-toxic by veterinary sources. The compounds that make tomato plants a concern — solanine and tomatine — are concentrated in the leaves, stems, and unripe (green) fruit. As tomatoes ripen, tomatine levels drop significantly (PetMD). Paste made from fully ripe tomatoes does not concentrate a meaningful dose of either compound.
 
-## Why Tomato Paste Can Be a Problem for Some Dogs
+**Seasoned tomato paste** — "Italian-style," "garlic & herb," or any flavoured variant — is a categorically different product. These frequently contain garlic powder, onion powder, or both. Garlic and onions are allium toxins that cause haematological damage in dogs: oxidative red blood cell destruction leading to haemolytic anaemia. This is a different and more serious hazard class than anything inherent to tomato, and garlic powder in particular is far more concentrated than fresh garlic. **Check the label before anything else.**
 
-### Main concerns noted by veterinary sources
+For the broader picture on tomatoes as a food, see the [tomatoes](/tomatoes/) page.
 
-- **Acidity**, which may irritate the digestive system  
-- **High concentration**, compared with fresh tomatoes  
-- **Added salt or preservatives**, commonly present in commercial tomato paste  
+## The Solanine/Tomatine Question — and Why It Doesn't Apply to Paste
 
-### Tomato plant toxicity context
+Tomato plants belong to the nightshade family, and this generates a lot of alarming content online. The accurate picture is more straightforward.
 
-VCA Hospitals explains that tomato plants contain solanine-like compounds that are toxic to dogs. While tomato paste is made from ripe tomatoes and does not contain plant parts, this distinction is frequently highlighted in veterinary discussions.
+The toxic compounds — tomatine (the primary one) and solanine — are concentrated in the green parts of the plant: leaves, stems, and unripe fruit. All three sources used for this guide agree on this, and all three agree that ripe tomato flesh is non-toxic. The ASPCA lists ripe fruit as non-toxic when discussing the tomato plant. PetMD explains that tomatine "drops significantly" as the fruit ripens. The AKC confirms these toxins are "found mostly in the green parts of the tomato plant."
 
-### Preparation differences
+Tomato paste is made from fully ripe red tomatoes. It does not concentrate a meaningful solanine or tomatine dose. The severe symptoms sometimes associated with tomatoes — weakness, dilated pupils, slow heart rate — are the profile of solanine poisoning from green plant parts consumed in quantity. They are not a realistic outcome from paste made from ripe tomatoes, and framing paste as a solanine hazard is a common overcaution that the sources do not support.
 
-Veterinary sources distinguish **plain tomato products** from tomato-based foods prepared with garlic, onion, or spices. The caution classification increases when tomato paste is used as an ingredient in seasoned foods.
+## Plain Paste: What the Risk Actually Looks Like
 
-## Signs Reported When Dogs React Poorly to Tomato Paste
+A small amount of plain tomato paste is unlikely to cause any problem in a healthy dog. At larger quantities, or in dogs with sensitive digestion, the realistic outcomes are GI-side: mild vomiting, loose stools, or stomach discomfort. These are not emergencies and reflect the richness and concentration of the food, not toxicological harm.
 
-Veterinary and pet-care resources commonly associate tomato-based reactions with digestive signs, including:
+**Sodium:** Plain commercial pastes contain roughly 20–40 mg of sodium per tablespoon — modest by any measure, and far lower than soy sauce, canned soup, or ketchup. A small amount of plain paste in a healthy dog is unlikely to register on the sodium front at all. It becomes more relevant for dogs already on a vet-prescribed low-sodium diet due to cardiac or kidney conditions. For context on what meaningfully high sodium intake actually looks like for dogs, see the [salt](/salt/) page.
 
-- Vomiting  
-- Diarrhoea  
-- Abdominal discomfort  
+## Seasoned Paste: A Different Hazard Category
 
-### Less commonly discussed concerns
+Flavoured tomato pastes frequently list garlic powder, onion powder, or dried onion among their ingredients. These are not flavour quibbles — they are allium compounds that cause oxidative damage to red blood cells, with haemolytic anaemia as the serious endpoint. This hazard is unrelated to anything in the tomato itself.
 
-- Stomach irritation related to acidic foods  
-- Sensitivity reactions in dogs with digestive conditions  
+If your dog has eaten a meaningful amount of seasoned paste containing [garlic](/garlic/), [garlic powder](/garlic-powder/), or [onions](/onions/), the relevant information is on those pages. The key facts: onset of allium toxicosis is typically delayed by several days, so a dog that "seems fine" shortly after exposure is not necessarily out of the woods. Any significant allium exposure warrants a call to your vet.
 
-## Ingredients or Additives to Watch For
+The label is the whole question. If the ingredient list is tomatoes and possibly citric acid, plain paste concerns apply. If it lists any garlic, onion, or allium derivative, treat it as an allium exposure.
 
-- ❌ **Added salt**, frequently present in canned tomato paste  
-- ❌ **Garlic or onion**, sometimes included in tomato-based products and classified as toxic by ASPCA/APCC  
-- ⚠️ **Preservatives**, depending on brand and formulation  
+## Symptoms
 
-## Puppies vs. Adult Dogs
+**From plain paste in larger quantities — realistic:**
+- Mild vomiting or loose stools
+- Stomach discomfort, gas
+- Self-limiting; reflects GI sensitivity to a rich, concentrated food, not poisoning
 
-Veterinary sources generally indicate that **puppies may have more sensitive digestive systems** than adult dogs. However, acidity-related concerns can apply to dogs of all ages.
+**From seasoned paste with alliums — delayed, haematological:**
+- Lethargy, weakness, pale or yellowish gums, reduced appetite
+- Dark-coloured urine
+- Onset typically 3–5 days after ingestion
+- See the [garlic](/garlic/) or [onions](/onions/) pages for full detail and action steps
 
-## Other Common Tomato-Based Products
+**Solanine/tomatine poisoning — for reference only, relevant to plant parts and green tomatoes, not paste:**
+- Hypersalivation, depression, weakness, dilated pupils, slow heart rate (ASPCA)
+- If your dog has eaten tomato plant material — leaves, stems, or large amounts of unripe fruit — contact your vet
 
-### Tomato sauce
+## Frequently Asked Questions
 
-Veterinary articles discuss tomato sauce cautiously due to **added salt, sugar, and seasonings**.
+> This FAQ summarises general veterinary guidance. It's informational only and not a substitute for advice from your own vet, who knows your dog.
 
-### Fresh tomatoes
+### My dog licked some plain tomato paste — is that a problem?
 
-Fresh, ripe tomatoes are discussed separately in veterinary literature and are generally classified as non-toxic when plain.
+Very unlikely. A small amount of plain paste is not a toxicological event. Monitor for mild stomach upset over the next few hours; if it appears at all it would be temporary.
 
-## Dog-Friendly Alternatives Mentioned in Pet-Nutrition Sources
+### The paste has garlic or herbs in the ingredient list — what should I do?
 
-- Plain cooked vegetables  
-- Commercial dog foods containing vegetables  
-- Veterinary-formulated dog treats  
+Check how much your dog ate and what exactly is listed. If garlic powder or onion is in the ingredients and your dog consumed more than a trivial amount, contact your vet. Allium toxicosis has a delayed onset — symptoms may not appear for several days, and early intervention gives the best outcome.
 
-## Frequently Asked Questions (FAQ)
+### Isn't tomato paste high in salt?
 
-> *This FAQ summarises themes appearing in veterinary pet-care articles.  
-> It is informational only and not a substitute for professional veterinary care.*
+Plain commercial paste is not particularly salty — roughly 20–40 mg of sodium per tablespoon. For comparison, a tablespoon of soy sauce contains around 900 mg. The sodium in a small amount of plain paste is not a meaningful concern for a healthy dog.
 
-### Is tomato paste toxic to dogs?
+### I've seen that tomatoes are toxic to dogs — is tomato paste dangerous?
 
-Veterinary sources do not classify tomato paste as toxic, but they consistently highlight **digestive and ingredient-related risks**.
+The toxic compounds in the tomato plant (solanine and tomatine) are concentrated in the leaves, stems, and unripe fruit, not in ripe red tomatoes. Veterinary sources are consistent on this: ripe tomato flesh is non-toxic. Tomato paste is made from ripe tomatoes and does not concentrate a meaningful amount of these compounds. The reputation for danger follows the plant, not the fruit. See the [tomatoes](/tomatoes/) page for more detail.
 
-### Why are tomato plants considered dangerous?
+## About This Guide
 
-According to VCA Hospitals, tomato plants contain compounds that can cause toxicity in dogs, which is why plant parts are discussed differently from ripe tomato flesh.
+This guide was researched and written by **Claire Donnelly** for *Is It Safe For My Dog?*. We are not veterinarians. Each guide is compiled from published, publicly accessible veterinary and toxicology sources — for this page, the American Kennel Club, PetMD, and the ASPCA — and cross-checked before publication. This is general information to help you understand the risk; it does not replace a consultation with your vet.
 
-### Is tomato paste different from fresh tomatoes?
+### Sources for the figures on this page
 
-Veterinary sources note that tomato paste is **more concentrated and often contains added salt**, which increases digestive concern compared with fresh tomatoes.
+- **American Kennel Club** — *Can Dogs Eat Tomatoes?* (solanine and tomatine found mostly in green parts; ripe tomatoes non-toxic; tomato sauce with garlic/onion flagged as a separate concern)
+- **PetMD** — *Can Dogs Eat Tomatoes?* (tomatine concentrated in stems, leaves, unripe fruit; levels "drop significantly" as tomatoes ripen; ripe tomatoes safe; processed tomato foods with garlic/onion flagged as a concern)
+- **ASPCA** — *Tomato Plant* (solanine listed as toxic principle; ripe fruit explicitly classified as non-toxic; symptoms of plant toxicosis: hypersalivation, GI upset, depression, weakness, dilated pupils, slow heart rate)
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tomatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/
-
-- **PetMD** — “Can Dogs Eat Tomatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes
-
-- **VCA Hospitals** — “Tomato Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/tomato-toxicity-in-dogs
-
-This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.
+This page is **informational only** and does **not** constitute veterinary or medical advice.
