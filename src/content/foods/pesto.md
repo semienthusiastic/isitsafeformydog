@@ -2,7 +2,7 @@
 name: "Pesto"
 metaTitle: "Can Dogs Eat Pesto? Garlic Toxicity, Dose & What To Do | Is It Safe For My Dog"
 category: ["Condiments"]
-status: Toxic
+status: Caution
 image: "/images/pesto.jpg"
 description: "Pesto is unsafe for dogs — garlic is the lead hazard, causing oxidative damage to red blood cells that can lead to haemolytic anaemia. Learn the real dose picture, why cumulative exposure matters, and what to do if your dog ate pesto."
 source: ["Merck Veterinary Manual", "ASPCA", "Pet Poison Helpline", "VCA Hospitals"]
