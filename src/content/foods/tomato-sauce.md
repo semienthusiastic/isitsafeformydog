@@ -1,108 +1,109 @@
 ---
 name: "Tomato Sauce"
+metaTitle: "Can Dogs Eat Tomato Sauce? Plain Pureed, Seasoned Sauce & the Label That Decides It | Is It Safe For My Dog"
 category: ["Pantry"]
 status: Caution
 image: "/images/tomato-sauce.jpg"
-description: "Tomato sauce is not classified as toxic to dogs, but veterinary sources note concerns related to acidity, concentration, and common added ingredients such as salt, sugar, garlic, and onion."
-source: ["AKC", "PetMD", "VCA Hospitals"]
+description: "Tomato sauce is three different things depending on context. Plain pureed tomato sauce (the canned cooking base) is low risk — ripe tomato is non-toxic and the main concern is modest sodium. Seasoned tomato sauce (garlic and onion present) is a different product with a real allium hazard. Read the label."
+source: ["American Kennel Club", "PetMD", "ASPCA — Tomato Plant", "Merck Veterinary Manual"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/",
   "https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes",
-  "https://vcahospitals.com/know-your-pet/tomato-toxicity-in-dogs"
+  "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/tomato-plant",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals"
 ]
-keywords: ["tomato sauce", "can dogs eat tomato sauce", "tomatoes dogs", "tomato sauce dog safety"]
-shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources such as the AKC and PetMD state that ripe tomatoes are not toxic to dogs, but tomato sauce is a processed product that often contains added salt, sugar, and seasonings that may cause digestive upset. VCA Hospitals also notes that tomato plant parts are toxic, contributing to caution around tomato-based foods."]
+keywords: ["can dogs eat tomato sauce", "tomato sauce dogs", "dog ate tomato sauce", "is tomato sauce safe for dogs", "plain tomato sauce dogs", "tomato sauce garlic dogs", "hunts tomato sauce dogs"]
+shortAnswer: ["Tomato sauce is not one product. Plain pureed tomato sauce — the canned cooking base with tomato, salt, and citric acid — is low risk for dogs: ripe tomato is non-toxic, and the main concern is modest sodium. Seasoned tomato sauce with garlic or onion is a different product with a real allium hazard. UK readers: 'tomato sauce' in British English typically means ketchup — see the ketchup page. The label tells you which type you have and which guidance applies."]
 ---
 
 ## Is Tomato Sauce Safe for Dogs?
 
-Veterinary and pet-nutrition sources generally agree that **tomato sauce is not toxic to dogs**, but it is commonly discussed under a **caution classification**. The AKC and PetMD explain that ripe tomato flesh itself is not considered toxic, while unripe tomatoes and tomato plant parts contain compounds of concern.
+"Tomato sauce" means genuinely different things in different contexts. Before anything else:
 
-Tomato sauce differs from fresh tomatoes because it is **processed and concentrated**, and many commercial varieties include additional ingredients that are frequently cited in veterinary literature as problematic for dogs.
+- **UK readers:** In British English, "tomato sauce" typically means ketchup. See the [ketchup](/ketchup/) page.
+- **Plain pureed tomato sauce** (canned cooking base — tomato, salt, citric acid, nothing else): low risk. Continue reading below.
+- **Seasoned tomato sauce** (garlic, onion, herbs — the pasta-style variety): a real allium hazard. See [marinara sauce](/marinara-sauce/) and [pasta sauce](/pasta-sauce/) for the full picture.
 
-## Why Tomato Sauce Can Be a Problem for Some Dogs
+The label tells you which type you have. Check it before anything else.
 
-### Main concerns noted by veterinary sources
+## Plain Pureed Tomato Sauce
 
-- **Acidity**, which may irritate the digestive system  
-- **Added salt and sugar**, commonly present in commercial sauces  
-- **Seasonings**, which may include garlic or onion  
+The canned cooking-base product — brands like Hunt's and Del Monte — is typically just tomato puree or paste, salt, and citric acid. No garlic. No onion. No alliums.
 
-### Tomato plant toxicity context
+The hazard profile is closely parallel to [tomato paste](/tomato-paste/): ripe tomato flesh is non-toxic to dogs, as confirmed by the AKC, PetMD, and the ASPCA. The ASPCA's tomato plant classification lists solanine as the toxic principle — but also explicitly states that "ripe fruit is non-toxic." Solanine is concentrated in leaves, stems, and unripe fruit, not in ripe processed tomato. The solanine concern that follows tomatoes around online does not apply to sauce made from ripe tomatoes.
 
-VCA Hospitals explains that tomato plants contain solanine-like compounds that are toxic to dogs. While tomato sauce is made from ripe tomatoes and does not include plant parts, veterinary sources frequently highlight this distinction when discussing tomato-based foods.
+**Sodium** is the main practical concern for the plain product. Plain tomato sauce typically contains around 300–350mg of sodium per half-cup serving, based on typical product labelling — meaningfully higher than tomato paste (around 20–40mg per tablespoon) but modest compared to commercial broth or soy sauce. For a healthy dog that lapped up a small amount, the sodium load is unlikely to be significant. For dogs on a vet-prescribed low-sodium diet, it is worth noting. For context on sodium and dogs, see the [salt](/salt/) page.
 
-### Preparation differences
+At larger amounts, GI upset from acidity and concentration is possible — similar to the tomato-paste picture. This is self-limiting, not toxicological.
 
-Veterinary articles distinguish **plain tomato products** from sauces prepared with herbs, spices, or flavour enhancers. Tomato sauce is discussed more cautiously due to these common additions.
+The detailed ripe-tomato safety picture — including solanine, tomatine, and why the plant-toxicity reputation does not transfer to the fruit — is at the [tomatoes](/tomatoes/) and [tomato-paste](/tomato-paste/) pages.
 
-## Signs Reported When Dogs React Poorly to Tomato Sauce
+## Seasoned Tomato Sauce
 
-Veterinary and pet-care resources commonly associate tomato-based products with digestive signs, including:
+If the label lists [garlic](/garlic/), [onions](/onions/), garlic powder, onion powder, or "natural flavors" without clarification, the product is functionally a pasta sauce — and the allium hazard applies. PetMD notes that "tomato sauce often contains harmful ingredients, like garlic, onion, or unsafe herbs." The AKC flags the same: "the tomato sauce on your pizza or spaghetti likely contains additional ingredients like garlic and onions." Garlic and onion cause oxidative red blood cell damage (Merck Veterinary Manual: haemolytic anaemia, delayed onset 3–5 days, all forms retain full toxicity).
 
-- Vomiting  
-- Diarrhoea  
-- Abdominal discomfort  
+This is the same hazard covered fully at [marinara sauce](/marinara-sauce/). If your dog ate seasoned tomato sauce, that page has the dose calibration, action guidance, and symptoms. Route there; don't treat this as a plain-tomato-sauce incident.
 
-### Less commonly discussed concerns
+## Reading the Label: Which Type Do You Have?
 
-- Stomach irritation related to acidic foods  
-- Sensitivity reactions in dogs with underlying digestive conditions  
+**Plain cooking-base type:** Ingredient list is short — tomato puree or paste, salt, possibly citric acid. That's it. No other named ingredients.
 
-## Ingredients or Additives to Watch For
+**Seasoned type:** Garlic, onion, herbs, spices, or "natural flavors" appear anywhere in the list.
 
-- ❌ **Garlic or onion**, commonly included in sauces and classified as toxic by ASPCA/APCC  
-- ❌ **Added salt**, frequently present in packaged tomato sauce  
-- ⚠️ **Added sugars and spices**, which may contribute to digestive upset  
+If the label is unavailable (open container, no packaging), treat it as seasoned — the allium concern warrants the more cautious response.
 
-## Puppies vs. Adult Dogs
+## Symptoms to Watch For
 
-Veterinary sources generally indicate that **puppies may have more sensitive digestive systems** than adult dogs. However, acidity and ingredient-related concerns apply to dogs of all ages.
+**From plain tomato sauce in larger amounts:**
+- Mild vomiting, loose stools, stomach discomfort
+- Self-limiting; reflects GI sensitivity, not toxicological harm
+- Increased thirst or urination if salt load was meaningful
 
-## Other Common Tomato-Based Products
+**From seasoned tomato sauce (allium exposure):**
+- Onset delayed 3–5 days — dog may appear normal initially
+- Lethargy, weakness, pale or yellowish gums
+- Rapid heart rate, laboured breathing, dark urine
 
-### Tomato paste
+If alliums were present, contact your vet — do not wait for symptoms.
 
-Veterinary sources discuss tomato paste similarly to tomato sauce, noting concerns related to **concentration and added ingredients**.
+## What To Do
 
-### Fresh tomatoes
+**Dog licked plain tomato sauce:** Low concern. Monitor for mild GI upset. No vet call needed unless symptoms persist or the dog is small or has kidney or cardiac disease.
 
-Fresh, ripe tomatoes are discussed separately in veterinary literature and are generally classified as non-toxic when plain.
+**Dog ate a significant amount of plain tomato sauce:** Monitor for GI upset and note the sodium load if it was a large quantity. Call your vet if symptoms are severe or last more than 12 hours.
 
-## Dog-Friendly Alternatives Mentioned in Pet-Nutrition Sources
+**Dog ate seasoned tomato sauce:** Check the label for garlic and onion. If present: call your vet. Allium toxicosis onset is delayed 3–5 days; early intervention produces the best outcomes.
 
-- Plain cooked vegetables  
-- Commercial dog foods containing vegetables  
-- Veterinary-formulated dog treats  
+## Frequently Asked Questions
 
-## Frequently Asked Questions (FAQ)
+> This FAQ summarises general veterinary guidance. It's informational only and not a substitute for advice from your own vet, who knows your dog.
 
-> *This FAQ summarises themes appearing in veterinary pet-care articles.  
-> It is informational only and not a substitute for professional veterinary care.*
+### Is Hunt's-style plain tomato sauce safe for dogs?
 
-### Is tomato sauce toxic to dogs?
+Plain tomato sauce with no garlic or onion is low risk. Ripe tomato is non-toxic, and the main concern at small quantities is modest sodium. A dog that lapped up some plain canned tomato sauce is not in acute danger. Monitor for mild GI upset.
 
-Veterinary sources do not classify tomato sauce as toxic, but they consistently highlight **digestive and ingredient-related risks**.
+### My dog ate pasta with tomato sauce — is that different?
 
-### Why are garlic and onion a concern?
+If the sauce was a seasoned pasta-style product (garlic, onion, herbs), yes — that's a different exposure. See the [marinara sauce](/marinara-sauce/) page for the calibrated guidance. If the sauce was plain pureed tomato with no alliums, the risk is low.
 
-Veterinary toxicology sources list garlic and onion as toxic to dogs, and these ingredients are commonly found in tomato sauces.
+### Why do some sites say tomato sauce is toxic?
 
-### Is tomato sauce different from fresh tomatoes?
+The "tomato = toxic" concern originates from solanine in tomato plant parts (leaves, stems, unripe fruit). Ripe tomatoes and products made from ripe tomatoes don't carry meaningful solanine levels — confirmed by the AKC, PetMD, and the ASPCA. The concern transfers from the plant to the fruit online more than the toxicology supports. Seasoned sauces are a separate and legitimate concern — but the hazard is the garlic and onion, not the tomato.
 
-Veterinary sources note that tomato sauce is **processed and often contains added salt, sugar, and seasonings**, which increases concern compared with fresh tomatoes.
+### I'm in the UK — is tomato sauce safe for dogs?
 
-## Source Reference
+In British English, "tomato sauce" is ketchup. See the [ketchup](/ketchup/) page for that answer.
 
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
+## About This Guide
 
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tomatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/
+This guide was researched and written by **Claire Donnelly** for *Is It Safe For My Dog?*. We are not veterinarians. Each guide is compiled from published, publicly accessible veterinary and toxicology sources — for this page, the American Kennel Club, PetMD, the ASPCA, and the Merck Veterinary Manual — and cross-checked before publication. This is general information to help you understand the risk; it does not replace a consultation with your vet.
 
-- **PetMD** — “Can Dogs Eat Tomatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes
+### Sources for the figures on this page
 
-- **VCA Hospitals** — “Tomato Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/tomato-toxicity-in-dogs
+- **American Kennel Club** — *Can Dogs Eat Tomatoes?* (ripe tomatoes non-toxic; solanine concentrated in green plant parts; "the tomato sauce on your pizza or spaghetti likely contains additional ingredients like garlic and onions, which can also cause gastrointestinal distress")
+- **PetMD** — *Can Dogs Eat Tomatoes?* (ripe tomatoes safe; "tomato sauce often contains harmful ingredients, like garlic, onion, or unsafe herbs"; ketchup flagged for sugar, salt, and possible xylitol)
+- **ASPCA** — *Tomato Plant* (toxic principle: solanine; ripe fruit explicitly classified non-toxic; clinical signs from plant parts: hypersalivation, inappetence, severe GI upset, depression, weakness, dilated pupils, slow heart rate)
+- **Merck Veterinary Manual** — *Garlic and Onion (Allium spp.) Toxicosis in Animals* (toxic dose: onion 15–30 g/kg body weight; garlic 3–5× more potent; all forms retain full toxicity; onset 3–5 days; mechanism: oxidative RBC damage, Heinz body formation, haemolytic anaemia; applied here to seasoned tomato sauce containing alliums)
+- **Sodium figure** — ~300–350mg per half-cup serving for plain canned tomato sauce: based on typical product labelling across major brands; no single manufacturer URL confirmed at time of writing
 
-This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.
+This page is **informational only** and does **not** constitute veterinary or medical advice.
