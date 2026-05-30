@@ -1,111 +1,121 @@
 ---
 name: "Italian Seasoning"
+metaTitle: "Can Dogs Eat Italian Seasoning? Herb Safety, Label Reading & When It Matters | Is It Safe For My Dog"
 category: ["Herbs & Spices"]
-status: Toxic
+status: Caution
 image: "/images/italian-seasoning.jpg"
-description: "Veterinary toxicology sources classify Italian seasoning as unsafe for dogs because it commonly contains garlic and onion, both of which are toxic to dogs."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garlic", "https://www.petpoisonhelpline.com/poison/onion/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-garlic/"]
-keywords: ["italian seasoning", "can dogs eat italian seasoning", "italian herbs dogs", "italian seasoning dog safety"]
-shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations state that Italian seasoning commonly contains garlic or onion, which are poisonous to dogs and can damage red blood cells. Sources such as the ASPCA, Pet Poison Helpline, and the AKC classify garlic- and onion-containing seasonings as unsafe."]
+description: "Italian seasoning is commonly labelled toxic online, but most mainstream blends are pure herb mixes with no garlic or onion. Two herbs (oregano and marjoram) are mild GI irritants; the other four standard herbs are non-toxic. Check the label for alliums first — that's the real decision point."
+source: ["ASPCA — Oregano", "ASPCA — Marjoram", "ASPCA — Basil, Rosemary, Thyme, and Sage", "Merck Veterinary Manual"]
+sourceUrl: [
+  "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/oregano",
+  "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/marjoram",
+  "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/basil",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals"
+]
+keywords: ["can dogs eat italian seasoning", "italian seasoning safe for dogs", "dog ate italian seasoning", "is italian seasoning toxic to dogs", "italian seasoning garlic dogs", "oregano dogs toxic", "italian herbs dogs safe"]
+shortAnswer: ["Check the label before anything else. Most mainstream Italian seasoning blends are pure herb mixes with no garlic or onion — and for those products, the risk is mild: oregano and marjoram are GI irritants, the other standard herbs are non-toxic, and a culinary pinch in food is unlikely to cause a real problem. If your product contains garlic powder or onion powder, the allium hazard applies and is a categorically more serious concern. The common 'Italian seasoning is toxic' framing online conflates allium-containing blends with pure herb blends — most mainstream supermarket products fall in the second category."]
 ---
 
 ## Is Italian Seasoning Safe for Dogs?
 
-Veterinary toxicology authorities consistently classify **Italian seasoning as unsafe for dogs**. Italian seasoning is not a single herb, but a blended spice mix typically used in cooking.
+The practical answer comes down to one question: **does your jar contain garlic, onion, or any other allium?** Check the ingredient list before anything else — that's the real decision point.
 
-According to veterinary sources, the primary concern is that most Italian seasoning blends **contain garlic, onion, or both**, either as powders or granules. The ASPCA and Pet Poison Helpline list garlic and onion as toxic to dogs in all forms. The AKC confirms that cooking or drying does not reduce this toxicity.
+**No alliums on the label:** The product is a pure herb blend, and the risk picture is mild. Two of the standard herbs — [oregano](/oregano/) and marjoram — are classified by the ASPCA as GI irritants for dogs, with vomiting and diarrhea as the clinical signs. The other four main herbs (basil, rosemary, thyme, and sage) are classified non-toxic. At culinary quantities — a pinch in shared cooked food — the realistic risk is low. A dog eating a significant amount directly from a jar could develop GI upset, but this is dose-dependent and self-limiting.
 
-As a result, Italian seasoning is treated as a **toxic food** due to its typical ingredient composition.
+**Garlic powder, onion powder, or any allium on the label:** A categorically different product and a categorically different hazard. See the allium-containing products section below.
 
-## Why Italian Seasoning Is Dangerous for Dogs
+**A correction worth making clearly:** Italian seasoning is frequently labelled toxic to dogs online — but the picture is more nuanced than that, and most mainstream commercial blends are pure herb mixes without garlic or onion. The market-leading US product, McCormick Italian Seasoning, contains marjoram, basil, rosemary, thyme, oregano, savory, and sage — no garlic, no onion. This is representative of how the mainstream category is formulated, not universal. The blanket "toxic" label misrepresents what most people actually have in their spice drawer.
 
-### Garlic and onion content
-Veterinary toxicology sources identify garlic and onion as members of the *Allium* family. These plants contain sulfur-based compounds that damage red blood cells in dogs and can lead to haemolytic anaemia.
+## The Herb-by-Herb Picture
 
-### Concentrated powdered form
-Seasonings often use dried or powdered garlic and onion, which veterinary sources note are **more concentrated by weight** than fresh forms.
+Standard Italian seasoning is a blend of dried Mediterranean herbs. The ASPCA's animal poison control plant database is the primary reference for each:
 
-### Mixed ingredient risk
-Because Italian seasoning is a blend, ingredient lists vary, making it difficult to ensure the absence of toxic components.
+**Non-toxic to dogs (ASPCA confirmed):**
+- [Basil](/basil/) — Non-toxic to dogs
+- [Rosemary](/rosemary/) — Non-toxic to dogs
+- Thyme — Non-toxic to dogs
+- Sage — Non-toxic to dogs
 
-## Signs Reported in Garlic or Onion Toxicity
+**GI irritants (ASPCA toxic classification, mild mechanism):**
+- [Oregano](/oregano/) — Toxic; toxic principle: gastrointestinal irritant; clinical signs: mild vomiting and diarrhea
+- Marjoram — Toxic; toxic principle: gastrointestinal irritant; clinical signs: vomiting and diarrhea
 
-Veterinary organisations report the following signs associated with ingestion of garlic- or onion-containing foods:
+The "toxic" designation for oregano and marjoram means GI irritation — not the haematological damage that alliums cause. These are different hazard categories. Oregano consumed in quantity can cause stomach upset; it does not destroy red blood cells. The clinical picture is unpleasant but self-limiting, and at typical culinary seasoning doses, it may cause no reaction at all.
 
-- Vomiting  
-- Diarrhoea  
-- Lethargy  
-- Weakness  
+### Savory — an honest gap
 
-### More serious signs
-- Pale gums  
-- Rapid heart rate  
-- Collapse  
-- Signs consistent with anaemia  
+McCormick's Italian Seasoning includes savory (Satureja species) alongside the six herbs above. Savory does not appear in the ASPCA's toxic and non-toxic plant database. The absence of an entry is not confirmation of safety — the database does not list every plant. But no source consulted for this guide identifies savory as a hazard for dogs, and we found nothing in the veterinary toxicology literature to suggest otherwise. We treat it as not a primary concern and note the gap transparently rather than glossing over it.
 
-Symptoms may be delayed and can appear days after ingestion.
+## Products with Garlic or Onion Powder
 
-## Ingredients or Additives of Particular Concern
+Not all Italian seasoning blends are allium-free. Store-brand variants and specialty products — particularly anything marketed as "garlic herb Italian seasoning" or "Tuscan seasoning" — sometimes include garlic powder as a named ingredient. Reading the full ingredient list before using any blended seasoning in food your dog might access is the straightforward precaution.
 
-Italian seasoning blends commonly include:
+If your product's label includes [garlic](/garlic/), garlic powder, [onions](/onions/), onion powder, or any allium derivative, the concern is no longer herb GI irritation — it is allium toxicity. Garlic and onion cause oxidative damage to red blood cells (Heinz body formation, haemolytic anaemia) with a toxic dose for onion of 15–30 g/kg body weight, and garlic is 3–5× more potent per gram (Merck Veterinary Manual). All forms — powdered, dried, cooked — retain full toxicity. Garlic powder is particularly concentrated: a small amount of seasoning can represent a meaningfully higher allium dose than the same volume of a fresh ingredient.
 
-- ❌ **Garlic powder** (toxic to dogs)  
-- ❌ **Onion powder** (toxic to dogs)  
-- ⚠️ **Salt**, sometimes added to commercial blends  
-- ⚠️ **Other strong herbs**, which may cause digestive irritation  
+For a dog that has eaten food prepared with an Italian seasoning containing garlic or onion powder, see the [garlic](/garlic/) or [onions](/onions/) pages for the full hazard picture, and [marinara sauce](/marinara-sauce/) and [pasta sauce](/pasta-sauce/) for how these same alliums function in cooked Italian-food contexts. Any allium exposure in more than a trivial amount warrants a call to your vet — allium toxicosis has a delayed onset of 3–5 days, and early intervention gives the best outcomes.
 
-The presence of garlic or onion is the defining toxic factor.
+When reading any Italian seasoning label, also note whether added [salt](/salt/) appears — most pure herb blends don't include it, but some commercial products do. Sodium is not the primary concern here, but it is worth knowing.
 
-## Puppies vs. Adult Dogs
+## Dose Context: A Pinch vs. Eating from the Jar
 
-Veterinary toxicology sources state that **garlic and onion toxicity affects dogs of all ages**. Puppies may be more vulnerable due to smaller body size, but adult dogs are also at risk.
+For pure herb Italian seasoning (no alliums), quantity is the key variable.
 
-## Individual Herbs vs. Seasoning Blends
+**A pinch used in cooked food:** At typical seasoning quantities — a quarter to a half teaspoon distributed across an entire dish — the oregano and marjoram content reaching any individual dog's portion is minimal. The realistic outcome for most dogs is no reaction.
 
-### Single herbs
-Some individual herbs used in Italian seasoning, such as basil or oregano, are discussed separately in veterinary literature and are not inherently toxic.
+**A dog that eats directly from the jar or tips a significant quantity onto the floor and eats it:** The concentrated dried herb load is meaningfully larger. GI upset — vomiting, diarrhoea — is plausible from the oregano and marjoram content. Offer water, monitor symptoms, and contact your vet if signs are severe or persist beyond 12–24 hours.
 
-### Mixed seasoning blends
-Veterinary sources emphasise that **blends are higher risk** because they frequently include garlic or onion.
+**Dried vs. fresh:** Dried herbs are more concentrated by weight than fresh equivalents. A teaspoon of dried oregano or marjoram represents significantly more of the herb than a teaspoon of fresh leaves. This matters most if a dog eats the seasoning directly, less so when a pinch is used in cooking.
 
-## Allium Ingredients Classified as Toxic
+## Symptoms to Watch For
 
-Veterinary and pet-safety organisations consistently list the following as toxic to dogs:
+**From pure herb Italian seasoning (oregano and marjoram, GI irritant):**
+- Vomiting or diarrhoea — most likely only if a significant amount was eaten directly
+- Abdominal discomfort, reduced appetite
+- Self-limiting; resolves as the herb clears the GI tract
 
-- Garlic  
-- Onions  
-- Shallots  
-- Leeks  
-- Chives  
+**From Italian seasoning containing garlic or onion powder:**
+- Onset delayed 3–5 days — dog may appear normal initially
+- Lethargy, weakness, reduced appetite
+- Pale, white, or yellowish gums
+- Rapid heart rate, laboured breathing
+- Dark or reddish-brown urine
 
-Italian seasoning commonly contains one or more of these in powdered form.
+If any allium was present in the seasoning and your dog ate more than a trivial amount, contact your vet — do not wait for symptoms.
 
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions
 
-> *This FAQ summarises themes appearing in veterinary toxicology and pet-safety resources.  
-> It is informational only and not a substitute for professional veterinary care.*
+> This FAQ summarises general veterinary guidance. It's informational only and not a substitute for advice from your own vet, who knows your dog.
 
-### Is Italian seasoning toxic because of the herbs?
-Veterinary sources indicate that the risk comes from garlic and onion, not from herbs like basil or oregano.
+### My dog licked Italian seasoning off the counter — should I worry?
 
-### Does cooking remove the risk?
-Veterinary organisations confirm that cooking or drying does not neutralise garlic or onion toxicity.
+Check the label first. Pure herb blend (no garlic, no onion): a small lick is very unlikely to cause a problem. The GI-irritant herbs are a concern in quantity, not at a lick. Watch for any stomach upset over the next few hours. Garlic or onion powder on the label: call your vet.
 
-### Are garlic-free blends safer?
-Veterinary guidance focuses on ingredient lists. Most Italian seasoning blends include garlic or onion and are treated as unsafe.
+### The jar has garlic powder listed — what should I do?
 
-## Source Reference
+Estimate how much your dog consumed. A tiny lick: low acute concern for a medium or large dog, but monitor for symptoms over the following week. Any significant amount: call your vet. Garlic powder is highly concentrated, and allium toxicosis has a delayed onset of 3–5 days — waiting to see whether symptoms appear is not a safe approach.
 
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
+### Can I use Italian seasoning when cooking food to share with my dog?
 
-- **ASPCA Animal Poison Control** — “Garlic”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garlic
+For a pure herb blend with no alliums: at culinary seasoning levels, the risk from oregano and marjoram is low, and many dogs receive herb-seasoned food without issue. If you want to be cautious, set the dog's portion aside before adding seasoning. For any blend containing garlic or onion: don't use it in food your dog will eat.
 
-- **Pet Poison Helpline** — “Onion Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/onion/
+### Is dried Italian seasoning more of a concern than fresh herbs?
 
-- **American Kennel Club (AKC)** — “Can Dogs Eat Garlic?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-garlic/
+Yes, for dose purposes. Dried herbs concentrate their active compounds — a teaspoon of dried oregano or marjoram represents significantly more of the herb than a teaspoon of fresh leaves. This matters most if a dog eats the seasoning directly, less so when a pinch is used in cooking.
 
-This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.
+### Why do so many sites say Italian seasoning is toxic?
+
+The common framing assumes alliums are present — and when they are, the toxic label is accurate for those specific products. The problem is that the two product types (herb-only blends and allium-containing blends) have been collapsed into a single "Italian seasoning is toxic" rule, which doesn't hold for most jars on most supermarket shelves. The herb-specific concerns (oregano and marjoram as GI irritants) are real but a different and milder hazard class than allium toxicity.
+
+## About This Guide
+
+This guide was researched and written by **Claire Donnelly** for *Is It Safe For My Dog?*. We are not veterinarians. Each guide is compiled from published, publicly accessible veterinary and toxicology sources — for this page, the ASPCA's animal poison control plant database and the Merck Veterinary Manual — and cross-checked before publication. This is general information to help you understand the risk; it does not replace a consultation with your vet.
+
+### Sources for the figures on this page
+
+- **ASPCA Animal Poison Control — Oregano** (toxic to dogs; toxic principle: gastrointestinal irritant; clinical signs: mild vomiting and diarrhea)
+- **ASPCA Animal Poison Control — Marjoram** (toxic to dogs; toxic principle: gastrointestinal irritant; clinical signs: vomiting and diarrhea)
+- **ASPCA Animal Poison Control — Basil, Rosemary, Thyme, and Sage** (all four classified non-toxic to dogs; citation URL is the basil entry as representative; rosemary, thyme, and sage entries confirmed separately under the same non-toxic classification)
+- **Merck Veterinary Manual** — *Garlic and Onion (Allium spp.) Toxicosis in Animals* (toxic dose: onion 15–30 g/kg body weight; garlic 3–5× more potent; all forms — raw, cooked, dehydrated, powdered — retain full toxicity; onset 3–5 days after exposure; mechanism: oxidative RBC damage, Heinz body formation, haemolytic anaemia; applied here to Italian seasoning products containing garlic or onion powder)
+- **Product reference** — McCormick Italian Seasoning (marjoram, basil, rosemary, thyme, oregano, savory, sage; no garlic or onion): ingredient data confirmed via Open Food Facts product database; cited as illustrative of the mainstream commercial category, not as an authoritative source
+
+This page is **informational only** and does **not** constitute veterinary or medical advice.
