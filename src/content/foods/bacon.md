@@ -96,7 +96,12 @@ Cooked bacon concentrates fat and salt as water renders out. It eliminates the b
 
 ## Healthier Meat-Treat Alternatives
 
-If you want to give your dog a savoury, meaty treat without the sodium and fat load that makes bacon a poor choice, single-ingredient freeze-dried meat treats are the closest dog-safe substitute. [Stewart Pro-Treat Freeze-Dried Beef Liver](https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=7a60f210b185fa15a1cc00ee647eeb6d&language=en_US&ref_=as_li_ss_tl) is a single-ingredient option — just beef liver, no additives, added salt, or preservatives — that delivers the kind of high-value, meaty reward dogs respond to without the cumulative fat and sodium concerns this page has described.
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">Recommended substitute</p>
+  <p class="callout-title">Stewart Pro-Treat Freeze-Dried Beef Liver</p>
+  <p class="callout-body">A single-ingredient option — just beef liver, no additives, salt, or preservatives — that delivers the high-value, meaty reward dogs respond to without bacon's cumulative fat and sodium concerns.</p>
+  <a class="callout-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=7a60f210b185fa15a1cc00ee647eeb6d&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## Symptoms to Watch For
 
@@ -120,9 +125,12 @@ Persistent or severe vomiting, signs of significant pain, or collapse: contact y
 
 At strip-or-two quantities, sodium symptoms are not a realistic expectation.
 
----
-
-Most bacon-related incidents in healthy dogs resolve without veterinary intervention. For households where pet emergencies are infrequent enough that response time matters, having a [pet first aid kit](https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=0427e129a0ae1ff047957c5b3fe6dcab&language=en_US&ref_=as_li_ss_tl) on hand is a small investment in preparedness. It is not a substitute for veterinary care in an emergency — it is the bridge between the incident and getting there: wound care, bandaging, and a reference for the situations that don't require an emergency clinic but do require immediate response.
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">Most bacon-related incidents in healthy dogs resolve without veterinary intervention — but for households where pet emergencies are infrequent enough that response time matters, having a first aid kit on hand is a small investment in preparedness. It bridges the gap between an incident and getting to your vet: wound care, bandaging, and reference for situations that don't require an emergency clinic but do require immediate response.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=0427e129a0ae1ff047957c5b3fe6dcab&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## What To Do
 
@@ -166,7 +174,12 @@ Not as a regular food or condiment. The fat load that creates pancreatitis risk 
 
 ## For Further Reading
 
-For dog owners interested in a deeper look at canine nutrition and longevity, [*The Forever Dog* by Rodney Habib and Karen Becker](https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl) is a well-regarded reference covering food, health, and lifestyle choices across a dog's life.
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For further reading</p>
+  <p class="callout-title">The Forever Dog by Rodney Habib and Karen Becker</p>
+  <p class="callout-body">A well-regarded reference covering canine nutrition, health, and longevity — for dog owners interested in a deeper look at the choices behind their dog's diet and lifestyle.</p>
+  <a class="callout-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## About This Guide
 
