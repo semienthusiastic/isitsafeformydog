@@ -73,4 +73,24 @@
   .affiliate-callout .callout-link:hover {
     @apply text-amber-900;
   }
+
+  /* Quick Recommendations top panel — slate palette, understated summary role */
+  .recommendations-panel {
+    @apply bg-slate-50 border border-slate-200 rounded-md p-5 my-6;
+  }
+  .recommendations-panel .panel-label {
+    @apply text-xs font-bold uppercase tracking-wider text-slate-500 mb-3;
+  }
+  .recommendations-panel ul {
+    @apply list-none m-0 p-0 space-y-3;
+  }
+  .recommendations-panel li {
+    @apply text-sm text-gray-700 leading-snug;
+  }
+  .recommendations-panel .panel-link {
+    @apply font-semibold text-blue-700 underline text-sm;
+  }
+  .recommendations-panel .panel-link:hover {
+    @apply text-blue-900;
+  }
 }
