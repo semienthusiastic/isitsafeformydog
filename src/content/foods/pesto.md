@@ -16,6 +16,17 @@ keywords: ["can dogs eat pesto", "can dogs have pesto", "is pesto bad for dogs",
 shortAnswer: ["No — pesto is not safe for dogs, and the reason is garlic. Garlic is a genuine toxin for dogs at sufficient doses, causing oxidative damage to red blood cells that can lead to haemolytic anaemia. A single lick is very unlikely to cause acute toxicity in a healthy medium-sized dog, but pesto is garlic-dense and the damage is cumulative — repeated small exposures add up. Symptoms can appear 3–5 days after significant garlic ingestion, not immediately. Don't feed pesto to your dog, don't make it a regular addition to their food, and if your dog ate a significant amount, contact your vet."]
 ---
 
+> **Affiliate disclosure:** This guide contains affiliate links. If you purchase via these links, we may earn a small commission at no extra cost to you. This never affects our safety assessments — see our [Editorial Standards](/editorial-standards/) for how we work.
+
+<div class="recommendations-panel not-prose">
+  <p class="panel-label">Recommendations on this page</p>
+  <ul>
+    <li><strong>Recommended treat alternative:</strong> Stewart Pro-Treat Freeze-Dried Beef Liver — single-ingredient meaty treat without the concerns this page describes. <a class="panel-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Further reading:</strong> The Forever Dog by Habib &amp; Becker — a well-regarded reference on canine nutrition and longevity. <a class="panel-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+  </ul>
+</div>
+
 ## Is Pesto Safe for Dogs?
 
 Pesto is not safe for dogs to eat, and the reason is straightforward: **garlic**. Garlic is a genuine veterinary toxin — not merely an irritant — that causes oxidative damage to a dog's red blood cells. The ASPCA, Pet Poison Helpline, VCA Hospitals, and the Merck Veterinary Manual all classify it as toxic to dogs.
@@ -106,7 +117,16 @@ The serious signs are haematological — they reflect the breakdown of red blood
 
 The cumulative nature of allium toxicity makes this worth stating directly: **pesto should not be a regular part of a dog's diet**, even in small amounts. Each exposure adds to the oxidative burden on red blood cells. Dogs fed garlic-containing foods regularly can develop chronic haemolytic anaemia without any single incident appearing to be the cause.
 
-If you're looking to add flavour or moisture to your dog's food, [olive oil](/olive-oil/) in small amounts is generally tolerated (though it adds significant fat calories), and plain cooked meat without seasoning is far preferable to any condiment. [Basil](/basil/) — the dominant ingredient by volume in pesto — is itself safe for dogs, so plain basil leaves added to food are fine if you're after the herb flavour without the garlic.
+If you're looking to add flavour or moisture to your dog's food, [olive oil](/olive-oil/) in small amounts is generally tolerated (though it adds significant fat calories), and plain cooked meat without seasoning is far preferable to any condiment.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For a savoury meat treat</p>
+  <p class="callout-title">Stewart Pro-Treat Freeze-Dried Beef Liver</p>
+  <p class="callout-body">The meaty richness that draws dogs to the pasta bowl — without any of the garlic. Single-ingredient freeze-dried beef liver.</p>
+  <a class="callout-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
+[Basil](/basil/) — the dominant ingredient by volume in pesto — is itself safe for dogs, so plain basil leaves added to food are fine if you're after the herb flavour without the garlic.
 
 ## Frequently Asked Questions
 

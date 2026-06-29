@@ -15,6 +15,16 @@ keywords: ["can dogs eat nutmeg", "can dogs have nutmeg", "is nutmeg bad for dog
 shortAnswer: ["No — nutmeg is toxic to dogs. The compound myristicin can cause serious neurological symptoms including disorientation, hallucinations, and a raised heart rate. That said, the trace amounts in a single baked-good serving are very unlikely to cause serious toxicity in a healthy adult dog — the real risk is direct ingestion of the spice. Roughly ½ teaspoon is a concern for a small dog; around 1 teaspoon for a dog around 20 lb. If your dog ate a significant amount of pure nutmeg, call your vet or a poison helpline without delay."]
 ---
 
+> **Affiliate disclosure:** This guide contains affiliate links. If you purchase via these links, we may earn a small commission at no extra cost to you. This never affects our safety assessments — see our [Editorial Standards](/editorial-standards/) for how we work.
+
+<div class="recommendations-panel not-prose">
+  <p class="panel-label">Recommendations on this page</p>
+  <ul>
+    <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Further reading:</strong> The Forever Dog by Habib &amp; Becker — a well-regarded reference on canine nutrition and longevity. <a class="panel-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+  </ul>
+</div>
+
 ## Is Nutmeg Safe for Dogs?
 
 Nutmeg is toxic to dogs and shouldn't be fed to them. The problem isn't irritation or an allergic reaction — it's a genuine neurological toxin called **myristicin**, a naturally occurring compound in the nutmeg seed. In sufficient quantities it affects the central nervous system and can cause disorientation, hallucinations, a racing heart, and tremors.
@@ -76,6 +86,13 @@ Myristicin's effects are predominantly neurological, not the gastrointestinal sy
 **Onset and duration:** Symptoms typically appear **3–8 hours after ingestion** and can last **up to 48 hours**. This delayed onset matters: a dog may seem fine for several hours after eating nutmeg and then develop signs later. If a dog shows neurological symptoms within that window after any significant nutmeg exposure, tell your vet explicitly and make the connection.
 
 **Whole nutmeg seeds** carry an additional risk beyond toxicity: they are large enough to cause a physical obstruction in small dogs or puppies if swallowed whole. This alone warrants a vet call even before symptoms develop.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">A compact kit covering the basics: gauze, bandages, antiseptic wipes, and emergency guidance — useful to have before an incident, not just after.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## What About Nutmeg in Baked Goods?
 

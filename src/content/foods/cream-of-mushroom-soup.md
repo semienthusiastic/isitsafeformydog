@@ -15,6 +15,17 @@ keywords: ["can dogs eat cream of mushroom soup", "can dogs have cream of mushro
 shortAnswer: ["No — cream of mushroom soup isn't safe to feed dogs. Standard canned varieties are very high in sodium, contain dairy, and include dried garlic. None of this causes instant poisoning from a small taste, but there's no nutritional benefit and several reasons to keep it away from your dog. If your dog ate a significant amount — especially a small dog, a puppy, or one with heart or kidney disease — contact your vet."]
 ---
 
+> **Affiliate disclosure:** This guide contains affiliate links. If you purchase via these links, we may earn a small commission at no extra cost to you. This never affects our safety assessments — see our [Editorial Standards](/editorial-standards/) for how we work.
+
+<div class="recommendations-panel not-prose">
+  <p class="panel-label">Recommendations on this page</p>
+  <ul>
+    <li><strong>Recommended treat alternative:</strong> Stewart Pro-Treat Freeze-Dried Beef Liver — single-ingredient meaty treat without the concerns this page describes. <a class="panel-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Further reading:</strong> The Forever Dog by Habib &amp; Becker — a well-regarded reference on canine nutrition and longevity. <a class="panel-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+  </ul>
+</div>
+
 ## Is Cream of Mushroom Soup Safe for Dogs?
 
 Cream of mushroom soup isn't safe to feed to dogs. The concern isn't the mushrooms — the edible varieties used in commercial soups are the same ones that are fine for people, and plain cooked mushrooms aren't an issue for dogs. The concern is the rest of the ingredient list: very high sodium, dairy, and — in standard canned varieties — dried garlic.
@@ -92,6 +103,13 @@ A dog that licked a few drops off the floor: monitor and move on. A small dog th
 - Dark or reddish-tinged urine
 
 The delayed onset of garlic-related signs is important: if your dog consumed a garlic-containing food and develops these symptoms within a week, tell your vet and make the connection explicitly.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">A compact kit covering the basics: gauze, bandages, antiseptic wipes, and emergency guidance — useful to have before an incident, not just after.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## What About Homemade Cream of Mushroom Soup?
 

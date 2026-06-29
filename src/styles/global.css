@@ -74,12 +74,13 @@
     @apply text-amber-900;
   }
 
-  /* Quick Recommendations top panel — slate palette, understated summary role */
+  /* Quick Recommendations top panel — paler amber cousin of body callouts */
   .recommendations-panel {
-    @apply bg-slate-50 border border-slate-200 rounded-md p-5 my-6;
+    @apply border border-amber-200 rounded-md p-5 my-6;
+    background-color: rgb(255 251 235 / 0.5); /* amber-50 at half opacity — softer than body callouts */
   }
   .recommendations-panel .panel-label {
-    @apply text-xs font-bold uppercase tracking-wider text-slate-500 mb-3;
+    @apply text-xs font-bold uppercase tracking-wider text-amber-700 mb-3;
   }
   .recommendations-panel ul {
     @apply list-none m-0 p-0 space-y-3;
