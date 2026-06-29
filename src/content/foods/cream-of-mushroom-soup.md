@@ -129,6 +129,13 @@ If you want to add moisture or flavour to your dog's food without the sodium and
 - Plain cooked [mushrooms](/mushrooms/) with no seasoning, oil, or sauce — the edible varieties used in cooking are generally fine for dogs in plain form
 - Plain cooked meat with no marinade, seasoning, or sauce
 
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For a savoury meat treat</p>
+  <p class="callout-title">Stewart Pro-Treat Freeze-Dried Beef Liver</p>
+  <p class="callout-body">A single-ingredient freeze-dried beef liver treat is an easy way to give a savoury, high-value reward — without the heavy sodium, dairy, or garlic load of canned soup.</p>
+  <a class="callout-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
 ## Frequently Asked Questions
 
 > This FAQ summarises general veterinary guidance. It's informational only and not a substitute for advice from your own vet, who knows your dog.
@@ -152,6 +159,13 @@ Note your dog's weight and the approximate amount consumed, then call your vet o
 ### What about low-sodium cream of mushroom soup?
 
 Lower-sodium versions reduce the main concern to some degree, but still contain dairy and garlic. The principle remains the same: it's not an appropriate food for dogs, and there's no nutritional reason to include it in their diet.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For further reading</p>
+  <p class="callout-title">The Forever Dog by Rodney Habib and Karen Becker</p>
+  <p class="callout-body">A well-regarded reference covering canine nutrition, health, and longevity — for dog owners interested in a deeper look at the choices behind their dog's diet and lifestyle.</p>
+  <a class="callout-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## About This Guide
 

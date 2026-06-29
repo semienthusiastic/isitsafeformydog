@@ -16,6 +16,17 @@ keywords: ["can dogs eat hummus", "hummus safe for dogs", "dog ate hummus", "is 
 shortAnswer: ["Hummus is not safe to give dogs deliberately, and the reason is garlic — a genuine allium toxin that causes oxidative damage to red blood cells. The dose picture matters: a dog that licked a smear of hummus off the floor is unlikely to be in acute danger, but a dog that ate a significant portion of a hummus container has consumed a real allium load, and regular feeding adds up cumulatively. The chickpeas, lemon juice, and salt are secondary concerns. Don't feed hummus deliberately, take portion size seriously if your dog got into a container, and call your vet if the amount was large."]
 ---
 
+> **Affiliate disclosure:** This guide contains affiliate links. If you purchase via these links, we may earn a small commission at no extra cost to you. This never affects our safety assessments — see our [Editorial Standards](/editorial-standards/) for how we work.
+
+<div class="recommendations-panel not-prose">
+  <p class="panel-label">Recommendations on this page</p>
+  <ul>
+    <li><strong>For a savoury meat treat:</strong> Stewart Pro-Treat Freeze-Dried Beef Liver — single-ingredient meaty treat without the concerns this page describes. <a class="panel-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Further reading:</strong> The Forever Dog by Habib &amp; Becker — a well-regarded reference on canine nutrition and longevity. <a class="panel-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+  </ul>
+</div>
+
 ## Is Hummus Safe for Dogs?
 
 Hummus is not safe to give dogs deliberately. The concern is straightforward: **garlic is a standard ingredient in hummus**, and garlic is a genuine veterinary toxin — not merely an irritant — that causes oxidative damage to red blood cells. The ASPCA, Pet Poison Helpline, VCA Hospitals, and the Merck Veterinary Manual all classify it as toxic to dogs.
@@ -92,6 +103,13 @@ Commercial hummus typically contains approximately 100–130 mg of sodium per 2-
 
 If alliums were present in meaningful amounts, contact your vet — do not wait for symptoms.
 
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">For households where pet emergencies are infrequent enough that response time matters, a first aid kit on hand is a small investment in preparedness — wound care, bandaging, and a reference for situations that don't require an emergency clinic but do require immediate response.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
 ## What To Do If Your Dog Ate Hummus
 
 **Dog licked hummus off the floor or counter:** Low concern for a healthy adult dog at a small quantity. Make water available and watch for symptoms over the following week. No vet call needed unless your dog is small, a puppy, or already anaemic.
@@ -103,6 +121,13 @@ If alliums were present in meaningful amounts, contact your vet — do not wait 
 **Commercial hummus with garlic powder:** If the label lists garlic powder rather than fresh garlic, treat the exposure as higher than the fresh-garlic dose math suggests, and err toward calling your vet for any significant quantity.
 
 **Hummus as a regular habit:** Stop it. Cumulative allium exposure from repeated small doses is a genuine concern, and the fat load from regular hummus feeding compounds this.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For a savoury meat treat</p>
+  <p class="callout-title">Stewart Pro-Treat Freeze-Dried Beef Liver</p>
+  <p class="callout-body">If the appeal is letting your dog share a dip or a snack, a single-ingredient freeze-dried beef liver treat delivers the savoury, high-value reward dogs respond to — without garlic, the tahini-and-oil fat load, or added salt.</p>
+  <a class="callout-link" href="https://www.amazon.com/Stewart-Sprinkles-Resealable-Containers-Ingredient/dp/B0D2PN4C6Y?crid=1ZVN43QNKHVYF&dib=eyJ2IjoiMSJ9.UVlxQYwV0Ek0MQ6LTvQdTp3eG1atSdON3UeXbtzRBgGWc_rNWxeQEejManzpnGcwumZSetZy7gnIdKoeAr2tgnzV2rYFIKtF4cR2rLqL8NtYlzlwF90GN0BgEB4DAvfNHtYY_fS84kNyKIhPvLjdMA.6hSsWfYaPxYepgZeKwlbmuCiJzN5Mqr1G0jeIEKK_g8&dib_tag=se&keywords=Stewart+Pro-Treat+Freeze-Dried+Beef+Liver&qid=1780910457&sprefix=stella+%26+chewy%27s+carnivore+crunch+beef+treats%2Caps%2C189&sr=8-1&linkCode=ll2&tag=isitsafeformy-20&linkId=1bfc3cbd650ab412acb2821daea62c43&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## Frequently Asked Questions
 
@@ -127,6 +152,13 @@ Both framings capture part of the picture. "Toxic" accurately describes garlic's
 ### Does cooking the chickpeas or blending the hummus change the garlic toxicity?
 
 No. The Merck Veterinary Manual is explicit that all forms of garlic — raw, cooked, dehydrated, and powdered — retain full allium toxicity. Processing does not neutralise the compounds responsible for oxidative RBC damage.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For further reading</p>
+  <p class="callout-title">The Forever Dog by Rodney Habib and Karen Becker</p>
+  <p class="callout-body">A well-regarded reference covering canine nutrition, health, and longevity — for dog owners interested in a deeper look at the choices behind their dog's diet and lifestyle.</p>
+  <a class="callout-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## About This Guide
 

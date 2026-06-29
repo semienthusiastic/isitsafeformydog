@@ -113,6 +113,13 @@ The serious signs are haematological — they reflect the breakdown of red blood
 
 **Breed note:** VCA Hospitals notes that certain breeds — particularly dogs of Japanese descent such as Akitas and Shiba Inus — may be more susceptible to allium toxicosis than other breeds.
 
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">For households where pet emergencies are infrequent enough that response time matters, a first aid kit on hand is a small investment in preparedness — wound care, bandaging, and a reference for situations that don't require an emergency clinic but do require immediate response.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
 ## What About Pesto as a Regular Addition?
 
 The cumulative nature of allium toxicity makes this worth stating directly: **pesto should not be a regular part of a dog's diet**, even in small amounts. Each exposure adds to the oxidative burden on red blood cells. Dogs fed garlic-containing foods regularly can develop chronic haemolytic anaemia without any single incident appearing to be the cause.
@@ -151,6 +158,13 @@ Garlic's toxic compounds cause oxidative damage to red blood cells. The RBCs don
 ### Is red pesto safer than green pesto?
 
 Red pesto (typically made with sun-dried tomatoes and sometimes different nuts) still almost always contains garlic, and the same concerns apply. It's not a safer alternative.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For further reading</p>
+  <p class="callout-title">The Forever Dog by Rodney Habib and Karen Becker</p>
+  <p class="callout-body">A well-regarded reference covering canine nutrition, health, and longevity — for dog owners interested in a deeper look at the choices behind their dog's diet and lifestyle.</p>
+  <a class="callout-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## About This Guide
 

@@ -119,6 +119,13 @@ Plain cooked pasta without sauce or seasoning is not toxic to dogs, but it offer
 
 Possibly. "Natural flavors" is a regulatory category that can include garlic and onion extracts without naming them. If a sauce lists natural flavors without further clarification, treat it as potentially containing alliums. The [marinara sauce](/marinara-sauce/) page covers the full label-reading guidance on this point.
 
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For further reading</p>
+  <p class="callout-title">The Forever Dog by Rodney Habib and Karen Becker</p>
+  <p class="callout-body">A well-regarded reference covering canine nutrition, health, and longevity — for dog owners interested in a deeper look at the choices behind their dog's diet and lifestyle.</p>
+  <a class="callout-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
 ## About This Guide
 
 This guide was researched and written by **Claire Donnelly** for *Is It Safe For My Dog?*. We are not veterinarians. Each guide is compiled from published, publicly accessible veterinary and toxicology sources — for this page, the Merck Veterinary Manual, the ASPCA, the American Kennel Club, and PetMD — and cross-checked before publication. This is general information to help you understand the risk; it does not replace a consultation with your vet.
