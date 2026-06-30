@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects
+# Old misspelled guacamole slug -> corrected, calibrated page (301, consolidates SEO)
+/guacomole     /guacamole/   301
+/guacomole/    /guacamole/   301

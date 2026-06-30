@@ -1,6 +1,6 @@
 # Project State — Is It Safe For My Dog
 
-**Last updated:** June 2026
+**Last updated:** 30 June 2026
 **Purpose:** Single-source onboarding document for any collaborator (human or AI) resuming work on this project. Read this before doing anything else.
 
 ---
@@ -148,12 +148,28 @@ One disclosure per page covers all affiliate links on that page.
 - **ARCA Pet First Aid Kit** (preparedness, used on all affiliate-monetised pages): see bacon.md.
 - **The Forever Dog by Habib & Becker** (further reading, used on all affiliate-monetised pages): see bacon.md.
 
+**Principle: standing URLs by default, thematic substitution only where editorially better.**
+
+The default is to reuse these standing URLs across pages. This is deliberate, not laziness — three reasons:
+
+1. **Operational simplicity.** One product per slot, one URL to manage, one verification when something changes. Scales cleanly as the site grows.
+2. **Compounding affiliate authority.** Amazon's system recognises patterns of traffic to consistent products, which modestly improves the buyer journey and conversion over time.
+3. **Reader expectations.** "For further reading" is the same editorial intent on every page; recommending a different book on each page would feel arbitrary, not thoughtful.
+
+Substitute a standing URL only when a page-specific product would *genuinely* serve the reader better — not for variety's sake. Concrete examples of when substitution is editorially defensible:
+
+- **Treat substitute slot on meat-themed pages:** On a future fish-related page (salmon, tuna, sardines), freeze-dried fish treats fit better than freeze-dried beef liver. On a chicken or turkey page, freeze-dried chicken treats fit better. On the existing condiment cluster (Category 1 pages), the topic isn't meat — so generic beef liver as a "savoury treat" recommendation is right.
+- **Book slot on emergency-themed pages:** A first-aid-specific book fits better than *The Forever Dog* on a genuinely emergency-tinged topic. **In use as of 30 June 2026:** *First Aid for Dogs: An invaluable guide for all dog lovers* by Emma Hammett RGN — `https://amzn.to/4p5TyHV` — placed on the pizza-dough (Emergency) page. Use this book for the book slot on any future Emergency-status page; keep *The Forever Dog* for all non-emergency pages. Not a strict rule beyond that; a per-page editorial call.
+- **First-aid kit slot:** Rarely worth varying. If a better kit is found on Amazon (better reviews, better contents, better availability), the right move is a one-time global update rather than per-page variation.
+
+**Don't introduce a new specific product unless you can articulate why it's better than the standing one for that specific page.** The boring answer (use the standing URL) is usually right.
+
 ### 3.6 Page-specific affiliate URLs (Tier 1)
 
 - **evaporated-milk:** PetAg Esbilac Powder Milk Replacer — `https://amzn.to/4vx8cdb`
 - **chicken-broth:** Honest Kitchen Chicken Bone Broth — `https://amzn.to/4xaHrx3`
 - **beef-broth:** Honest Kitchen Beef Bone Broth — `https://amzn.to/4gco00q`
-- **pizza-dough:** Pet emergency window decal — `https://amzn.to/4oduyy7`
+- **pizza-dough:** Pet emergency window decal — `https://amzn.to/4oduyy7`; plus *First Aid for Dogs* by Emma Hammett (book slot, replacing *The Forever Dog* on this Emergency page) — `https://amzn.to/4p5TyHV`
 
 ### 3.7 Page categorisation for affiliate purposes
 
@@ -184,37 +200,27 @@ One disclosure per page covers all affiliate links on that page.
 13. tomato-sauce
 14. ketchup
 15. hummus
-16. guacamole (renamed from guacomole.md — file rename in git history)
+16. guacamole (the stale misspelled duplicate `guacomole.md` was deleted 30 June 2026; a 301 redirect `/guacomole/` → `/guacamole/` now lives in `public/_redirects` — see §4.4)
 17. avocado
 18. worcestershire-sauce
 19. bacon (first affiliate-monetised page, prototype for affiliate visual treatment)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-Confirmed via manual spot-check (June 2026):
-- bacon ✓
-- soy-sauce ✓
-- marinara-sauce ✓
-- italian-seasoning ✓
-- chicken-broth ✓
+**Status (30 June 2026): COMPLETE — all 19 rewritten pages carry the full Option C affiliate treatment.** The retrofit backlog is cleared.
 
-Confirmed NOT yet retrofitted:
-- hummus
-- evaporated-milk
-- pesto
-- ketchup
-- pasta-sauce
-- worcestershire-sauce
-- cream-of-mushroom-soup
-- nutmeg
-- tomato-paste
-- tomato-sauce
-- avocado
-- guacamole
-- beef-broth
-- pizza-dough
+All 19 pages confirmed (build-verified):
+- bacon ✓ (prototype)
+- soy-sauce ✓ · marinara-sauce ✓ · italian-seasoning ✓ · chicken-broth ✓ (pre-retrofit)
+- hummus ✓ · pesto ✓ · ketchup ✓ · pasta-sauce ✓ · worcestershire-sauce ✓ · cream-of-mushroom-soup ✓ (Batch 1 — Category 1)
+- nutmeg ✓ · tomato-paste ✓ · tomato-sauce ✓ · avocado ✓ · guacamole ✓ (Batch 2 — Category 3)
+- evaporated-milk ✓ · beef-broth ✓ · pizza-dough ✓ (Batch 3 — Tier 1 / Emergency)
 
-**Outstanding retrofit work:** ~14 pages.
+**Notes on the June 2026 retrofit:**
+
+- Several pages this doc previously listed as "not retrofitted" were in fact already partially done (panel plus one or two body callouts present). The retrofit added only the missing callouts rather than duplicating existing blocks.
+- Within-cluster wording was kept consistent: the Category 1 cohort reuses the Stewart linkId `1bfc3cbd…` and ARCA linkId `02faa484…`; new Category 1 pages use the "For households…" ARCA body wording, while the Category 3 cohort uses the "compact kit…" wording already present on nutmeg/tomato-paste. Both ARCA wordings and both ARCA/Stewart linkIds are valid and track to `isitsafeformy-20`; the variation is cosmetic and consistent within each cluster.
+- **pizza-dough (Emergency page) placement deviation — deliberate.** The standard layout puts the disclosure + recommendations panel before the first `##`. On pizza-dough that would push the life-saving "call your vet NOW" triage block below affiliate content, which is editorially unacceptable. So the emergency triage section is kept first, and the disclosure + panel sit immediately *after* it. Any future Emergency-status pages should follow the same rule: triage content always leads; affiliate apparatus never sits above it.
 
 ### 4.3 Trust foundation pages
 
@@ -235,6 +241,7 @@ Footer wired with all four links. About page references Claire Donnelly byline c
 - Status badge styling (Emergency badge with bg-red-600 animate-pulse)
 - All 246 foods have valid categories — no orphans confirmed
 - .slug grep sweep clean (search.json's .slug is custom-derived from item.id)
+- Duplicate /guacomole/ page resolved (30 June 2026): the stale misspelled `guacomole.md` (old "Toxic" classification, never deleted when the corrected `guacamole.md` was created) was removed. This also established the site's **first redirect infrastructure**: `public/_redirects` with a 301 from `/guacomole/` → `/guacamole/`. Cloudflare Pages reads `_redirects` from the build output root, and Astro copies `public/` to `dist/`, so the file is picked up automatically. Use this same file for any future slug-change redirects (preserves SEO equity from indexed URLs rather than 404-ing).
 
 ### 4.5 Analytics trajectory (June 2026)
 
@@ -283,13 +290,17 @@ Pages are committed individually, not in batches. This makes any single page rol
 
 After the first ~10 page rewrites, the calibration process was streamlined: Claude no longer reviews prose at the sentence level. Claude reviews research findings, source URLs, status calibration, and dose math; Claude Code drafts the page; Claude reviews the draft for editorial framing, structural integrity, and any specific concerns; Patrick handles final verification (link clicks, preview) and commit. This is the operational mode that scales.
 
+### 5.6 Affiliate product selection workflow
+
+When a new page needs a specific-product affiliate link, the workflow is: Claude (chat) suggests two or three candidate products with editorial reasoning for each; Patrick verifies the suggestions on Amazon (current availability, reviews, formulation), chooses one or substitutes a better alternative if found; Patrick generates the affiliate URL via SiteStripe (logged into Amazon Associates) and confirms the `tag=isitsafeformy-20` parameter is embedded; Patrick sends the URL back to Claude for integration into the page instruction for Claude Code. Standing URLs (book, first-aid kit, Stewart Pro-Treat for the existing Category 1 cluster) are reused without re-verification each time, unless availability concerns arise.
+
 ---
 
 ## 6. Backlog and next steps
 
-### 6.1 Immediate next: complete the affiliate retrofit
+### 6.1 Affiliate retrofit — COMPLETE (30 June 2026)
 
-See section 4.2 — ~14 pages still need the Option C affiliate treatment applied. This should be done before any new rewrites, so the affiliate infrastructure is uniform across all rewritten pages.
+All 19 rewritten pages now carry the full Option C affiliate treatment (see §4.2). The retrofit backlog that previously blocked new rewrites is cleared. **Next active work item is the peanut-butter rewrite — see §6.2.**
 
 ### 6.2 Next rewrite (after retrofit completes): peanut-butter
 

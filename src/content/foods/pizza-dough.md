@@ -27,6 +27,17 @@ shortAnswer: ["Raw pizza dough is a veterinary emergency — call your vet or an
 
 If your dog ate raw dough recently, stop reading and make that call now.
 
+> **Affiliate disclosure:** This guide contains affiliate links. If you purchase via these links, we may earn a small commission at no extra cost to you. This never affects our safety assessments — see our [Editorial Standards](/editorial-standards/) for how we work.
+
+<div class="recommendations-panel not-prose">
+  <p class="panel-label">Recommendations on this page</p>
+  <ul>
+    <li><strong>Emergency preparedness:</strong> Pet Emergency Window Decal — alerts firefighters and first responders that pets are inside your home. <a class="panel-link" href="https://amzn.to/4oduyy7" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Canine first aid:</strong> First Aid for Dogs by Emma Hammett — a step-by-step manual for canine emergencies, including choking, poisoning, and CPR. <a class="panel-link" href="https://amzn.to/4p5TyHV" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+  </ul>
+</div>
+
 ## Raw Dough vs. Baked: The Only Distinction That Matters
 
 **Raw yeast dough — emergency.** Live, active yeast continues fermenting in the warm, moist environment of the stomach. It produces gas that expands the dough mass and alcohol that absorbs into the bloodstream. Both are happening continuously and simultaneously until the yeast is removed or neutralised.
@@ -92,6 +103,13 @@ Ethanol toxicosis is the more common cause of death in bread dough cases. Both h
 
 **The delayed presentation matters.** A dog that seems mildly affected at 30 minutes may deteriorate substantially over the next two hours as fermentation continues and more ethanol enters the bloodstream. Do not interpret early mild signs as reassurance — they are a reason to move faster, not slower.
 
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">For preparedness</p>
+  <p class="callout-title">ARCA Pet First Aid Kit</p>
+  <p class="callout-body">An emergency like raw-dough ingestion is a vet trip, not a home-treatment situation — but a stocked first aid kit is worth having for the wider range of incidents that fall short of an emergency clinic. Wound care, bandaging, and a quick reference for the moments when having supplies on hand matters.</p>
+  <a class="callout-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
+
 ## What About Baked Pizza Crust?
 
 A dog that ate fully cooked pizza crust does not face the yeast emergency described above. The relevant questions are about the toppings and ingredients, not the dough itself.
@@ -105,6 +123,13 @@ Plain baked [flour](/flour/)-based food with no dangerous toppings follows ordin
 ## Other Sources of Ethanol — Same Rules Apply
 
 Raw yeast dough is not the only way a dog can be poisoned by ethanol. [Wine](/wine/), beer, spirits, and [vanilla extract](/vanilla-extract/) — which is typically 35% alcohol — carry the same ethanol toxicosis risk. Rum-soaked cakes, alcoholic desserts, and fermenting fruit are seasonal hazards. The same "call your vet immediately, do not wait for symptoms" guidance applies to any significant alcohol ingestion in a dog.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">Emergency preparedness</p>
+  <p class="callout-title">Pet Emergency Window Decal</p>
+  <p class="callout-body">On the theme of being ready before something goes wrong: a window or door decal tells firefighters and first responders that pets are inside your home — and how many — if you are ever not there to tell them yourself. A one-time, low-cost addition to a household's emergency readiness.</p>
+  <a class="callout-link" href="https://amzn.to/4oduyy7" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## Frequently Asked Questions
 
@@ -129,6 +154,13 @@ If a dog has ethanol in its system and is showing any CNS depression, inducing v
 ### How quickly does treatment need to happen?
 
 The sooner the better. The Merck Veterinary Manual indicates that emesis and decontamination are most effective — and safest — while the dog is still clinically normal. Once significant alcohol has been absorbed, treatment shifts to managing the effects rather than preventing them. If you are reading this after your dog ate raw dough, the time to call was several minutes ago.
+
+<div class="affiliate-callout not-prose">
+  <p class="callout-label">Canine first aid</p>
+  <p class="callout-title">First Aid for Dogs by Emma Hammett</p>
+  <p class="callout-body">A practical, step-by-step canine first-aid manual — recognising emergencies and knowing what to do for choking, poisoning, CPR, and injuries while you get your dog to a vet. A fitting reference to keep on hand for exactly the kind of time-critical situation this page describes.</p>
+  <a class="callout-link" href="https://amzn.to/4p5TyHV" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+</div>
 
 ## About This Guide
 
