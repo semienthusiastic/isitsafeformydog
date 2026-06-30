@@ -208,37 +208,18 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 13. tomato-sauce
 14. ketchup
 15. hummus
-16. guacamole (renamed from guacomole.md — file rename in git history)
+16. guacamole (renamed from guacomole.md — file rename in git history; redirect from old URL confirmed working)
 17. avocado
 18. worcestershire-sauce
 19. bacon (first affiliate-monetised page, prototype for affiliate visual treatment)
+20. peanut-butter (first page built with affiliate links from launch; xylitol calibration centrepiece)
+21. eggs (first page selected by data-driven prioritisation per §6.5; dropped dead VCA citation, see §2.6 transparency principle)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-Confirmed via manual spot-check (June 2026):
-- bacon ✓
-- soy-sauce ✓
-- marinara-sauce ✓
-- italian-seasoning ✓
-- chicken-broth ✓
+All 21 rewritten pages confirmed to carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts). The retrofit batch completed across all previously-rewritten pages; subsequent rewrites (peanut-butter, eggs) launched with affiliate treatment from the start.
 
-Confirmed NOT yet retrofitted:
-- hummus
-- evaporated-milk
-- pesto
-- ketchup
-- pasta-sauce
-- worcestershire-sauce
-- cream-of-mushroom-soup
-- nutmeg
-- tomato-paste
-- tomato-sauce
-- avocado
-- guacamole
-- beef-broth
-- pizza-dough
-
-**Outstanding retrofit work:** ~14 pages.
+The pizza-dough page uses a deliberate variation on the standard layout: the affiliate disclosure and panel are placed *after* the emergency-triage block rather than before, so a reader arriving in panic gets the critical "call your vet now" information before any affiliate content. This is the rule for any future Emergency-status page.
 
 ### 4.3 Trust foundation pages
 
@@ -342,6 +323,18 @@ The following have been considered and deliberately not pursued, for clear reaso
 - **No comments system** — invites moderation burden and spam. Not worth the operational cost.
 - **No recommendations for specific dog food brands** — gets into directory-style territory that would require separate editorial framework. Books, single-ingredient treats, and clearly-safe specific products only.
 - **No persuasive content about contested topics** (raw food diets, particular feeding philosophies) — calibrated information is the site's promise; advocacy isn't.
+
+### 6.5 Strategy hypothesis under test
+
+As of the eggs rewrite (page 21), page selection has shifted from cluster-based logic ("which pages build a coherent topical cluster?") to data-driven logic ("which unrewritten pages are already ranking on or near page 1 and converting visibility poorly?").
+
+**Hypothesis:** Rewriting pages where the site already ranks at positions 5-8 with substantial impressions and near-zero clicks will produce more incremental traffic than rewriting pages selected for cluster coherence, because Google has already decided the site is relevant for those queries — the rewrite converts existing visibility rather than building visibility from scratch.
+
+**Concrete prediction:** Pages selected by the data-driven approach (eggs, mayonnaise, yogurt, curry-powder, milk, tortillas, crackers) should each generate meaningfully more clicks-per-month within 4-8 weeks of shipping than the average cluster-based rewrite did in its first 4-8 weeks.
+
+**How we'll measure:** At the next analytics check, compare new clicks attributed to the data-driven pages against the baseline of cluster-based pages from the earlier batches. If the hypothesis holds, the trajectory acceleration should be visible. If not, we should mix both approaches — some data-driven (for short-term traffic) and some cluster-based (for long-term topical authority).
+
+This is a hypothesis worth measuring deliberately rather than assuming. The current cluster-based pages (the allium cluster, tomato cluster, etc.) have produced real and verifiable traffic growth across three analytics readings — that approach was working. The data-driven approach should outperform it, but we shouldn't assume it does until the evidence is in.
 
 ---
 
