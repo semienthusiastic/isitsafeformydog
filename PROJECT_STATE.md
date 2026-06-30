@@ -1,6 +1,6 @@
 # Project State — Is It Safe For My Dog
 
-**Last updated:** 30 June 2026
+**Last updated:** June 2026
 **Purpose:** Single-source onboarding document for any collaborator (human or AI) resuming work on this project. Read this before doing anything else.
 
 ---
@@ -79,6 +79,14 @@ When a page corrects or contradicts something that's stated elsewhere in popular
 - The Italian seasoning page openly notes the recalibration from Toxic to Caution.
 
 This transparency about correction is part of the site's trust-building discipline. It's not hidden or quietly redone; it's owned.
+
+### 2.7 Strategic positioning — AKC-seeking searchers
+
+Search Console data (June 2026) reveals a meaningful and unusual user pattern: a substantial number of queries explicitly prefix the food query with "akc" — e.g. "akc can dogs eat pickles," "akc can dogs eat basil," "akc bone broth dogs onion garlic sodium," "akc can dogs eat raspberries xylitol." These users are deliberately seeking AKC-cited content rather than general results.
+
+This is a competitive advantage the site is well-positioned to capture: the site already cites AKC consistently across pages, and the AKC-explicit queries are returning the site at positions 6-9 (page 1 borderline) on average.
+
+**Implication for editorial decisions:** When choosing between competing source citations, AKC inclusion is meaningfully valuable — both for direct AKC-seeking traffic and as a trust signal for general searchers. When AKC has substantive coverage of a topic, cite it. When AKC's position is incomplete or non-canonical (as on avocado, where the AKC's calibration is less rigorous than Merck and PPH), still cite AKC but lead with the stronger sources. This is not about deferring to AKC editorially — it's about recognising that a meaningful slice of the target audience explicitly seeks AKC-sourced content.
 
 ---
 
@@ -159,7 +167,7 @@ The default is to reuse these standing URLs across pages. This is deliberate, no
 Substitute a standing URL only when a page-specific product would *genuinely* serve the reader better — not for variety's sake. Concrete examples of when substitution is editorially defensible:
 
 - **Treat substitute slot on meat-themed pages:** On a future fish-related page (salmon, tuna, sardines), freeze-dried fish treats fit better than freeze-dried beef liver. On a chicken or turkey page, freeze-dried chicken treats fit better. On the existing condiment cluster (Category 1 pages), the topic isn't meat — so generic beef liver as a "savoury treat" recommendation is right.
-- **Book slot on emergency-themed pages:** A first-aid-specific book fits better than *The Forever Dog* on a genuinely emergency-tinged topic. **In use as of 30 June 2026:** *First Aid for Dogs: An invaluable guide for all dog lovers* by Emma Hammett RGN — `https://amzn.to/4p5TyHV` — placed on the pizza-dough (Emergency) page. Use this book for the book slot on any future Emergency-status page; keep *The Forever Dog* for all non-emergency pages. Not a strict rule beyond that; a per-page editorial call.
+- **Book slot on emergency-themed pages:** A first-aid-specific book (e.g., *First Aid for Dogs* by Susan Daffron) might fit better than *The Forever Dog* on a genuinely emergency-tinged topic. Not a strict rule; a per-page editorial call.
 - **First-aid kit slot:** Rarely worth varying. If a better kit is found on Amazon (better reviews, better contents, better availability), the right move is a one-time global update rather than per-page variation.
 
 **Don't introduce a new specific product unless you can articulate why it's better than the standing one for that specific page.** The boring answer (use the standing URL) is usually right.
@@ -169,7 +177,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 - **evaporated-milk:** PetAg Esbilac Powder Milk Replacer — `https://amzn.to/4vx8cdb`
 - **chicken-broth:** Honest Kitchen Chicken Bone Broth — `https://amzn.to/4xaHrx3`
 - **beef-broth:** Honest Kitchen Beef Bone Broth — `https://amzn.to/4gco00q`
-- **pizza-dough:** Pet emergency window decal — `https://amzn.to/4oduyy7`; plus *First Aid for Dogs* by Emma Hammett (book slot, replacing *The Forever Dog* on this Emergency page) — `https://amzn.to/4p5TyHV`
+- **pizza-dough:** Pet emergency window decal — `https://amzn.to/4oduyy7`
 
 ### 3.7 Page categorisation for affiliate purposes
 
@@ -200,27 +208,37 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 13. tomato-sauce
 14. ketchup
 15. hummus
-16. guacamole (the stale misspelled duplicate `guacomole.md` was deleted 30 June 2026; a 301 redirect `/guacomole/` → `/guacamole/` now lives in `public/_redirects` — see §4.4)
+16. guacamole (renamed from guacomole.md — file rename in git history)
 17. avocado
 18. worcestershire-sauce
 19. bacon (first affiliate-monetised page, prototype for affiliate visual treatment)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-**Status (30 June 2026): COMPLETE — all 19 rewritten pages carry the full Option C affiliate treatment.** The retrofit backlog is cleared.
+Confirmed via manual spot-check (June 2026):
+- bacon ✓
+- soy-sauce ✓
+- marinara-sauce ✓
+- italian-seasoning ✓
+- chicken-broth ✓
 
-All 19 pages confirmed (build-verified):
-- bacon ✓ (prototype)
-- soy-sauce ✓ · marinara-sauce ✓ · italian-seasoning ✓ · chicken-broth ✓ (pre-retrofit)
-- hummus ✓ · pesto ✓ · ketchup ✓ · pasta-sauce ✓ · worcestershire-sauce ✓ · cream-of-mushroom-soup ✓ (Batch 1 — Category 1)
-- nutmeg ✓ · tomato-paste ✓ · tomato-sauce ✓ · avocado ✓ · guacamole ✓ (Batch 2 — Category 3)
-- evaporated-milk ✓ · beef-broth ✓ · pizza-dough ✓ (Batch 3 — Tier 1 / Emergency)
+Confirmed NOT yet retrofitted:
+- hummus
+- evaporated-milk
+- pesto
+- ketchup
+- pasta-sauce
+- worcestershire-sauce
+- cream-of-mushroom-soup
+- nutmeg
+- tomato-paste
+- tomato-sauce
+- avocado
+- guacamole
+- beef-broth
+- pizza-dough
 
-**Notes on the June 2026 retrofit:**
-
-- Several pages this doc previously listed as "not retrofitted" were in fact already partially done (panel plus one or two body callouts present). The retrofit added only the missing callouts rather than duplicating existing blocks.
-- Within-cluster wording was kept consistent: the Category 1 cohort reuses the Stewart linkId `1bfc3cbd…` and ARCA linkId `02faa484…`; new Category 1 pages use the "For households…" ARCA body wording, while the Category 3 cohort uses the "compact kit…" wording already present on nutmeg/tomato-paste. Both ARCA wordings and both ARCA/Stewart linkIds are valid and track to `isitsafeformy-20`; the variation is cosmetic and consistent within each cluster.
-- **pizza-dough (Emergency page) placement deviation — deliberate.** The standard layout puts the disclosure + recommendations panel before the first `##`. On pizza-dough that would push the life-saving "call your vet NOW" triage block below affiliate content, which is editorially unacceptable. So the emergency triage section is kept first, and the disclosure + panel sit immediately *after* it. Any future Emergency-status pages should follow the same rule: triage content always leads; affiliate apparatus never sits above it.
+**Outstanding retrofit work:** ~14 pages.
 
 ### 4.3 Trust foundation pages
 
@@ -241,7 +259,6 @@ Footer wired with all four links. About page references Claire Donnelly byline c
 - Status badge styling (Emergency badge with bg-red-600 animate-pulse)
 - All 246 foods have valid categories — no orphans confirmed
 - .slug grep sweep clean (search.json's .slug is custom-derived from item.id)
-- Duplicate /guacomole/ page resolved (30 June 2026): the stale misspelled `guacomole.md` (old "Toxic" classification, never deleted when the corrected `guacamole.md` was created) was removed. This also established the site's **first redirect infrastructure**: `public/_redirects` with a 301 from `/guacomole/` → `/guacamole/`. Cloudflare Pages reads `_redirects` from the build output root, and Astro copies `public/` to `dist/`, so the file is picked up automatically. Use this same file for any future slug-change redirects (preserves SEO equity from indexed URLs rather than 404-ing).
 
 ### 4.5 Analytics trajectory (June 2026)
 
@@ -298,9 +315,9 @@ When a new page needs a specific-product affiliate link, the workflow is: Claude
 
 ## 6. Backlog and next steps
 
-### 6.1 Affiliate retrofit — COMPLETE (30 June 2026)
+### 6.1 Immediate next: complete the affiliate retrofit
 
-All 19 rewritten pages now carry the full Option C affiliate treatment (see §4.2). The retrofit backlog that previously blocked new rewrites is cleared. **Next active work item is the peanut-butter rewrite — see §6.2.**
+See section 4.2 — ~14 pages still need the Option C affiliate treatment applied. This should be done before any new rewrites, so the affiliate infrastructure is uniform across all rewritten pages.
 
 ### 6.2 Next rewrite (after retrofit completes): peanut-butter
 
@@ -308,24 +325,13 @@ Selected as the next rewrite because: it has the strongest affiliate fit of any 
 
 Candidate xylitol-free peanut butter products to consider: Crazy Richard's 100% Natural, Smucker's Natural, Teddie All Natural, Kirkland Signature Organic, Bark Bistro Buddy Budder. Verify on Amazon at time of rewrite.
 
-**Status for the page:** **Caution** (not Emergency). Standard peanut butter is fine for dogs; the Emergency scenario applies only to xylitol-containing products, handled as a clearly-marked Emergency-tier sub-section within a Caution page. Do **not** set the page status to Emergency — that would misrepresent standard peanut butter.
-
-**Central calibration emphasis — the page's value is the dose math and the label-reading, not a safe/unsafe binary.** The honest calibration: standard peanut butter is fine for dogs; xylitol-containing peanut butter is a genuine veterinary emergency; the practical task is helping readers tell the difference. Build the page around that, specifically:
-
-- **Xylitol toxic-dose threshold.** Verify against the two primary sources for this figure: **Pet Poison Helpline** and **Merck Veterinary Manual**. Established working figures from the ketchup page: hypoglycaemia threshold ~100 mg/kg body weight; hepatotoxicity (liver necrosis) ~500 mg/kg; rapid insulin release with onset within ~30 minutes. Re-confirm at write time.
-- **Worked dose math for a 10 lb dog** from typical xylitol-containing peanut butter brands. Historical examples to check (formulations change — verify current ingredient lists at write time): **Go Nuts Co., Krush Nutrition, Nuts 'N More.** Show how few grams/tablespoons cross the hypoglycaemia and hepatotoxic thresholds for a 10 lb (4.5 kg) dog.
-- **Label-reading guidance** — the practical payoff. How to identify xylitol-containing vs xylitol-free products: where xylitol appears on a label (and aliases such as "birch sugar"), and the critical distinction that **"natural" does not mean "xylitol-free"** (xylitol-sweetened butters are often marketed as natural/health products). Give readers a concrete way to check their own jar.
-
-**Affiliate fit:** xylitol-free peanut butter is a genuine safety recommendation (not opportunistic) — built with affiliate links from launch. Candidate xylitol-free products above are for Patrick to verify on Amazon and generate the SiteStripe URL (per §5.6).
-
-**Workflow when this starts (do not pre-empt):** run §5.1 research-and-verify first — confirm-200 sources, xylitol dose math, current-page inaccuracies, candidate products for Patrick to verify — then proceed through the standard calibration → draft → review → commit cycle.
-
 ### 6.3 Parked
 
 - **Off-site SEO:** Reddit and Pinterest were identified as candidate pilot channels. Decision deferred — choose one and pilot for 8 weeks rather than spreading effort across both.
 - **AdSense application:** Not yet at threshold (~100 daily real visitors). Re-evaluate when organic traffic crosses ~50/day. Currently ~3.7/day, so 3-6 months out at current trajectory.
 - **Citation cleanup (background work):** 5 Safe pages with zero sources, 65 Caution pages with zero sources, 61 pages with one source, 111 healthy pages needing dead-link strips. Still on hold.
 - **Email forwarding for the contact page** ([CONTACT EMAIL] placeholder still in place). Recommended: Cloudflare Email Routing (free).
+- **Category structure cleanup:** The eggs page currently sits under categories ["Dairy", "Pantry"] — eggs are not dairy. The page itself addresses this honestly in the body ("eggs are not dairy despite often sharing the fridge shelf"), but the underlying category data is inaccurate. Likely affects other foods too. A small structural cleanup task: review existing categories, identify miscategorised foods, consider whether a new category (e.g. "Eggs & Protein") is warranted. Touches category-page navigation, so worth doing as a deliberate small pass rather than ad-hoc per page.
 
 ### 6.4 Not in scope (deliberately)
 
