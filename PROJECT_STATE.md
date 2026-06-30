@@ -308,6 +308,18 @@ Selected as the next rewrite because: it has the strongest affiliate fit of any 
 
 Candidate xylitol-free peanut butter products to consider: Crazy Richard's 100% Natural, Smucker's Natural, Teddie All Natural, Kirkland Signature Organic, Bark Bistro Buddy Budder. Verify on Amazon at time of rewrite.
 
+**Status for the page:** **Caution** (not Emergency). Standard peanut butter is fine for dogs; the Emergency scenario applies only to xylitol-containing products, handled as a clearly-marked Emergency-tier sub-section within a Caution page. Do **not** set the page status to Emergency — that would misrepresent standard peanut butter.
+
+**Central calibration emphasis — the page's value is the dose math and the label-reading, not a safe/unsafe binary.** The honest calibration: standard peanut butter is fine for dogs; xylitol-containing peanut butter is a genuine veterinary emergency; the practical task is helping readers tell the difference. Build the page around that, specifically:
+
+- **Xylitol toxic-dose threshold.** Verify against the two primary sources for this figure: **Pet Poison Helpline** and **Merck Veterinary Manual**. Established working figures from the ketchup page: hypoglycaemia threshold ~100 mg/kg body weight; hepatotoxicity (liver necrosis) ~500 mg/kg; rapid insulin release with onset within ~30 minutes. Re-confirm at write time.
+- **Worked dose math for a 10 lb dog** from typical xylitol-containing peanut butter brands. Historical examples to check (formulations change — verify current ingredient lists at write time): **Go Nuts Co., Krush Nutrition, Nuts 'N More.** Show how few grams/tablespoons cross the hypoglycaemia and hepatotoxic thresholds for a 10 lb (4.5 kg) dog.
+- **Label-reading guidance** — the practical payoff. How to identify xylitol-containing vs xylitol-free products: where xylitol appears on a label (and aliases such as "birch sugar"), and the critical distinction that **"natural" does not mean "xylitol-free"** (xylitol-sweetened butters are often marketed as natural/health products). Give readers a concrete way to check their own jar.
+
+**Affiliate fit:** xylitol-free peanut butter is a genuine safety recommendation (not opportunistic) — built with affiliate links from launch. Candidate xylitol-free products above are for Patrick to verify on Amazon and generate the SiteStripe URL (per §5.6).
+
+**Workflow when this starts (do not pre-empt):** run §5.1 research-and-verify first — confirm-200 sources, xylitol dose math, current-page inaccuracies, candidate products for Patrick to verify — then proceed through the standard calibration → draft → review → commit cycle.
+
 ### 6.3 Parked
 
 - **Off-site SEO:** Reddit and Pinterest were identified as candidate pilot channels. Decision deferred — choose one and pilot for 8 weeks rather than spreading effort across both.
