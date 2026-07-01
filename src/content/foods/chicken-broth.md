@@ -20,7 +20,7 @@ shortAnswer: ["Plain, unsalted chicken broth with no onion or garlic is safe for
 <div class="recommendations-panel not-prose">
   <p class="panel-label">Recommendations on this page</p>
   <ul>
-    <li><strong>Dog-safe alternative:</strong> The Honest Kitchen Chicken Bone Broth — dog-formulated, no alliums or excessive sodium. <a class="panel-link" href="https://amzn.to/4xaHrx3" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
+    <li><strong>Dog-safe alternative:</strong> The Honest Kitchen Bone Broth Bites — a human-grade dog treat made with real bone broth, no alliums or excessive sodium. <a class="panel-link" href="https://amzn.to/4gW3npE" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
     <li><strong>For preparedness:</strong> ARCA Pet First Aid Kit — a small investment for unexpected pet emergencies. <a class="panel-link" href="https://www.amazon.com/ARCA-PET-First-Aid-Piece/dp/B0BV2X4SM9?crid=FI9FE1GIG1WS&dib=eyJ2IjoiMSJ9.8_O5GOOGLAcBh0KZsNu1Ysc_13dx5Rf_t3RUR5rL_qe_TSEJj-jxMEQv9JOi0yPB812Br5OFufXejv5lCJAV50S9EEmMudrxRZTbRJ1aUUG7cBC1wGAbjQ6HyaJRtG0pbAFmYTZK9hmzsEZLOT5GaPpthqrzAsKTTcinu44SUqrHqaa-sPu2YbrJlIlJ0aYI2iPTm769fIxMsH4rrU8kxaSL99T9qVm7dunpkNxMTWoZLvWB1jPR3qxX0Kbp2CgjuX6xZFA1MHi03LCiPPbwXN853CreEFc3siCiSci7yVQ.6xxbti9szxy_NYdqnQZ9RHkl13gZePZfq8lrvd4usnA&dib_tag=se&keywords=dog+first+aid+kit+ARCA&qid=1780911017&sprefix=dog+first+aid+kit+%2Caps%2C237&sr=8-6&linkCode=ll2&tag=isitsafeformy-20&linkId=02faa484b7084e505b26d6b42e2ef118&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
     <li><strong>Further reading:</strong> The Forever Dog by Habib &amp; Becker — a well-regarded reference on canine nutrition and longevity. <a class="panel-link" href="https://www.amazon.com/Forever-Dog-Surprising-Companion-Healthier/dp/0063002612?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.3qnrmZEIpdvGBPFp7eluU23R_9X0rWXk98Fh-W8XYblNTAoEOY1_GhzbQvUiA4reEXc45KpGGeGNnGtgJuYIQ6Rc5fSRZi1mDfB9WuKTjami7Qd0rEI62OEzAq09NyCsBuLSG890HVbZ7NlcoXFV7ytgD5uT4fuesednoWrG6RA.JcOCUUcc7RXbWVnRXpUSYIjNC-ki5ClTQ5WhSBYm62o&qid=1780911055&sr=8-2&linkCode=ll2&tag=isitsafeformy-20&linkId=be18135ab0cea788f59b5f146cbc8c38&language=en_US&ref_=as_li_ss_tl" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a></li>
   </ul>
@@ -100,10 +100,10 @@ Before giving any commercial broth to a dog, scan the full ingredient list for:
 **What a dog-safe broth looks like:** Chicken or bones, water, possibly citric acid. That's it. A short ingredient list with no alliums and no natural flavors is what you're looking for.
 
 <div class="affiliate-callout not-prose">
-  <p class="callout-label">Dog-safe broth alternative</p>
-  <p class="callout-title">The Honest Kitchen Chicken Bone Broth for Dogs</p>
-  <p class="callout-body">A dog-formulated broth without garlic, onion, or excessive sodium — designed specifically as a food topper or hydration aid. Avoids the label-reading uncertainty of supermarket chicken broth: what the checklist above describes is what this product delivers.</p>
-  <a class="callout-link" href="https://amzn.to/4xaHrx3" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
+  <p class="callout-label">Dog-safe bone-broth treat</p>
+  <p class="callout-title">The Honest Kitchen Bone Broth Bites</p>
+  <p class="callout-body">If you want to give the bone-broth flavour dogs love without vetting a supermarket label, these are a human-grade dog treat made with real bone broth and sweet potato — no garlic, onion, or excessive sodium. It's a treat rather than a pourable broth, but it sidesteps exactly the allium-and-sodium label uncertainty this page is about.</p>
+  <a class="callout-link" href="https://amzn.to/4gW3npE" target="_blank" rel="noopener noreferrer nofollow">View on Amazon →</a>
 </div>
 
 ## Stock Cubes and Bouillon: Not Suitable
