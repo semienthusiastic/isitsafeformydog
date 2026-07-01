@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isitsafeformydog.com/sitemap-index.xml

@@ -175,9 +175,12 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 ### 3.6 Page-specific affiliate URLs (Tier 1)
 
 - **evaporated-milk:** PetAg Esbilac Powder Milk Replacer — `https://amzn.to/4vx8cdb`
-- **chicken-broth:** Honest Kitchen Chicken Bone Broth — `https://amzn.to/4xaHrx3`
-- **beef-broth:** Honest Kitchen Beef Bone Broth — `https://amzn.to/4gco00q`
+- **chicken-broth:** Honest Kitchen Bone Broth Bites (baked treat with beef bone broth + sweet potato) — `https://amzn.to/4gW3npE`
+- **beef-broth:** Honest Kitchen Bone Broth Bites — same URL and product as chicken-broth — `https://amzn.to/4gW3npE`
+- **milk:** Honest Kitchen Bone Broth Bites — same URL — `https://amzn.to/4gW3npE`
 - **pizza-dough:** Pet emergency window decal — `https://amzn.to/4oduyy7`
+
+**Note on shared URL:** As of the milk page rewrite, three pages (chicken-broth, beef-broth, milk) share the same Honest Kitchen Bone Broth Bites URL. This replaced earlier `amzn.to` short links (`4xaHrx3` and `4gco00q`) that had drifted to Native Pet products despite the copy describing Honest Kitchen. See §5.7 for the affiliate URL verification discipline that emerged from catching this mismatch. Product framing on all three pages describes a "bone-broth treat" (a baked dog treat), not a "pourable broth" — the copy was updated to match the actual product accurately.
 
 ### 3.7 Page categorisation for affiliate purposes
 
@@ -214,10 +217,14 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 19. bacon (first affiliate-monetised page, prototype for affiliate visual treatment)
 20. peanut-butter (first page built with affiliate links from launch; xylitol calibration centrepiece)
 21. eggs (first page selected by data-driven prioritisation per §6.5; dropped dead VCA citation, see §2.6 transparency principle)
+22. mayonnaise (§6.5 data-driven prioritisation; used AKC "Human Foods Dogs Can and Can't Eat" as substituted source with transparent attribution — established pattern for no-dedicated-AKC-page situations)
+23. yogurt (§6.5 data-driven prioritisation; xylitol calibration correction — mainstream sugar-free yogurts don't use xylitol despite popular framing; dairy cluster sibling to milk and evaporated-milk)
+24. curry-powder (§6.5 data-driven prioritisation; ingredient-list-led framing — allium is the real concern, not "curry powder is toxic" generic claim; sibling calibration to italian-seasoning)
+25. milk (§6.5 data-driven prioritisation; dairy cluster anchor — highest-lactose in the cluster progression; discovered/corrected the affiliate URL drift documented in §5.7)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-All 21 rewritten pages confirmed to carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts). The retrofit batch completed across all previously-rewritten pages; subsequent rewrites (peanut-butter, eggs) launched with affiliate treatment from the start.
+All 25 rewritten pages confirmed to carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts). The retrofit batch completed across all previously-rewritten pages; subsequent rewrites (peanut-butter, eggs, mayonnaise, yogurt, curry-powder, milk) launched with affiliate treatment from the start.
 
 The pizza-dough page uses a deliberate variation on the standard layout: the affiliate disclosure and panel are placed *after* the emergency-triage block rather than before, so a reader arriving in panic gets the critical "call your vet now" information before any affiliate content. This is the rule for any future Emergency-status page.
 
@@ -291,6 +298,24 @@ After the first ~10 page rewrites, the calibration process was streamlined: Clau
 ### 5.6 Affiliate product selection workflow
 
 When a new page needs a specific-product affiliate link, the workflow is: Claude (chat) suggests two or three candidate products with editorial reasoning for each; Patrick verifies the suggestions on Amazon (current availability, reviews, formulation), chooses one or substitutes a better alternative if found; Patrick generates the affiliate URL via SiteStripe (logged into Amazon Associates) and confirms the `tag=isitsafeformy-20` parameter is embedded; Patrick sends the URL back to Claude for integration into the page instruction for Claude Code. Standing URLs (book, first-aid kit, Stewart Pro-Treat for the existing Category 1 cluster) are reused without re-verification each time, unless availability concerns arise.
+
+### 5.7 Affiliate URL verification discipline
+
+Amazon short links (`amzn.to/...`) are opaque — the destination product is not visible in the URL string, unlike long-form Amazon URLs which contain the ASIN. Short links can also drift: if Amazon changes what the shortlink redirects to (product retired, ASIN consolidated, product replaced), the link on the site silently redirects to something else, potentially with copy that no longer matches.
+
+This risk was surfaced during the milk page research (June 2026), when the `amzn.to/4xaHrx3` shortlink for chicken-broth and the `amzn.to/4gco00q` shortlink for beef-broth were found to redirect to Native Pet products, despite the page copy describing Honest Kitchen products. Both were valid affiliate links generating commission — just to the wrong products relative to the copy.
+
+**Discipline going forward:**
+
+1. **When rewriting any page that reuses an existing affiliate URL** (from PROJECT_STATE.md §3.5 or §3.6), verify the destination product still matches the described product before shipping. This is a one-click check via browser resolution of the short link.
+
+2. **When integrating a new affiliate URL onto a page**, click through the affiliate URL and confirm the destination product matches the copy being written. Both directions of the check matter: the URL must lead to the right product, and the copy must describe the actual product accurately.
+
+3. **Periodically (every 3-6 months), spot-check the standing affiliate URLs** — book, first-aid kit, Stewart Pro-Treat, and any Tier 1 URLs — to confirm they still resolve to the described products. This is a small maintenance task that prevents drift.
+
+4. **For future pages, prefer full-form Amazon URLs where feasible** — while short links are cleaner, the ASIN visibility in full URLs makes drift immediately apparent. If a short link is chosen for aesthetic reasons, the verification discipline above becomes more important.
+
+The full URLs generated by SiteStripe (the ones with the long parameter strings) are more durable than shortlinks; the shortlink is a convenience representation that can be repointed independently.
 
 ---
 
