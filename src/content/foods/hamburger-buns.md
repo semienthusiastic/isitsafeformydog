@@ -4,8 +4,8 @@ category: ["Grains", "Bakery"]
 status: Caution
 image: "/images/hamburger-buns.jpg"
 description: "Veterinary and pet-nutrition sources generally describe baked bread products as non-toxic to dogs, but note concerns related to refined carbohydrates, salt, sugar, and added ingredients commonly found in hamburger buns."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-bread", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-bread", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["hamburger buns", "can dogs eat hamburger buns", "dogs bread buns", "hamburger buns dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that baked bread products like hamburger buns are not poisonous to dogs, but they contain refined flour, salt, sugar, and sometimes additives that may cause digestive upset. Organisations such as the AKC and PetMD note that bread offers little nutritional value for dogs."]
 ---

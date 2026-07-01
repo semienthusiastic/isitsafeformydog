@@ -4,10 +4,10 @@ category: ["Fruits"]
 status: Safe
 image: "/images/melon.jpg"
 description: "Veterinary organisations generally classify common melons as safe for dogs when eaten plain, while noting that seeds, rinds, and high sugar content may cause digestive issues."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-watermelon/",
-  "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs"
 ]
 keywords: ["melons", "can dogs eat melon", "dog safety", "melon dogs"]

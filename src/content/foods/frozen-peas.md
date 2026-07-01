@@ -4,8 +4,8 @@ category: ["Vegetables", "Frozen"]
 status: Caution
 image: "/images/frozen-peas.jpg"
 description: "Veterinary and pet-nutrition sources generally describe plain peas as non-toxic to dogs, but note digestive concerns and ingredient-related risks in processed or seasoned products."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peas/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-peas", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peas/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-peas", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["frozen peas", "can dogs eat peas", "dogs peas safety", "peas dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that plain peas are not toxic to dogs, but they may cause digestive upset and concerns depend on preparation and added ingredients. Organisations such as the AKC, PetMD, and the ASPCA note that safety relates to form, processing, and overall diet rather than freezing."]
 ---

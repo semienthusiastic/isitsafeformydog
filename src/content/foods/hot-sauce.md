@@ -4,8 +4,8 @@ category: ["Condiments"]
 status: Caution
 image: "/images/hot-sauce.jpg"
 description: "Veterinary and pet-safety sources describe hot sauce as non-toxic to dogs but warn that spicy ingredients, acids, and common additives such as garlic or onion can cause significant digestive irritation."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spicy-foods/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-spicy-foods", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spicy-foods/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-spicy-foods", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["hot sauce", "can dogs eat hot sauce", "dogs spicy food", "hot sauce dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that hot sauce is not poisonous to dogs, but spicy peppers, acids, and additives commonly cause digestive irritation. Organisations such as the AKC, PetMD, and the ASPCA note that ingredients like garlic or onion increase risk."]
 ---

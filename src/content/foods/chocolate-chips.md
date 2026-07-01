@@ -4,8 +4,8 @@ category: ["Sweets", "Baking"]
 status: Toxic
 image: "/images/chocolate-chips.jpg"
 description: "Veterinary toxicology sources classify chocolate chips as toxic to dogs because they contain theobromine and caffeine, compounds that dogs cannot metabolise safely."
-source: ["ASPCA", "AKC", "PetMD"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate"]
+source: ["ASPCA — People Foods to Avoid", "AKC", "PetMD"]
+sourceUrl: ["https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate"]
 keywords: ["chocolate chips", "can dogs eat chocolate chips", "dog safety", "chocolate dogs"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations such as the ASPCA and AKC state that chocolate contains theobromine and caffeine, which are toxic to dogs. PetMD also lists chocolate chips as unsafe due to their concentrated cocoa content."]
 ---

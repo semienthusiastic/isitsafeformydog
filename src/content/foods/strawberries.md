@@ -4,10 +4,10 @@ category: ["Fruits"]
 status: Safe
 image: "/images/strawberries.jpg"
 description: "Veterinary organisations generally classify strawberries as safe for dogs when eaten plain, while noting their natural sugar content and potential digestive effects."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-strawberries/",
-  "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs"
 ]
 keywords: ["strawberries", "can dogs eat strawberries", "dog safety", "strawberries dogs"]

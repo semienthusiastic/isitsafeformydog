@@ -4,8 +4,8 @@ category: ["Beverages", "Pantry"]
 status: Toxic
 image: "/images/hot-chocolate-mix.jpg"
 description: "Veterinary toxicology sources classify hot chocolate mix as toxic to dogs due to cocoa content, which contains theobromine and caffeine, both of which are poisonous to dogs."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/people-foods", "https://www.petpoisonhelpline.com/poison/chocolate/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
+sourceUrl: ["https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.petpoisonhelpline.com/poison/chocolate/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/"]
 keywords: ["hot chocolate mix", "can dogs drink hot chocolate", "hot chocolate dogs", "hot chocolate mix dog safety"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations state that hot chocolate mix contains cocoa, which includes theobromine and caffeine, substances that are poisonous to dogs. Sources such as the ASPCA, Pet Poison Helpline, and the AKC consistently warn against chocolate exposure."]
 ---

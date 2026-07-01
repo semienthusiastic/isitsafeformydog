@@ -4,8 +4,8 @@ category: ["Pantry"]
 status: Caution
 image: "/images/canned-soup.jpg"
 description: "Veterinary pet-care sources state that soup itself is not inherently toxic to dogs, but canned soups commonly contain high levels of salt and ingredients such as onion or garlic that are associated with health risks."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-soup/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-soup", "https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-soup/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-soup", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["canned soup", "can dogs eat canned soup", "dog safety", "soup dogs"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Canned soup is not classified as toxic to dogs according to veterinary sources such as the AKC and PetMD, but these sources note that canned soups are often very high in salt and may contain ingredients like onion or garlic. The main concerns relate to ingredients and processing rather than soup itself."]
 ---

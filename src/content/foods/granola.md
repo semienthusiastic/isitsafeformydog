@@ -4,8 +4,8 @@ category: ["Grains", "Snacks"]
 status: Caution
 image: "/images/granola.jpg"
 description: "Veterinary and pet-nutrition sources describe granola as non-toxic to dogs but highlight risks related to sugar, fat, and added ingredients such as nuts, raisins, or sweeteners."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-granola/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-granola", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-granola/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-granola", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["granola", "can dogs eat granola", "dogs granola safety", "granola dog food"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that granola is not poisonous to dogs, but it often contains sugar, fats, and added ingredients such as raisins or nuts that can be harmful. Organisations like the AKC, PetMD, and the ASPCA emphasise that ingredient composition is the main concern."]
 ---

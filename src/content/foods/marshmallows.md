@@ -4,8 +4,8 @@ category: ["Sweets"]
 status: Caution
 image: "/images/marshmallows.jpg"
 description: "Veterinary and pet-nutrition sources describe marshmallows as non-toxic to dogs, but warn about high sugar content and the serious risk posed by xylitol in some sugar-free versions."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-marshmallows/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-marshmallows", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-marshmallows/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-marshmallows", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["marshmallows", "can dogs eat marshmallows", "dogs marshmallows", "marshmallows dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that marshmallows are not poisonous to dogs, but they are very high in sugar and some sugar-free versions contain xylitol, which is extremely toxic. Organisations such as the AKC, PetMD, and the ASPCA highlight these concerns."]
 ---

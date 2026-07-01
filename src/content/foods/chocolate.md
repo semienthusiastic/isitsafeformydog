@@ -4,9 +4,9 @@ category: ["Sweets"]
 status: Toxic
 image: "/images/chocolate.jpg"
 description: "Veterinary organisations classify chocolate as toxic to dogs because it contains theobromine and caffeine, which dogs cannot process effectively."
-source: ["ASPCA", "VCA Hospitals", "Merck Veterinary Manual", "Cornell University"]
+source: ["ASPCA — People Foods to Avoid", "VCA Hospitals", "Merck Veterinary Manual", "Cornell University"]
 sourceUrl: [
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs",
   "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals",
   "https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate"

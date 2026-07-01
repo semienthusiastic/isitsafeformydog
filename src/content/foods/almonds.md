@@ -4,8 +4,8 @@ category: ["Nuts"]
 status: Caution
 image: "/images/almonds.jpg"
 description: "Veterinary organisations generally classify almonds as unsuitable for dogs due to digestive difficulty, high fat content, and choking or obstruction risks, even though they are not considered toxic in the same way as macadamia nuts."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-almonds/", "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat", "https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-almonds/", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs"]
 keywords: ["almonds", "can dogs eat almonds", "dog safety", "almonds dogs"]
 shortAnswer: ["Caution: almonds are not toxic, but they are not safe for dogs to eat. Veterinary organisations report that almonds can cause stomach upset, have high fat content, and may pose a choking or blockage risk. The AKC also notes that dogs do not digest almonds well, especially salted or flavoured kinds."]
 ---

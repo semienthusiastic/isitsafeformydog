@@ -4,9 +4,9 @@ category: ["Pantry", "Baking"]
 status: Toxic
 image: "/images/vanilla-extract.jpg"
 description: "Vanilla extract is classified as unsafe for dogs because it contains high levels of alcohol, which veterinary toxicology sources list as toxic to dogs."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
 sourceUrl: [
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods/alcohol",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/alcohol/",
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-vanilla/"
 ]

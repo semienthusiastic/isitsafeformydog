@@ -4,9 +4,9 @@ category: ["Beverages"]
 status: Toxic
 image: "/images/soda.jpg"
 description: "Soda is classified as unsafe for dogs because many varieties contain caffeine, which veterinary toxicology sources list as toxic to dogs. High sugar content and carbonation are also cited as additional concerns."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
 sourceUrl: [
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods/caffeine",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/caffeine/",
   "https://www.akc.org/expert-advice/health/caffeine-and-dogs/"
 ]

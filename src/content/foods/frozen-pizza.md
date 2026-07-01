@@ -4,8 +4,8 @@ category: ["Frozen"]
 status: Caution
 image: "/images/frozen-pizza.jpg"
 description: "Veterinary and pet-safety sources classify pizza as a food of concern for dogs due to ingredients such as cheese, salt, fats, and toppings like onion or garlic, rather than inherent toxicity in the base components."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pizza/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-pizza", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pizza/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-pizza", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["frozen pizza", "can dogs eat pizza", "dogs pizza safety", "pizza dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that pizza is not inherently poisonous to dogs, but frozen pizza commonly contains cheese, high salt, fats, and toppings like onion or garlic that may cause digestive upset or toxicity. Organisations such as the AKC, PetMD, and the ASPCA highlight that ingredient composition is the primary concern."]
 ---

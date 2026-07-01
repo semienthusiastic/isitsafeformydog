@@ -4,8 +4,8 @@ category: ["Pantry", "Sweets"]
 status: Caution
 image: "/images/jam.jpg"
 description: "Veterinary and pet-nutrition sources generally describe jam as non-toxic to dogs, but note concerns related to high sugar content and the possible presence of toxic ingredients such as xylitol or grape-based fruits."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-jelly/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-jelly", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-jelly/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-jelly", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["jam", "can dogs eat jam", "dogs jam", "jam dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that jam is not poisonous to dogs, but it is very high in sugar and some varieties may contain toxic ingredients such as xylitol or grape-derived fruits. Organisations such as the AKC, PetMD, and the ASPCA highlight these concerns."]
 ---

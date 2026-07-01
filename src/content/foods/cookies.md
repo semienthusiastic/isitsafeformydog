@@ -4,8 +4,8 @@ category: ["Sweets", "Snacks"]
 status: Caution
 image: "/images/cookies.jpg"
 description: "Veterinary pet-care sources state that cookies are not a single toxic food, but many cookies contain ingredients such as chocolate, xylitol, raisins, or high sugar and fat levels that are associated with health risks for dogs."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies", "https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["cookies", "can dogs eat cookies", "dog safety", "cookies dogs"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Cookies are not a single toxic item, but veterinary sources note that many cookies contain ingredients like chocolate, xylitol, or raisins that are toxic to dogs. Even plain cookies are high in sugar and fat, which can cause digestive upset."]
 ---

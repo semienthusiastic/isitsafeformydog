@@ -4,8 +4,8 @@ category: ["Pantry", "Sweets"]
 status: Caution
 image: "/images/honey.jpg"
 description: "Veterinary and pet-nutrition sources generally describe honey as non-toxic to dogs, but note concerns related to sugar content and the risk of botulism spores, particularly for puppies."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-honey/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-honey", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-honey/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-honey", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["honey", "can dogs eat honey", "dogs honey", "honey dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that honey is not poisonous to dogs, but its high sugar content may cause digestive upset, and raw honey can contain botulism spores that are a concern for puppies. Organisations such as the AKC and PetMD highlight these risks."]
 ---

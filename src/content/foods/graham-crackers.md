@@ -4,8 +4,8 @@ category: ["Snacks", "Sweets"]
 status: Caution
 image: "/images/graham-crackers.jpg"
 description: "Veterinary and pet-nutrition sources describe graham crackers as non-toxic to dogs, but note concerns related to sugar, refined carbohydrates, and added ingredients commonly found in sweet snacks."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-graham-crackers/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-crackers", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-graham-crackers/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-crackers", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["graham crackers", "can dogs eat graham crackers", "dogs graham crackers", "graham crackers dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that graham crackers are not poisonous to dogs, but they contain sugar, refined grains, and sometimes added flavourings that may cause digestive upset. Organisations such as the AKC and PetMD note that sweet snack foods offer no nutritional benefit for dogs."]
 ---

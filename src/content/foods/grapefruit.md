@@ -4,8 +4,8 @@ category: ["Fruits"]
 status: Caution
 image: "/images/grapefruit.jpg"
 description: "Veterinary and pet-nutrition sources describe grapefruit flesh as non-toxic to dogs but highlight risks related to acidity, bitterness, and toxic compounds in the peel, pith, and seeds."
-source: ["AKC", "ASPCA", "PetMD"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-grapefruit/", "https://www.aspca.org/pet-care/animal-poison-control/people-foods", "https://www.petmd.com/dog/nutrition/can-dogs-eat-grapefruit"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "PetMD"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-grapefruit/", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.petmd.com/dog/nutrition/can-dogs-eat-grapefruit"]
 keywords: ["grapefruit", "can dogs eat grapefruit", "dogs grapefruit", "grapefruit dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that grapefruit flesh is not poisonous to dogs, but the fruit’s high acidity can cause digestive upset, and the peel, pith, and seeds contain compounds that are unsafe. Organisations such as the AKC, ASPCA, and PetMD highlight that these parts are the main concern."]
 ---

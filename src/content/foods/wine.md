@@ -4,9 +4,9 @@ category: ["Beverages"]
 status: Toxic
 image: "/images/wine.jpg"
 description: "Wine is classified as unsafe for dogs because it contains alcohol, which veterinary toxicology sources list as toxic to dogs. Even small amounts may cause serious health effects."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
 sourceUrl: [
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods/alcohol",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/alcohol/",
   "https://www.akc.org/expert-advice/health/alcohol-and-dogs/"
 ]

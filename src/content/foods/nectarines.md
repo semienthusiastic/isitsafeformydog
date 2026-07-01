@@ -4,8 +4,8 @@ category: ["Fruits"]
 status: Caution
 image: "/images/nectarines.jpg"
 description: "Veterinary and pet-nutrition sources describe nectarine flesh as non-toxic to dogs, but warn that the pit presents a choking and obstruction risk and contains cyanogenic compounds."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-nectarines/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-nectarines", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-nectarines/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-nectarines", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["nectarines", "can dogs eat nectarines", "dogs nectarines", "nectarine dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that nectarine flesh is not poisonous to dogs, but the pit poses a serious choking or intestinal blockage risk and contains compounds that are unsafe. Organisations such as the AKC and PetMD highlight these concerns."]
 ---

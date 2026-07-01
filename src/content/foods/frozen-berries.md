@@ -4,8 +4,8 @@ category: ["Fruits", "Frozen"]
 status: Caution
 image: "/images/frozen-berries.jpg"
 description: "Veterinary and pet-nutrition sources generally describe many common berries as safe for dogs, but note that some berries are toxic and that mixed or processed frozen products can introduce risks."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-berries/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-berries", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-berries/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-berries", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["frozen berries", "can dogs eat frozen berries", "berries dogs", "frozen fruit dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that many berries, such as blueberries and strawberries, are generally safe for dogs, but some berries are toxic and mixed frozen berry products can create uncertainty. Organisations like the AKC, PetMD, and the ASPCA stress that safety depends on the specific type of berry rather than whether it is fresh or frozen."]
 ---

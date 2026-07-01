@@ -4,8 +4,8 @@ category: ["Meat"]
 status: Caution
 image: "/images/hot-dogs.jpg"
 description: "Veterinary and pet-nutrition sources describe hot dogs as non-toxic to dogs but highlight significant risks due to high salt, fat, preservatives, and common seasoning ingredients."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-hot-dogs/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-hot-dogs", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-hot-dogs/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-hot-dogs", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["hot dogs", "can dogs eat hot dogs", "dogs hot dogs", "hot dogs dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that hot dogs are not poisonous to dogs, but they are highly processed and contain large amounts of salt, fat, and additives that may cause digestive upset or other health concerns. Organisations such as the AKC and PetMD emphasise that processing and ingredients are the main issues."]
 ---

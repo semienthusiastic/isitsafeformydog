@@ -4,8 +4,8 @@ category: ["Condiments"]
 status: Caution
 image: "/images/mustard.jpg"
 description: "Veterinary and pet-nutrition sources describe mustard as non-toxic to dogs, but warn that mustard seeds and prepared mustard can cause gastrointestinal irritation due to spices, vinegar, and salt."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-mustard/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-mustard", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-mustard/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-mustard", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["mustard", "can dogs eat mustard", "dogs mustard", "mustard dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that mustard is not poisonous to dogs, but mustard seeds and prepared mustard can irritate the digestive system because of spices, vinegar, and salt. Organisations such as the AKC and PetMD highlight these concerns."]
 ---

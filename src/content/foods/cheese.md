@@ -4,8 +4,8 @@ category: ["Dairy"]
 status: Caution
 image: "/images/cheese.jpg"
 description: "Veterinary organisations note that many dogs can eat small amounts of plain cheese, but concerns include lactose intolerance, high fat content, and added seasonings."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/", "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat", "https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs"]
 keywords: ["cheese", "can dogs eat cheese", "dog safety", "cheese dogs"]
 shortAnswer: ["Caution: cheese is not toxic to dogs, but it is not always safe for every dog. Veterinary organisations note that many dogs are lactose intolerant, and cheese is high in fat and salt. The AKC explains that plain cheese may be tolerated by some dogs, but added seasonings and large amounts can cause problems."]
 ---

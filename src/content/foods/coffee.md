@@ -4,9 +4,9 @@ category: ["Beverages"]
 status: Toxic
 image: "/images/coffee.jpg"
 description: "Veterinary toxicology organisations classify coffee as toxic to dogs because it contains caffeine and other methylxanthines, which dogs cannot process safely."
-source: ["ASPCA", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospitals"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospitals"]
 sourceUrl: [
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/caffeine/",
   "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-and-caffeine-toxicosis",
   "https://vcahospitals.com/know-your-pet/caffeine-toxicity-in-pets"

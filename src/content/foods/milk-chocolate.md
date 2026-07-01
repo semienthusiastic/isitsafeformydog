@@ -4,8 +4,8 @@ category: ["Sweets"]
 status: Toxic
 image: "/images/milk-chocolate.jpg"
 description: "Veterinary toxicology sources classify milk chocolate as toxic to dogs because it contains theobromine and caffeine, compounds that dogs cannot safely metabolise."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/people-foods/chocolate", "https://www.petpoisonhelpline.com/poison/chocolate/", "https://www.akc.org/expert-advice/health/why-chocolate-is-bad-for-dogs/"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
+sourceUrl: ["https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.petpoisonhelpline.com/poison/chocolate/", "https://www.akc.org/expert-advice/health/why-chocolate-is-bad-for-dogs/"]
 keywords: ["milk chocolate", "can dogs eat milk chocolate", "dogs chocolate", "milk chocolate dog safety"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations state that milk chocolate contains theobromine and caffeine, which dogs cannot process safely and which can cause serious poisoning. The ASPCA, Pet Poison Helpline, and the AKC all classify chocolate as dangerous for dogs."]
 ---

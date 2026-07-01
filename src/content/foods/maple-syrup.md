@@ -4,8 +4,8 @@ category: ["Pantry", "Sweets"]
 status: Caution
 image: "/images/maple-syrup.jpg"
 description: "Veterinary and pet-nutrition sources generally describe maple syrup as non-toxic to dogs, but highlight concerns related to very high sugar content and the risk from artificial sweeteners in imitation syrups."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-maple-syrup/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-maple-syrup", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-maple-syrup/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-maple-syrup", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["maple syrup", "can dogs eat maple syrup", "dogs maple syrup", "maple syrup dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that pure maple syrup is not poisonous to dogs, but its extremely high sugar content can cause digestive upset, and some syrups contain artificial sweeteners that are dangerous. Organisations such as the AKC, PetMD, and the ASPCA highlight these concerns."]
 ---

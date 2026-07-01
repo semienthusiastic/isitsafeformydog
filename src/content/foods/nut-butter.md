@@ -4,8 +4,8 @@ category: ["Nuts", "Pantry"]
 status: Caution
 image: "/images/nut-butter.jpg"
 description: "Veterinary and pet-safety sources describe some nut butters as non-toxic to dogs, but warn about serious risks from xylitol and concerns related to fat, salt, and added ingredients."
-source: ["AKC", "ASPCA", "PetMD"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanut-butter/", "https://www.aspca.org/pet-care/animal-poison-control/people-foods", "https://www.petmd.com/dog/nutrition/is-peanut-butter-safe-for-dogs"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "PetMD"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanut-butter/", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.petmd.com/dog/nutrition/is-peanut-butter-safe-for-dogs"]
 keywords: ["nut butter", "can dogs eat nut butter", "dogs nut butter", "nut butter dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that some nut butters are not poisonous to dogs, but products containing xylitol are extremely dangerous, and high fat or salt levels can cause digestive problems. Organisations such as the AKC, PetMD, and the ASPCA emphasise careful attention to ingredients."]
 ---

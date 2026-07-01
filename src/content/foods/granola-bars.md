@@ -4,8 +4,8 @@ category: ["Snacks"]
 status: Caution
 image: "/images/granola-bars.jpg"
 description: "Veterinary and pet-safety sources describe granola bars as non-toxic to dogs but highlight risks from sugar, fats, and common added ingredients such as raisins, chocolate, or sweeteners."
-source: ["AKC", "PetMD", "ASPCA"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-granola/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-granola", "https://www.aspca.org/pet-care/animal-poison-control/people-foods"]
+source: ["AKC", "PetMD", "ASPCA — People Foods to Avoid"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-granola/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-granola", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets"]
 keywords: ["granola bars", "can dogs eat granola bars", "dogs granola bars", "granola bars dog safety"]
 shortAnswer: ["Caution: the food is not toxic, but there are risks. Veterinary sources state that granola bars are not poisonous to dogs, but they often contain sugar, fats, and added ingredients such as raisins or chocolate that may cause harm. Organisations like the AKC, PetMD, and the ASPCA emphasise that ingredient lists are the main concern."]
 ---

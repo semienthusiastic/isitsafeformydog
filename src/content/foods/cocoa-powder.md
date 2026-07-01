@@ -4,8 +4,8 @@ category: ["Baking", "Pantry"]
 status: Toxic
 image: "/images/cocoa-powder.jpg"
 description: "Veterinary toxicology sources classify cocoa powder as toxic to dogs because it contains very high concentrations of theobromine and caffeine."
-source: ["ASPCA", "AKC", "PetMD"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate"]
+source: ["ASPCA — People Foods to Avoid", "AKC", "PetMD"]
+sourceUrl: ["https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate"]
 keywords: ["cocoa powder", "can dogs eat cocoa powder", "dog safety", "chocolate dogs"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations such as the ASPCA, AKC, and PetMD state that cocoa powder contains very high levels of theobromine and caffeine, which dogs cannot metabolise safely. Even small amounts can cause serious poisoning."]
 ---

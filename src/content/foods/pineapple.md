@@ -4,10 +4,10 @@ category: ["Fruits"]
 status: Safe
 image: "/images/pineapple.jpg"
 description: "Veterinary organisations generally classify fresh pineapple as safe for dogs, while noting that high sugar content and canned preparations may cause digestive upset."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pineapple/",
-  "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs"
 ]
 keywords: ["pineapple", "can dogs eat pineapple", "dog safety", "pineapple dogs"]

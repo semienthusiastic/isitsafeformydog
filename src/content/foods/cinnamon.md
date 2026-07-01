@@ -4,10 +4,10 @@ category: ["Herbs & Spices"]
 status: Caution
 image: "/images/cinnamon.jpg"
 description: "Veterinary organisations state that cinnamon is not toxic to dogs, but large amounts or concentrated forms may cause irritation or digestive upset."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
 sourceUrl: [
   "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cinnamon/",
-  "https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://vcahospitals.com/know-your-pet/poisoning-cinnamon-and-essential-oils"
 ]
 keywords: ["cinnamon", "can dogs eat cinnamon", "dog safety", "cinnamon dogs"]

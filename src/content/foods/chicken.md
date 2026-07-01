@@ -4,8 +4,8 @@ category: ["Meat"]
 status: Caution
 image: "/images/chicken.jpg"
 description: "Veterinary organisations generally consider plain, cooked chicken safe for dogs, while noting that raw chicken, cooked bones, and added seasonings may introduce risks."
-source: ["AKC", "ASPCA", "VCA Hospitals"]
-sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chicken/", "https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat", "https://vcahospitals.com/know-your-pet/bacterial-food-poisoning-salmonella-in-dogs"]
+source: ["AKC", "ASPCA — People Foods to Avoid", "VCA Hospitals"]
+sourceUrl: ["https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chicken/", "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://vcahospitals.com/know-your-pet/bacterial-food-poisoning-salmonella-in-dogs"]
 keywords: ["chicken", "can dogs eat chicken", "dog safety", "chicken dogs"]
 shortAnswer: ["Caution: plain, cooked chicken is generally safe for dogs, but raw chicken, cooked bones, and added seasonings can be unsafe. Veterinary organisations note that cooked chicken meat is widely tolerated, while raw chicken may contain harmful bacteria and cooked bones can splinter and cause injury."]
 ---
