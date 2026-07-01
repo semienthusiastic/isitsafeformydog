@@ -91,17 +91,4 @@ Pet-safety sources note that leaves are more toxic, but the entire plant is clas
 ### Is cooked rhubarb safe?
 Veterinary literature states that cooking does not eliminate oxalates, so rhubarb remains unsafe.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Rhubarb”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rhubarb
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Rhubarb?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-rhubarb/
-
-- **PetMD** — “Can Dogs Eat Rhubarb?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-rhubarb
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

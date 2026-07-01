@@ -97,17 +97,4 @@ Veterinary organisations state that dilution does not remove theobromine or caff
 ### Why are dogs unable to tolerate chocolate?
 The AKC explains that dogs metabolise theobromine and caffeine much more slowly than humans.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
-- **Pet Poison Helpline** — “Chocolate Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/chocolate/
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chocolate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -87,17 +87,4 @@ Veterinary toxicology references warn that even small amounts may cause poisonin
 ### Does cooking remove cocoa toxicity?
 Veterinary sources state that cooking or baking does not reduce theobromine or caffeine content.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chocolate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/
-
-- **PetMD** — “Can Dogs Eat Chocolate?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

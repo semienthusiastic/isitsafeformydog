@@ -90,17 +90,4 @@ Pet-nutrition guidance explains that higher-fat foods are a common cause of gast
 ### Can dogs be sensitive to lamb?
 VCA Hospitals notes that individual dogs may develop sensitivities to any protein source, including lamb.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Lamb?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lamb/
-
-- **PetMD** — “Can Dogs Eat Lamb?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-lamb
-
-- **VCA Hospitals** — “Protein Allergies in Dogs”  
-  https://vcahospitals.com/know-your-pet/protein-allergies-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

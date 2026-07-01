@@ -13,13 +13,10 @@ shortAnswer: ["Caution: almonds are not toxic, but they are not safe for dogs to
 ## Is Almond Safe for Dogs?
 
 Major veterinary organisations do not classify almonds as highly toxic, but they consistently describe them as **unsuitable for dogs**. The AKC notes that dogs have difficulty digesting almonds and that ingestion may contribute to gastrointestinal upset. Almonds also pose a notable choking risk, especially for small or brachycephalic breeds.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-almonds/
 
 The ASPCA lists nuts among foods that can contribute to digestive issues in pets, highlighting concerns such as fat content and seasoning additives.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 Veterinary literature, including VCA Hospitals, reports that high-fat foods may contribute to pancreatitis, a condition linked to ingestion of fatty human snacks, including nuts.  
-Source: https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs
 
 ## Why Almonds Can Be a Problem for Some Dogs
 
@@ -85,18 +82,5 @@ Almond butter reduces the choking risk, but concerns remain regarding fat conten
 
 ### Are salted almonds dangerous?
 Veterinary organisations highlight added salt and flavourings as unsuitable for dogs, contributing to the overall classification of almonds as not recommended.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Almonds?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-almonds/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Pancreatitis in Dogs”  
-  https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

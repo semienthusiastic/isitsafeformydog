@@ -16,10 +16,8 @@ shortAnswer: ["Caution: bagels are not toxic to dogs, but they are not considere
 ## Are Bagels Safe for Dogs?
 
 According to the AKC, **plain bagels are not toxic to dogs**, but they are not recommended as a food choice. The AKC notes that bagels are high in carbohydrates and calories and do not provide meaningful nutrition for dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bagels/
 
 PetMD similarly states that bagels themselves are not poisonous, but they are often high in salt and are commonly eaten with toppings that may be harmful to dogs.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-bagels
 
 Across veterinary nutrition guidance, bagels are generally classified with **caution**, mainly due to their composition and common additives rather than toxicity.
 
@@ -88,15 +86,5 @@ They are high in carbohydrates and salt and provide little nutritional value.
 
 ### Are flavoured bagels dangerous?
 Some flavoured bagels contain ingredients such as onion, garlic, or raisins, which are classified as unsafe.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Bagels?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bagels/
-
-- **PetMD** — “Can Dogs Eat Bagels?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-bagels
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

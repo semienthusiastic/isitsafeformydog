@@ -84,14 +84,4 @@ Pet-nutrition references explain that refined grains offer limited nutritional b
 ### Are egg noodles different from regular pasta?
 Veterinary articles note that egg noodles contain eggs but are otherwise discussed similarly to other plain pasta products.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Noodles?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-noodles/
-
-- **PetMD** — “Can Dogs Eat Pasta?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pasta
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

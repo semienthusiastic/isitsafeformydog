@@ -92,17 +92,4 @@ Pet-nutrition articles note that high-fat foods may contribute to digestive upse
 
 Veterinary sources explain that tahini is **more concentrated in fat** than whole sesame seeds, which influences its caution classification.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sesame Seeds?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sesame-seeds/
-
-- **PetMD** — “Can Dogs Eat Sesame Seeds?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sesame-seeds
-
-- **VCA Hospitals** — “Nuts, Seeds, and Dogs”  
-  https://vcahospitals.com/know-your-pet/nuts-seeds-and-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

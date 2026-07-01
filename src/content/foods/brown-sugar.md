@@ -82,17 +82,4 @@ Pet-nutrition references explain that sugar can contribute to digestive upset, w
 ### Is brown sugar different from white sugar for dogs?
 Veterinary literature does not describe any meaningful safety advantage of brown sugar over white sugar.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sugar?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sugar/
-
-- **PetMD** — “Can Dogs Eat Sugar?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sugar
-
-- **VCA Hospitals** — “Human Foods Dogs Should Not Eat”  
-  https://vcahospitals.com/know-your-pet/human-foods-dogs-should-not-eat
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

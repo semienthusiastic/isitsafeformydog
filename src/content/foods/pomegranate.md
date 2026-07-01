@@ -82,15 +82,4 @@ Pet-nutrition literature associates pomegranate with tannins and fibrous compone
 ### Is pomegranate juice the same as the fruit?
 Veterinary sources distinguish juice from whole fruit, noting that juice is more concentrated and more likely to cause digestive issues.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pomegranate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pomegranate/
-
-- **PetMD** — “Can Dogs Eat Pomegranate?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pomegranate
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.
-

@@ -16,10 +16,8 @@ shortAnswer: ["Yes, basil is safe for dogs. Veterinary sources state that plain 
 ## Is Basil Safe for Dogs?
 
 According to the AKC, **basil is safe for dogs** and is not listed as toxic by veterinary organisations. Fresh basil leaves are generally considered low risk when eaten plain.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-basil/
 
 PetMD similarly reports that basil is non-toxic to dogs and is sometimes discussed as an herb that may be tolerated in small quantities. The article notes that dogs do not require herbs nutritionally, and reactions may vary.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-basil
 
 Across veterinary nutrition references, basil is classified as **safe**, with most concerns related to preparation rather than the herb itself.
 
@@ -88,15 +86,5 @@ Yes. Mild digestive upset has been reported in some dogs, especially with larger
 
 ### Is pesto safe for dogs?
 No. Pesto commonly contains garlic and oil, which veterinary sources list as unsuitable.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Basil?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-basil/
-
-- **PetMD** — “Can Dogs Eat Basil?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-basil
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

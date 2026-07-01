@@ -86,17 +86,4 @@ Pet-nutrition articles focus on ingredients rather than freezing. Frozen fish st
 ### Why do veterinary sources emphasise preparation?
 Across veterinary guidance, preparation determines whether a food contains added fats, salt, or flavourings that may affect dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Fish?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-fish/
-
-- **PetMD** — “Can Dogs Eat Fish?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-fish
-
-- **VCA Hospitals** — “Fish and Fish Products in Dog Food”  
-  https://vcahospitals.com/know-your-pet/fish-and-fish-products-in-dog-food
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to consult the cited sources directly.

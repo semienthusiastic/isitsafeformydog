@@ -93,17 +93,4 @@ Pet-care articles explain that many dogs are lactose intolerant and may also rea
 
 Veterinary sources note that whipped cream is **higher in fat and sugar** than some other dairy foods, which influences its caution classification.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Whipped Cream?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-whipped-cream/
-
-- **PetMD** — “Can Dogs Eat Whipped Cream?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-whipped-cream
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

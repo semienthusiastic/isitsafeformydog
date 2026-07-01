@@ -86,14 +86,4 @@ Pet-nutrition literature states that cooking reduces risks associated with raw s
 ### Are scallops different from other shellfish?
 Veterinary sources treat scallops similarly to other shellfish, noting preparation as the primary factor.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Scallops?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-scallops/
-
-- **PetMD** — “Can Dogs Eat Seafood?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-seafood
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

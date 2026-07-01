@@ -17,13 +17,10 @@ shortAnswer: ["Yes, melons are safe for dogs. Veterinary organisations state tha
 ## Are Melons Safe for Dogs?
 
 According to the AKC, **many melons are safe for dogs**, including watermelon, cantaloupe, and honeydew, when the flesh is served plain and without seeds or rind. These fruits are not classified as toxic by veterinary organisations.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-watermelon/
 
 The ASPCA does not list melons among foods that are toxic to dogs, but it notes that fruits with natural sugars may cause digestive upset in some pets.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals explains that sudden dietary changes or foods high in sugar can lead to diarrhoea or other gastrointestinal signs in sensitive dogs.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 ## Why Melons Can Be a Problem for Some Dogs
 
@@ -90,18 +87,5 @@ Yes. Seeds may cause digestive discomfort or blockage, according to veterinary g
 
 ### Is watermelon safer than other melons?
 All common melons are similar in safety; tolerance depends more on preparation and individual sensitivity.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Watermelon?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-watermelon/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

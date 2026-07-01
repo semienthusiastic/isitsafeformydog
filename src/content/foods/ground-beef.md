@@ -86,17 +86,4 @@ Veterinary sources note that ground beef often contains more fat and is more pro
 ### Why do veterinary sources mention raw meat?
 VCA Hospitals highlights raw meat as a source of bacteria that may pose health risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Beef?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beef/
-
-- **PetMD** — “Can Dogs Eat Beef?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beef
-
-- **VCA Hospitals** — “Raw Diets for Dogs”  
-  https://vcahospitals.com/know-your-pet/raw-diets-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

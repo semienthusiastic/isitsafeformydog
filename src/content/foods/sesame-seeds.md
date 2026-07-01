@@ -85,14 +85,4 @@ Pet-nutrition literature associates digestive upset with fat content and the phy
 ### Are sesame seeds safer than sesame oil?
 Veterinary sources distinguish seeds from oil, noting that oil is more concentrated in fat.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sesame Seeds?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sesame-seeds/
-
-- **PetMD** — “Can Dogs Eat Sesame Seeds?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sesame-seeds
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

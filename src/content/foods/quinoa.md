@@ -82,14 +82,4 @@ Pet-nutrition literature explains that saponins are naturally occurring compound
 ### Is quinoa different from other grains?
 Veterinary sources treat quinoa similarly to other grains, noting that individual tolerance varies.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Quinoa?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-quinoa/
-
-- **PetMD** — “Can Dogs Eat Quinoa?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-quinoa
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

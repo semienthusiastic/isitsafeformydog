@@ -84,17 +84,4 @@ Pet-nutrition references explain that raw shellfish can carry bacteria and marin
 ### Are canned clams safer than fresh clams?
 Veterinary articles distinguish canned clams as having fewer bacterial risks but greater sodium and additive concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Clams?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-clams/
-
-- **PetMD** — “Can Dogs Eat Clams?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-clams
-
-- **VCA Hospitals** — “Can Dogs Eat Shellfish?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-shellfish
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

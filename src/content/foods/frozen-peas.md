@@ -86,17 +86,4 @@ Veterinary organisations do not classify peas as toxic. Concerns relate to diges
 ### Why do veterinary sources mention legumes?
 The AKC discusses legumes, including peas, in the context of overall diet composition rather than identifying them as poisons.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Peas?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peas/
-
-- **PetMD** — “Can Dogs Eat Peas?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-peas
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

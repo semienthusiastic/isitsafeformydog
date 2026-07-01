@@ -16,10 +16,8 @@ shortAnswer: ["Caution: barbecue sauce is not considered safe for dogs. Veterina
 ## Is Barbecue Sauce Safe for Dogs?
 
 According to the AKC, **barbecue sauce is not a safe food for dogs**. While it is not a single toxic substance on its own, barbecue sauce typically contains multiple ingredients that veterinary organisations classify as unsuitable or harmful to dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bbq-sauce/
 
 PetMD similarly reports that barbecue sauce is inappropriate for dogs because of its seasoning profile. Ingredients such as onion and garlic powders are highlighted as particular concerns.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-barbecue-sauce
 
 Across veterinary nutrition guidance, barbecue sauce is consistently discouraged due to ingredient-related risks rather than accidental toxicity from small tastes.
 
@@ -92,15 +90,5 @@ Veterinary organisations classify onion and garlic as toxic because they can dam
 
 ### What if a dog licks barbecue sauce?
 A small accidental lick is unlikely to cause severe poisoning, but barbecue sauce is still considered unsuitable.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat BBQ Sauce?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bbq-sauce/
-
-- **PetMD** — “Can Dogs Eat Barbecue Sauce?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-barbecue-sauce
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

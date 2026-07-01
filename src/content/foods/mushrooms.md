@@ -96,17 +96,4 @@ Veterinary organisations confirm that cooking does not destroy mushroom toxins.
 ### Why do veterinary sources advise caution even with edible mushrooms?
 Because dogs cannot distinguish species, and accidental ingestion of toxic mushrooms can be fatal.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Mushrooms”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/mushrooms
-
-- **Pet Poison Helpline** — “Mushroom Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/mushrooms/
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Mushrooms?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-mushrooms/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

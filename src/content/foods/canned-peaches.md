@@ -82,17 +82,4 @@ Pet-nutrition references explain that high sugar intake can contribute to digest
 ### Are canned peaches different from fresh peaches?
 Veterinary articles distinguish between fresh peaches and canned peaches, with processing and added ingredients being the primary difference.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Peaches?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peaches/
-
-- **PetMD** — “Can Dogs Eat Peaches?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-peaches
-
-- **VCA Hospitals** — “Can Dogs Eat Peaches?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-peaches
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

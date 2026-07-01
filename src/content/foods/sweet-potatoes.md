@@ -89,17 +89,4 @@ Some dogs may experience mild digestive effects, such as gas or soft stools, whi
 
 Pet-nutrition articles distinguish sweet potatoes from white potatoes, noting differences in composition and safety discussions.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sweet Potatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sweet-potatoes/
-
-- **PetMD** — “Can Dogs Eat Sweet Potatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sweet-potatoes
-
-- **VCA Hospitals** — “Sweet Potato for Dogs”  
-  https://vcahospitals.com/know-your-pet/sweet-potato-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -16,10 +16,8 @@ shortAnswer: ["Caution: artichokes are not toxic to dogs, but they are not alway
 ## Are Artichokes Safe for Dogs?
 
 According to the AKC, **artichokes are not toxic to dogs**, and plain artichoke hearts may be tolerated by some dogs when prepared without added ingredients. However, the AKC notes that the fibrous leaves and tough texture can be difficult for dogs to chew and digest.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-artichokes/
 
 PetMD similarly states that artichokes themselves are not poisonous, but preparation matters. Oils, seasonings, garlic, and salt—commonly used in artichoke dishes—are frequently cited as the main concerns.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-artichokes
 
 Across veterinary nutrition sources, artichokes are generally classified with **caution**, mainly due to texture and preparation rather than toxicity.
 
@@ -90,15 +88,5 @@ Veterinary sources commonly note that the heart is softer and easier to digest t
 
 ### Can artichokes cause digestive upset?
 Yes. Their fibre content and texture may cause gas or diarrhoea in some dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Artichokes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-artichokes/
-
-- **PetMD** — “Can Dogs Eat Artichokes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-artichokes
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

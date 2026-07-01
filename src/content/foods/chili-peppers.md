@@ -83,14 +83,4 @@ Pet-nutrition references explain that capsaicin irritates the digestive tract an
 ### Are mild peppers safer than hot peppers?
 Veterinary articles note that capsaicin content varies, but irritation is still possible even with milder varieties.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chili Peppers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chili-peppers/
-
-- **PetMD** — “Can Dogs Eat Chili Peppers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chili-peppers
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -89,17 +89,4 @@ Some dogs may experience mild digestive effects, such as gas or soft stools, whi
 
 Pet-nutrition articles generally group squash with other non-toxic vegetables and discuss it in the same safety category when plain.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Squash?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-squash/
-
-- **PetMD** — “Can Dogs Eat Squash?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-squash
-
-- **VCA Hospitals** — “Vegetables for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

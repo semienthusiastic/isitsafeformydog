@@ -86,17 +86,4 @@ Veterinary organisations do not classify plain corn kernels as toxic. The primar
 ### Why are corn cobs mentioned so often?
 VCA Hospitals identifies corn cobs as a common cause of intestinal obstruction in dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Corn?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-corn/
-
-- **PetMD** — “Can Dogs Eat Corn?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-corn
-
-- **VCA Hospitals** — “Corn Cobs Can Cause Intestinal Obstruction”  
-  https://vcahospitals.com/know-your-pet/corn-cobs-can-cause-intestinal-obstruction
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

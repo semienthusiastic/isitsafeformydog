@@ -90,17 +90,4 @@ Oxalates are naturally occurring compounds that may contribute to urinary issues
 ### Is cooked kale different from raw kale?
 Veterinary sources focus on compound content rather than cooking method. Kale remains non-toxic but may still cause sensitivity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Kale?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kale/
-
-- **PetMD** — “Can Dogs Eat Kale?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-kale
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

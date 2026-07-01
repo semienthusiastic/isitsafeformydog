@@ -82,17 +82,4 @@ Pet-nutrition articles distinguish whole pumpkin flesh from pumpkin products tha
 ### Are pumpkin plants safe?
 Veterinary toxicology sources list pumpkin plants as non-toxic, though plant parts are not discussed as food items.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pumpkin?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pumpkin/
-
-- **PetMD** — “Can Dogs Eat Pumpkin?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pumpkin
-
-- **ASPCA** — “Pumpkin (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pumpkin
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

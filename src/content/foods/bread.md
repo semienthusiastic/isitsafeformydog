@@ -82,17 +82,4 @@ Pet-nutrition references explain that bread is high in carbohydrates and lacks n
 ### Is raw bread dough different from baked bread?
 Veterinary toxicology sources consistently describe raw yeast dough as hazardous due to fermentation and gas expansion.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Bread?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/
-
-- **PetMD** — “Can Dogs Eat Bread?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-bread
-
-- **VCA Hospitals** — “Human Foods: What Can Dogs Eat?”  
-  https://vcahospitals.com/know-your-pet/dog-nutrition-human-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

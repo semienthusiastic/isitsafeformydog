@@ -83,17 +83,4 @@ Pet-nutrition references explain that condensed milk contains much higher concen
 ### Do dogs digest lactose well?
 Veterinary literature notes that many dogs are lactose intolerant and experience digestive symptoms when consuming dairy.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Drink Milk?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-milk/
-
-- **PetMD** — “Can Dogs Drink Milk?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-drink-milk
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

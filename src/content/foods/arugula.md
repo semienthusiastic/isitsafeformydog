@@ -16,10 +16,8 @@ shortAnswer: ["Yes, arugula is safe for dogs. Veterinary sources state that plai
 ## Is Arugula Safe for Dogs?
 
 According to the AKC, **arugula is safe for dogs** and is not classified as toxic by veterinary organisations. It is sometimes mentioned as a leafy green that dogs can eat when served plain and without added ingredients.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-arugula/
 
 PetMD similarly reports that arugula is not poisonous to dogs. The article notes that while arugula contains beneficial nutrients for humans, dogs do not require it nutritionally and may react to its peppery flavour.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-arugula
 
 Across veterinary nutrition references, arugula is generally considered **low risk** when plain and unseasoned.
 
@@ -87,15 +85,5 @@ Yes. Its fibre content and strong flavour may cause gas or loose stools in some 
 
 ### Is arugula better raw or cooked?
 Veterinary sources focus on plain preparation; added oils or seasonings are the main concern rather than raw versus cooked.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Arugula?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-arugula/
-
-- **PetMD** — “Can Dogs Eat Arugula?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-arugula
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

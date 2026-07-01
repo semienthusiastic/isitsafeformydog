@@ -90,17 +90,4 @@ The kiwi skin is tough and fibrous, which veterinary sources note may pose a cho
 ### Is dried kiwi different from fresh kiwi?
 Veterinary sources focus on sugar concentration and fibre content. Dried fruit is generally more concentrated.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Kiwi?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-kiwi/
-
-- **PetMD** — “Can Dogs Eat Kiwi?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-kiwi
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

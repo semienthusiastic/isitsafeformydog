@@ -84,14 +84,4 @@ Pet-nutrition references explain that excessive sodium can contribute to digesti
 ### Are plain crackers different from flavoured crackers?
 Veterinary articles consistently distinguish plain crackers as less concerning than flavoured or seasoned types.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Crackers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-crackers/
-
-- **PetMD** — “Can Dogs Eat Crackers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-crackers
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

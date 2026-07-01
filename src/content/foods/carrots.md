@@ -13,13 +13,10 @@ shortAnswer: ["Yes, carrots are safe for dogs. Veterinary organisations such as 
 ## Are Carrots Safe for Dogs?
 
 According to the AKC, **carrots are safe for dogs** and are often recommended as a low-calorie vegetable that provides fibre and vitamins.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-carrots/
 
 The ASPCA includes carrots among fruits and vegetables that are not classified as toxic for pets when served plain.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals notes that vegetables containing natural vitamins, such as vitamin A precursors, can be part of a balanced diet, though the classification of carrots does not raise any toxicology concerns.  
-Source: https://vcahospitals.com/know-your-pet/vitamins-in-dogs
 
 ## Why Carrots Can Be a Problem for Some Dogs
 
@@ -80,18 +77,5 @@ Large amounts may lead to soft stools or gas due to fibre content.
 
 ### Are cooked carrots safe?
 Cooked carrots are generally considered similar to raw carrots, provided they do not contain added sugar, fats, or seasonings.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Carrots?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-carrots/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Vitamins in Dogs”  
-  https://vcahospitals.com/know-your-pet/vitamins-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

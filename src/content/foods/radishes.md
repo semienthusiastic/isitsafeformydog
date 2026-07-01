@@ -82,14 +82,4 @@ Pet-nutrition literature associates radishes’ spicy compounds with mild digest
 ### Are radishes different from other root vegetables?
 Veterinary sources treat radishes similarly to other non-toxic root vegetables, noting individual digestive tolerance.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Radishes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-radishes/
-
-- **PetMD** — “Can Dogs Eat Radishes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-radishes
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

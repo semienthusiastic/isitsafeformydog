@@ -93,17 +93,4 @@ According to VCA Hospitals, many dogs are lactose intolerant, meaning they canno
 
 Pet-nutrition articles note that sour cream is **higher in fat** than some other dairy products, which may increase the likelihood of digestive upset.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sour Cream?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sour-cream/
-
-- **PetMD** — “Can Dogs Eat Sour Cream?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sour-cream
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

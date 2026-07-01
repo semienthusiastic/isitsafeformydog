@@ -82,17 +82,4 @@ The ASPCA explains that tomato plants and unripe tomatoes contain tomatine, a co
 ### Are fresh tomatoes safer than canned tomatoes?
 Veterinary articles distinguish fresh ripe tomatoes from canned products, with processing and additives being the main concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tomatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/
-
-- **PetMD** — “Can Dogs Eat Tomatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes
-
-- **ASPCA** — “Tomato (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/tomato
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

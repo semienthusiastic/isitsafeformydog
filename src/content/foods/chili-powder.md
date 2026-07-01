@@ -84,14 +84,4 @@ Pet-nutrition references explain that capsaicin irritates the mouth and digestiv
 ### Is chili powder worse than fresh chili peppers?
 Veterinary articles note that powdered forms are often more concentrated and can cause stronger irritation.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **PetMD** — “Can Dogs Eat Chili Powder?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chili-powder
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chili Peppers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chili-peppers/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

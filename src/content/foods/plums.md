@@ -85,17 +85,4 @@ Pet-safety sources explain that pits contain cyanogenic compounds and can also c
 ### Are plums similar to other stone fruits?
 Veterinary literature groups plums with other stone fruits, noting similar pit-related risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Plums?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-plums/
-
-- **ASPCA** — “Plum (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/plum
-
-- **PetMD** — “Can Dogs Eat Plums?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-plums
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

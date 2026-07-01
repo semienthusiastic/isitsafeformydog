@@ -83,17 +83,4 @@ Pet-nutrition references explain that citrus fruits contain acids and sugars tha
 ### Is the peel more problematic than the flesh?
 Veterinary articles consistently associate citrus peels with digestive difficulty compared to the flesh.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Clementines?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-clementines/
-
-- **PetMD** — “Can Dogs Eat Oranges?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-oranges
-
-- **VCA Hospitals** — “Can Dogs Eat Oranges?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-oranges
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

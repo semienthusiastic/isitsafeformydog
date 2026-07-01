@@ -83,14 +83,4 @@ Pet-nutrition literature frequently associates spices with gastrointestinal upse
 ### Is paprika different from chili powder?
 Veterinary sources distinguish paprika from chili powder, noting that chili blends often contain additional spices and ingredients that increase risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Paprika?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-paprika/
-
-- **PetMD** — “Can Dogs Eat Paprika?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-paprika
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

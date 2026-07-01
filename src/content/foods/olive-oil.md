@@ -79,14 +79,4 @@ High-fat foods, including oils, are commonly associated in veterinary literature
 ### Are flavored olive oils different?
 Veterinary nutrition sources highlight flavored or infused oils as potentially more concerning due to added ingredients.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Olive Oil?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-olive-oil/
-
-- **PetMD** — “Can Dogs Eat Olive Oil?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-olive-oil
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

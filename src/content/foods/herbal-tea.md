@@ -87,17 +87,4 @@ The ASPCA clearly states that many herbs and plants are toxic to dogs.
 ### Why is herbal tea treated cautiously?
 Pet-safety guidance emphasises that herbal teas vary widely in composition, making general safety claims unreliable.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Drink Tea?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-drink-tea/
-
-- **PetMD** — “Can Dogs Drink Tea?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-drink-tea
-
-- **ASPCA Animal Poison Control** — “Toxic and Non-Toxic Plants”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

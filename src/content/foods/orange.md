@@ -17,13 +17,10 @@ shortAnswer: ["Yes, oranges are safe for dogs. Veterinary organisations state th
 ## Are Oranges Safe for Dogs?
 
 According to the AKC, **oranges are safe for dogs** and are not classified as toxic by veterinary organisations. Plain orange flesh is generally well tolerated by many dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-oranges/
 
 The ASPCA does not list oranges among foods that are toxic to dogs, but it notes that fruits with higher sugar content may cause digestive upset in some pets.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals explains that dietary changes or foods containing higher sugar or acid levels can lead to digestive symptoms such as diarrhoea in sensitive dogs.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 ## Why Oranges Can Be a Problem for Some Dogs
 
@@ -90,18 +87,5 @@ Yes. Their sugar and citric acid content may cause loose stools in some dogs.
 
 ### Are mandarin oranges safer than regular oranges?
 They are similar in sugar and acid content, and tolerance varies by dog rather than by citrus type.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Oranges?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-oranges/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

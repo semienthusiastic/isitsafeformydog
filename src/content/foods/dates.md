@@ -83,14 +83,4 @@ Pet-safety references explain that pits can cause choking or intestinal blockage
 ### Are dates different from raisins for dogs?
 Veterinary articles clearly distinguish dates from raisins, noting that raisins are toxic while dates are not.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Dates?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-dates/
-
-- **PetMD** — “Can Dogs Eat Dates?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-dates
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

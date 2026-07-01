@@ -88,17 +88,4 @@ Pet-nutrition guidance explains that lettuce’s high water and fibre content ca
 ### Are all types of lettuce treated the same?
 Veterinary sources generally treat common lettuces similarly, noting differences mainly in water and nutrient content.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Lettuce?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lettuce/
-
-- **PetMD** — “Can Dogs Eat Lettuce?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-lettuce
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

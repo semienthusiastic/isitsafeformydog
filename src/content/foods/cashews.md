@@ -82,14 +82,4 @@ Pet-nutrition references explain that cashews are high in fat and are often salt
 ### Are cashews safer than other nuts?
 Veterinary articles note that cashews are less dangerous than some nuts, such as macadamia nuts, but they are still not considered ideal.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cashews?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cashews/
-
-- **PetMD** — “Can Dogs Eat Cashews?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cashews
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

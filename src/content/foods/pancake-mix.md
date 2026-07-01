@@ -84,14 +84,4 @@ Pet-nutrition articles distinguish pancake mix from plain flour due to the prese
 ### Are cooked pancakes discussed differently?
 Veterinary sources typically discuss pancakes and pancake mix together, with ingredient composition being the primary focus.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pancakes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pancakes/
-
-- **PetMD** — “Can Dogs Eat Pancakes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pancakes
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -93,17 +93,4 @@ Pet-nutrition articles note that high-fat foods may contribute to digestive upse
 
 Veterinary sources often discuss steak as **richer and fattier** than some other meats, which influences its caution classification.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Steak?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-steak/
-
-- **PetMD** — “Can Dogs Eat Steak?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-steak
-
-- **VCA Hospitals** — “Meat and Meat Products in Dogs”  
-  https://vcahospitals.com/know-your-pet/meat-and-meat-products-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

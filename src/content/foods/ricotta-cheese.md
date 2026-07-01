@@ -85,14 +85,4 @@ Pet-nutrition literature associates digestive upset with lactose intolerance and
 ### Is ricotta different from other cheeses?
 Veterinary sources note that ricotta generally contains more moisture and lactose than aged cheeses, which may affect tolerance.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
-
-- **PetMD** — “Can Dogs Eat Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cheese
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -88,17 +88,4 @@ Veterinary organisations do not classify pizza itself as toxic, but note that to
 ### Why do veterinary sources focus on toppings?
 Pet-safety guidance consistently identifies certain toppings as the primary risk, rather than the dough or tomato base.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pizza?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pizza/
-
-- **PetMD** — “Can Dogs Eat Pizza?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pizza
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

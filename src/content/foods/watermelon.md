@@ -89,17 +89,4 @@ Pet-care articles explain that seeds and rind are harder to digest and may cause
 
 Veterinary sources often note watermelon’s **high water content**, but otherwise group it with other non-toxic fruits.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Watermelon?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-watermelon/
-
-- **PetMD** — “Can Dogs Eat Watermelon?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-watermelon
-
-- **VCA Hospitals** — “Fruits and Vegetables for Dogs”  
-  https://vcahospitals.com/know-your-pet/fruits-and-vegetables-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

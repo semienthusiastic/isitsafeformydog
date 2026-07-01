@@ -89,17 +89,4 @@ Pet-care articles explain that white rice is easily digestible and is commonly d
 
 Veterinary sources note that white rice is generally **more easily digested** than some whole grains, which influences its safety discussions.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Rice?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-rice/
-
-- **PetMD** — “Can Dogs Eat Rice?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-rice
-
-- **VCA Hospitals** — “Feeding a Bland Diet to Dogs”  
-  https://vcahospitals.com/know-your-pet/feeding-a-bland-diet-to-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

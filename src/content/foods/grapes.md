@@ -18,13 +18,10 @@ shortAnswer: ["No, grapes are toxic to dogs and should never be eaten. Veterinar
 ## Are Grapes Safe for Dogs?
 
 Veterinary organisations unanimously classify **grapes as toxic to dogs**. The ASPCA and Pet Poison Helpline warn that both grapes and raisins have been repeatedly linked to cases of acute kidney failure in dogs.  
-Source: https://www.petpoisonhelpline.com/poison/grapes/
 
 VCA Hospitals explains that dogs may show symptoms within hours of ingestion, and that toxicity can occur even when only a small amount is consumed. Some dogs may be more sensitive than others, but there is no known safe dose.  
-Source: https://vcahospitals.com/know-your-pet/grape-or-raisin-poisoning-in-dogs
 
 The Merck Veterinary Manual notes that although the exact toxic compound is unknown, veterinary toxicologists consistently classify grapes and raisins as dangerous because of their association with renal injury.  
-Source: https://www.merckvetmanual.com/toxicology/grape-and-raisin-toxicity-in-dogs
 
 ## Why Grapes Can Be a Problem for Some Dogs
 
@@ -92,21 +89,5 @@ Yes. Veterinary reports show that some dogs become ill after very small amounts,
 
 ### Are raisins more dangerous than grapes?
 Raisins are more concentrated and have been linked to severe toxicity, but both grapes and raisins are classified as dangerous.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Grape” (Toxic Plant Listing)  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grape
-
-- **Pet Poison Helpline** — “Grape & Raisin Poisoning”  
-  https://www.petpoisonhelpline.com/poison/grapes/
-
-- **VCA Hospitals** — “Grape or Raisin Poisoning in Dogs”  
-  https://vcahospitals.com/know-your-pet/grape-or-raisin-poisoning-in-dogs
-
-- **Merck Veterinary Manual** — “Grape and Raisin Toxicity in Dogs”  
-  https://www.merckvetmanual.com/toxicology/grape-and-raisin-toxicity-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

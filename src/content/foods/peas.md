@@ -81,14 +81,4 @@ Pet-nutrition literature notes that some dogs may experience gas or mild digesti
 ### Are frozen peas different from fresh peas?
 Veterinary sources generally treat frozen and fresh peas similarly, provided no additives are included.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Peas?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peas/
-
-- **PetMD** — “Can Dogs Eat Peas?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-peas
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

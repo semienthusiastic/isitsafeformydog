@@ -84,17 +84,4 @@ Pet-nutrition references explain that sugar, fat, and certain additives can caus
 ### Are plain nuts different from candied nuts?
 Veterinary sources consistently distinguish between plain nuts and candied or flavoured nut products, with added ingredients being the main concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Nuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-nuts/
-
-- **PetMD** — “Can Dogs Eat Nuts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-nuts
-
-- **Pet Poison Helpline** — “Xylitol Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/xylitol/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

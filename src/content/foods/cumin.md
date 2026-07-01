@@ -82,14 +82,4 @@ Pet-nutrition references explain that dogs are not adapted to concentrated spice
 ### Is cumin different from toxic herbs like onion or garlic?
 Veterinary articles clearly distinguish cumin from Allium plants, which are classified as toxic.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **PetMD** — “Can Dogs Eat Cumin?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cumin
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Spices?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spices/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources dire

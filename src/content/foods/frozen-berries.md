@@ -92,17 +92,4 @@ Veterinary organisations clearly state that some berries, such as grapes, are to
 ### Why are mixed frozen berries treated with caution?
 Pet-nutrition sources explain that mixed products can include unsafe fruits or added ingredients, making classification less certain.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Berries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-berries/
-
-- **PetMD** — “Can Dogs Eat Berries?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-berries
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

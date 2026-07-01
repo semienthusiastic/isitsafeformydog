@@ -89,17 +89,4 @@ Some dogs may experience mild digestive effects, such as gas or soft stools, whi
 
 Veterinary sources often group zucchini with other non-toxic vegetables and discuss it similarly in pet-nutrition contexts.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Zucchini?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-zucchini/
-
-- **PetMD** — “Can Dogs Eat Zucchini?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-zucchini
-
-- **VCA Hospitals** — “Fruits and Vegetables for Dogs”  
-  https://vcahospitals.com/know-your-pet/fruits-and-vegetables-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

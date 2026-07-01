@@ -17,13 +17,10 @@ shortAnswer: ["Caution: lemons are not considered safe foods for dogs. Veterinar
 ## Are Lemons Safe for Dogs?
 
 Veterinary organisations generally agree that **lemons are not a suitable food for dogs**. The ASPCA lists lemon plants as toxic to dogs due to compounds that may cause gastrointestinal upset and sensitivity reactions.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lemon
 
 The AKC notes that while lemons are not associated with the same level of danger as some other foods, their strong acidity makes them unappealing and potentially irritating to dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lemons/
 
 VCA Hospitals explains that citrus fruits may cause digestive upset in dogs, particularly when larger amounts or concentrated forms are involved.  
-Source: https://vcahospitals.com/know-your-pet/poisonous-plants-for-dogs
 
 ## Why Lemons Can Be a Problem for Some Dogs
 
@@ -91,18 +88,5 @@ Its high acidity may cause stomach upset or drooling, especially in larger amoun
 
 ### What part of the lemon is most concerning?
 The peel and plant material contain higher levels of essential oils and psoralens.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Lemon (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lemon
-
-- **AKC** — “Can Dogs Eat Lemons?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lemons/
-
-- **VCA Hospitals** — “Poisonous Plants for Dogs”  
-  https://vcahospitals.com/know-your-pet/poisonous-plants-for-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

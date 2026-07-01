@@ -87,17 +87,4 @@ The ASPCA explains that citrus peels contain essential oils and compounds that c
 ### Is grapefruit juice different from the fruit?
 Pet-nutrition sources note that juice is more concentrated and acidic, increasing the likelihood of digestive upset.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Grapefruit?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-grapefruit/
-
-- **PetMD** — “Can Dogs Eat Grapefruit?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-grapefruit
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

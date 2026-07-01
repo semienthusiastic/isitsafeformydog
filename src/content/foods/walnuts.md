@@ -18,13 +18,10 @@ shortAnswer: ["Caution: walnuts are not considered safe for dogs. Veterinary org
 ## Are Walnuts Safe for Dogs?
 
 According to the AKC, **walnuts are not recommended for dogs**. Fresh English walnuts are not classified as highly toxic, but they may cause digestive upset and are not considered a good snack for dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-walnuts/
 
 The ASPCA notes that walnut trees and plant material can appear on lists of plants associated with gastrointestinal upset in pets.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/walnut
 
 Pet Poison Helpline and the Merck Veterinary Manual warn that **moldy walnuts can contain tremorgenic mycotoxins**, which may lead to neurological signs such as tremors or seizures if eaten.  
-Source: https://www.petpoisonhelpline.com/poison/mycotoxins/
 
 Because walnuts are high in fat, veterinary organisations note that ingestion may contribute to digestive upset or, in some cases, pancreatitis.
 
@@ -95,21 +92,5 @@ Veterinary toxicology sources explain that mold may contain tremorgenic mycotoxi
 
 ### Can dogs eat small pieces of walnuts?
 Walnuts are not recommended due to the risk of digestive upset, high fat content, and potential mold exposure.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Walnuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-walnuts/
-
-- **ASPCA** — “Walnut (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/walnut
-
-- **Pet Poison Helpline** — “Mycotoxin Poisoning”  
-  https://www.petpoisonhelpline.com/poison/mycotoxins/
-
-- **Merck Veterinary Manual** — “Overview of Mycotoxicosis”  
-  https://www.merckvetmanual.com/toxicology/mycotoxicosis/overview-of-mycotoxicosis
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

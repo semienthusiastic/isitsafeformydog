@@ -86,17 +86,4 @@ According to VCA Hospitals, properly cooked potatoes are not toxic. The concerns
 ### Are frozen french fries different?
 Pet-nutrition guidance focuses on ingredients and preparation method. Frozen fries are still considered processed and salted products.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat French Fries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-french-fries/
-
-- **PetMD** — “Can Dogs Eat French Fries?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-french-fries
-
-- **VCA Hospitals** — “Potatoes”  
-  https://vcahospitals.com/know-your-pet/potatoes
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -17,13 +17,10 @@ shortAnswer: ["Caution: limes are not considered safe foods for dogs. Veterinary
 ## Are Limes Safe for Dogs?
 
 Veterinary organisations generally agree that **limes are not suitable for dogs**. The ASPCA lists lime plants as toxic to dogs due to compounds that may cause gastrointestinal upset and irritation.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lime
 
 The AKC explains that limes are not associated with severe toxicity like some other foods, but their strong acidity makes them unpleasant and potentially irritating for dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-limes/
 
 VCA Hospitals includes citrus plants among those that may cause digestive upset or irritation if ingested by dogs.  
-Source: https://vcahospitals.com/know-your-pet/poisonous-plants-for-dogs
 
 ## Why Limes Can Be a Problem for Some Dogs
 
@@ -91,18 +88,5 @@ Its high acidity may cause stomach upset, drooling, or irritation, especially in
 
 ### What part of the lime is most concerning?
 The peel and plant material contain higher levels of essential oils and psoralens.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Lime (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/lime
-
-- **AKC** — “Can Dogs Eat Limes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-limes/
-
-- **VCA Hospitals** — “Poisonous Plants for Dogs”  
-  https://vcahospitals.com/know-your-pet/poisonous-plants-for-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

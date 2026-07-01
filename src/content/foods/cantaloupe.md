@@ -82,17 +82,4 @@ Pet-nutrition references explain that cantaloupe contains natural sugars that ca
 ### Is cantaloupe rind dangerous for dogs?
 Veterinary articles consistently associate the rind with choking and gastrointestinal obstruction risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cantaloupe?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cantaloupe/
-
-- **PetMD** — “Can Dogs Eat Cantaloupe?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cantaloupe
-
-- **VCA Hospitals** — “Can Dogs Eat Cantaloupe?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-cantaloupe
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

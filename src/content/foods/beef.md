@@ -16,10 +16,8 @@ shortAnswer: ["Yes, beef is safe for dogs. Veterinary sources state that plain, 
 ## Is Beef Safe for Dogs?
 
 According to the AKC, **beef is safe for dogs** and is a common ingredient in many commercial dog foods. Beef provides protein and essential nutrients and is not classified as toxic by veterinary organisations.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beef/
 
 PetMD similarly reports that beef is not poisonous to dogs and can be part of a balanced canine diet when prepared properly. The article notes that preparation and fat content are the main factors affecting tolerance.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-beef
 
 Across veterinary nutrition references, beef is considered **safe** when plain and cooked, with concerns focused on how it is prepared rather than the meat itself.
 
@@ -90,15 +88,5 @@ Yes. Fatty or seasoned beef may cause digestive upset in some dogs.
 
 ### Is raw beef safe for dogs?
 Veterinary sources note bacterial risks and generally discuss cooked beef as the safer option.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Beef?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beef/
-
-- **PetMD** — “Can Dogs Eat Beef?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beef
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

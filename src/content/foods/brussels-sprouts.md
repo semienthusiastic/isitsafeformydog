@@ -81,17 +81,4 @@ Veterinary nutrition references identify naturally occurring compounds that cont
 ### Are Brussels sprouts harder to digest than other vegetables?
 Some veterinary articles note that Brussels sprouts are more likely to cause gas compared to vegetables such as carrots or green beans.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Brussels Sprouts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-brussels-sprouts/
-
-- **PetMD** — “Can Dogs Eat Brussels Sprouts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-brussels-sprouts
-
-- **VCA Hospitals** — “Can Dogs Eat Brussels Sprouts?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-brussels-sprouts
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to consult the referenced sources directly.

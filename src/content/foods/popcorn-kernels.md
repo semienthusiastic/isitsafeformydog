@@ -84,14 +84,4 @@ Pet-safety literature explains that unpopped kernels are hard and small, increas
 ### Are popcorn kernels worse for small dogs?
 Veterinary sources note that smaller dogs may be more vulnerable to choking and obstruction due to size differences.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Popcorn?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-popcorn/
-
-- **PetMD** — “Can Dogs Eat Popcorn?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-popcorn
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

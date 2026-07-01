@@ -16,10 +16,8 @@ shortAnswer: ["Caution: black beans are not toxic to dogs, but they are not an i
 ## Are Black Beans Safe for Dogs?
 
 According to the AKC, **black beans are not toxic to dogs** and can be eaten in small amounts when they are plain and fully cooked. The AKC notes that beans are high in fibre and protein but are not nutritionally necessary for dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-black-beans/
 
 PetMD similarly reports that many beans, including black beans, are safe for dogs when cooked and unseasoned. However, the article emphasises that preparation is important, as seasonings and salt are common causes of digestive problems.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
 
 Across veterinary nutrition guidance, black beans are generally classified with **caution**, mainly due to how they are prepared rather than because of toxicity.
 
@@ -88,15 +86,5 @@ Yes. Their fibre content is commonly associated with gas or bloating.
 
 ### Are canned black beans safe?
 Canned black beans are often high in salt and are considered less suitable than plain, cooked beans.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Black Beans?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-black-beans/
-
-- **PetMD** — “Can Dogs Eat Beans?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

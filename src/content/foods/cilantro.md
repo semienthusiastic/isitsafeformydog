@@ -82,14 +82,4 @@ Pet-nutrition references explain that strong-smelling herbs can cause aversion o
 ### Is cilantro the same as parsley for dogs?
 Veterinary articles discuss cilantro separately from parsley, but both are generally described as non-toxic herbs with possible digestive effects.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cilantro?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cilantro/
-
-- **PetMD** — “Can Dogs Eat Cilantro?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cilantro
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -81,17 +81,4 @@ Veterinary literature clearly distinguishes the two, noting that pie filling con
 ### Does pumpkin affect digestion?
 Pet-nutrition sources frequently mention pumpkin in discussions of canine digestion, focusing on fiber rather than toxicity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pumpkin?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pumpkin/
-
-- **PetMD** — “Can Dogs Eat Pumpkin?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pumpkin
-
-- **VCA Hospitals** — “Feeding Pumpkin to Dogs”  
-  https://vcahospitals.com/know-your-pet/feeding-pumpkin-to-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

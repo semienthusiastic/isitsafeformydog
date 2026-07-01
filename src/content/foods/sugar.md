@@ -94,17 +94,4 @@ Pet-nutrition articles explain that sugar provides no nutritional benefit for do
 
 Veterinary toxicology sources clearly distinguish sugar from artificial sweeteners, noting that **some sweeteners, such as xylitol, are toxic to dogs**.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sugar?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sugar/
-
-- **PetMD** — “Can Dogs Eat Sugar?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sugar
-
-- **VCA Hospitals** — “Sugars and Sweeteners in Pet Foods”  
-  https://vcahospitals.com/know-your-pet/sugars-and-sweeteners-in-pet-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

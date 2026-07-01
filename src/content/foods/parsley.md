@@ -83,14 +83,4 @@ Pet-nutrition literature notes that certain parsley varieties and larger amounts
 ### Is dried parsley different from fresh parsley?
 Veterinary sources explain that dried parsley is more concentrated than fresh parsley, which may increase digestive sensitivity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Parsley?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-parsley/
-
-- **PetMD** — “Can Dogs Eat Parsley?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-parsley
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

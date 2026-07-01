@@ -92,17 +92,4 @@ Oxalates are discussed in veterinary literature because they may contribute to k
 
 Pet-nutrition articles often note that spinach contains **higher oxalate levels** than some other leafy vegetables, which influences its caution classification.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Spinach?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spinach/
-
-- **PetMD** — “Can Dogs Eat Spinach?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-spinach
-
-- **VCA Hospitals** — “Vegetables for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -93,17 +93,4 @@ Veterinary literature explains that cooked bones can splinter and cause choking 
 
 Pet-nutrition articles often discuss turkey as **leaner than some meats**, but preparation factors still determine its risk level.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Turkey?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-turkey/
-
-- **PetMD** — “Can Dogs Eat Turkey?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-turkey
-
-- **VCA Hospitals** — “Meat and Meat Products in Dogs”  
-  https://vcahospitals.com/know-your-pet/meat-and-meat-products-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

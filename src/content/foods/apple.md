@@ -13,13 +13,10 @@ shortAnswer: ["Yes, plain apple flesh is safe for dogs, but apple seeds and core
 ## Are Apples Safe for Dogs?
 
 According to the AKC, **plain apple flesh is generally considered safe for dogs**, and apples appear frequently on lists of dog-friendly fruits when prepared without seeds or cores.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-apples/
 
 However, the ASPCA notes that **apple seeds contain amygdalin**, a cyanogenic compound that can release cyanide when metabolised. While small exposures are unlikely to cause serious toxicity, apple seeds and cores are listed as parts to avoid.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals further explains that cyanogenic plants—including apple seeds—contain compounds that may pose risks if ingested in meaningful amounts. Veterinary sources also note that cores may present a physical obstruction hazard.  
-Source: https://vcahospitals.com/know-your-pet/plant-poisoning-cyanide
 
 ## Why Apples Can Be a Problem for Some Dogs
 
@@ -80,18 +77,5 @@ Most veterinary sources do not classify apple skin as harmful, though dogs with 
 
 ### Can dogs eat cooked apples?
 Cooked apple flesh is generally described similarly to raw flesh, provided it does not contain added sugar, spices, or sweeteners.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Apples?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-apples/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Cyanide Poisoning in Pets”  
-  https://vcahospitals.com/know-your-pet/plant-poisoning-cyanide
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

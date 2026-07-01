@@ -95,17 +95,4 @@ Veterinary toxicology sources explain that alcohol can depress the nervous syste
 
 Veterinary sources note that all alcoholic beverages pose a risk, with toxicity related to **ethanol concentration** rather than drink type.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Alcohol”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods/alcohol
-
-- **Pet Poison Helpline** — “Alcohol Poisoning”  
-  https://www.petpoisonhelpline.com/poison/alcohol/
-
-- **American Kennel Club (AKC)** — “Alcohol and Dogs”  
-  https://www.akc.org/expert-advice/health/alcohol-and-dogs/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

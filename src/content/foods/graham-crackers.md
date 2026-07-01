@@ -87,17 +87,4 @@ Plain graham crackers do not usually contain toxic ingredients, but flavoured va
 ### Why do veterinary sources discourage sweet snacks?
 Pet-nutrition guidance explains that sugary, processed foods offer no nutritional benefit and may upset digestion.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Graham Crackers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-graham-crackers/
-
-- **PetMD** — “Can Dogs Eat Crackers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-crackers
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

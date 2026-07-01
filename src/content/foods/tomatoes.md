@@ -93,17 +93,4 @@ According to VCA Hospitals, tomato plants contain solanine-like compounds that c
 
 Pet-nutrition articles note that tomatoes require **greater caution** due to differences between ripe fruit and plant material.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tomatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tomatoes/
-
-- **PetMD** — “Can Dogs Eat Tomatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tomatoes
-
-- **VCA Hospitals** — “Tomato Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/tomato-toxicity-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

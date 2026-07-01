@@ -82,14 +82,4 @@ Pet-nutrition references explain that acidity and sugar can irritate the digesti
 ### Are dried cranberries different from fresh cranberries?
 Veterinary articles consistently note that dried cranberries often contain added sugar, increasing concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cranberries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cranberries/
-
-- **PetMD** — “Can Dogs Eat Cranberries?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cranberries
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

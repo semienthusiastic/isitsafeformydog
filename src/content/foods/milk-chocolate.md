@@ -96,17 +96,4 @@ Veterinary organisations state that no amount of chocolate is considered safe fo
 ### Why are dogs affected differently from humans?
 Dogs metabolise theobromine much more slowly, allowing toxic levels to accumulate.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Chocolate”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods/chocolate
-
-- **Pet Poison Helpline** — “Chocolate Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/chocolate/
-
-- **American Kennel Club (AKC)** — “Why Chocolate Is Bad for Dogs”  
-  https://www.akc.org/expert-advice/health/why-chocolate-is-bad-for-dogs/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

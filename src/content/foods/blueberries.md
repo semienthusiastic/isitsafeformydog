@@ -13,13 +13,10 @@ shortAnswer: ["Yes, blueberries are safe for dogs. The AKC notes that they are l
 ## Are Blueberries Safe for Dogs?
 
 According to the AKC, **blueberries are considered safe for dogs** and are frequently mentioned as a dog-friendly fruit option. They are described as low in calories and a natural source of antioxidants and vitamins.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-blueberries/
 
 The ASPCA lists blueberries among fruits that do not appear on toxic plant lists and does not classify them as containing harmful compounds for dogs when served plain.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals notes that fruits containing natural vitamins and fibre may contribute to a balanced diet when served appropriately, though blueberries are not highlighted as a concern in veterinary toxicology references.  
-Source: https://vcahospitals.com/know-your-pet/vitamins-in-dogs
 
 ## Why Blueberries Can Be a Problem for Some Dogs
 
@@ -80,18 +77,5 @@ Large amounts may cause loose stools or gas due to fibre content.
 
 ### Are dried blueberries safe?
 Dried fruits contain concentrated sugars; veterinary sources often list dried fruits as more likely to cause digestive issues than fresh varieties.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Blueberries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-blueberries/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Vitamins in Dogs”  
-  https://vcahospitals.com/know-your-pet/vitamins-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

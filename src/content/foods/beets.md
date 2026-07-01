@@ -16,10 +16,8 @@ shortAnswer: ["Caution: beets are not toxic to dogs, but they are not suitable f
 ## Are Beets Safe for Dogs?
 
 According to the AKC, **beets are not toxic to dogs** and may be eaten in small amounts when they are plain and cooked. The AKC notes that beets contain vitamins and fibre but are not nutritionally necessary for dogs.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beets/
 
 PetMD similarly reports that beets are safe for dogs in moderation but highlights that their sugar content and oxalates may pose problems for some dogs, particularly those with certain health sensitivities.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-beets
 
 Across veterinary nutrition guidance, beets are generally classified with **caution**, mainly due to digestive tolerance and composition rather than toxicity.
 
@@ -88,15 +86,5 @@ Yes. Their fibre and sugar content may cause digestive upset in some dogs.
 
 ### Are pickled beets safe?
 Pickled beets are typically high in salt and vinegar and are considered unsuitable.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Beets?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beets/
-
-- **PetMD** — “Can Dogs Eat Beets?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beets
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

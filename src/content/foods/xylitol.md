@@ -18,13 +18,10 @@ shortAnswer: ["No, xylitol is highly toxic to dogs and should never be consumed.
 ## Is Xylitol Safe for Dogs?
 
 Veterinary organisations, including the ASPCA and Pet Poison Helpline, classify **xylitol as extremely toxic to dogs**. Xylitol triggers a rapid release of insulin in dogs, leading to a severe drop in blood sugar (hypoglycaemia).  
-Source: https://www.petpoisonhelpline.com/poison/xylitol/
 
 The Merck Veterinary Manual explains that xylitol ingestion may also cause acute liver failure, even when only small amounts are consumed.  
-Source: https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicity-in-animals
 
 VCA Hospitals notes that symptoms can appear within minutes to hours and may become life-threatening without urgent treatment.  
-Source: https://vcahospitals.com/know-your-pet/xylitol-toxicity-in-dogs
 
 ## Why Xylitol Can Be a Problem for Some Dogs
 
@@ -101,21 +98,5 @@ Veterinary toxicology sources report that **even tiny amounts** can be dangerous
 
 ### Is xylitol in toothpaste dangerous?
 Yes. Many toothpastes contain xylitol and are considered unsafe for dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Xylitol and Your Dog: What You Need to Know”  
-  https://www.aspca.org/news/xylitol-and-your-dog-what-you-need-know
-
-- **Pet Poison Helpline** — “Xylitol Poisoning”  
-  https://www.petpoisonhelpline.com/poison/xylitol/
-
-- **Merck Veterinary Manual** — “Xylitol Toxicity in Animals”  
-  https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicity-in-animals
-
-- **VCA Hospitals** — “Xylitol Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/xylitol-toxicity-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

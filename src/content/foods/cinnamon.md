@@ -17,13 +17,10 @@ shortAnswer: ["Caution: cinnamon is not toxic to dogs, but it can cause problems
 ## Is Cinnamon Safe for Dogs?
 
 According to the AKC, **cinnamon is not considered toxic to dogs**, and small amounts used in baked goods or sprinkled on food are not typically harmful.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cinnamon/
 
 The ASPCA lists cinnamon as *non-toxic* for dogs but cautions that foods containing cinnamon may include other harmful ingredients such as nutmeg, sugar, or fats.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
 
 VCA Hospitals explains that concentrated cinnamon forms—especially essential oils—may cause irritation or discomfort if inhaled, ingested, or applied to the skin.  
-Source: https://vcahospitals.com/know-your-pet/poisoning-cinnamon-and-essential-oils
 
 ## Why Cinnamon Can Be a Problem for Some Dogs
 
@@ -89,18 +86,5 @@ Many baked goods contain sugar, fats, or nutmeg, which may be unsuitable accordi
 
 ### Is cinnamon safe in essential oil form?
 No. Veterinary sources advise that cinnamon essential oil may irritate the mouth, skin, or digestive system.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Cinnamon?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cinnamon/
-
-- **ASPCA** — “People Foods to Avoid Feeding Your Pet”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
-
-- **VCA Hospitals** — “Cinnamon and Essential Oils Poisoning in Pets”  
-  https://vcahospitals.com/know-your-pet/poisoning-cinnamon-and-essential-oils
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

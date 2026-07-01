@@ -94,17 +94,4 @@ Pet Poison Helpline notes that toxicity can occur from repeated small exposures 
 ### Are onion-flavoured foods a concern?
 Veterinary organisations warn that foods containing onion powder or onion flavouring may still pose a risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Onion”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion
-
-- **Pet Poison Helpline** — “Onion Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/onion/
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Onions?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-onions/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -17,13 +17,10 @@ shortAnswer: ["Caution: ham is not toxic to dogs, but it is not considered a saf
 ## Is Ham Safe for Dogs?
 
 According to the AKC, **ham is not toxic**, but it is not considered a good choice for dogs due to its high salt and fat content. These qualities can contribute to digestive upset and are not recommended as part of a dog’s diet.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ham/
 
 Pet Poison Helpline notes that holiday foods such as ham frequently cause stomach upset in dogs, especially when seasoned or heavily salted.  
-Source: https://www.petpoisonhelpline.com/pet-safety-tips/thanksgiving-pet-safety-tips/
 
 VCA Hospitals explains that high-fat foods may contribute to conditions such as pancreatitis, a concern sometimes associated with fatty meats like ham.  
-Source: https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs
 
 ## Why Ham Can Be a Problem for Some Dogs
 
@@ -92,18 +89,5 @@ Veterinary sources state that even small amounts may cause digestive upset in se
 
 ### Is deli ham safe?
 Deli ham often contains preservatives and added salt that veterinary organisations classify as unsuitable for dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Ham?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ham/
-
-- **Pet Poison Helpline** — “Thanksgiving Pet Safety Tips”  
-  https://www.petpoisonhelpline.com/pet-safety-tips/thanksgiving-pet-safety-tips/
-
-- **VCA Hospitals** — “Pancreatitis in Dogs”  
-  https://vcahospitals.com/know-your-pet/pancreatitis-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -83,17 +83,4 @@ Pet-nutrition references explain that high sodium intake can contribute to diges
 ### Is fresh corn different from canned corn?
 Veterinary articles distinguish between plain corn and canned corn, with processing and additives being the primary difference.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Corn?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-corn/
-
-- **PetMD** — “Can Dogs Eat Corn?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-corn
-
-- **VCA Hospitals** — “Can Dogs Eat Corn?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-corn
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

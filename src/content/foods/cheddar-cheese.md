@@ -82,17 +82,4 @@ Pet-nutrition references explain that lactose intolerance and high fat levels ar
 ### Is cheddar cheese different from other cheeses for dogs?
 Veterinary literature notes that cheddar is similar to many cheeses, with fat and lactose being the primary concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
-
-- **PetMD** — “Can Dogs Eat Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cheese
-
-- **VCA Hospitals** — “Can Dogs Eat Cheese?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-cheese
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

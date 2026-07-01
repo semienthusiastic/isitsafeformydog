@@ -92,17 +92,4 @@ Pet-nutrition articles do not make a strong distinction between corn and flour t
 
 Veterinary sources note that processed grain products often contain **salt and fats** that may contribute to digestive upset in dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tortilla Chips?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tortilla-chips/
-
-- **PetMD** — “Can Dogs Eat Tortilla Chips?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tortilla-chips
-
-- **VCA Hospitals** — “Snacks and People Foods for Dogs”  
-  https://vcahospitals.com/know-your-pet/snacks-and-people-foods-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

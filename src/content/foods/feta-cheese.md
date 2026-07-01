@@ -84,14 +84,4 @@ Pet-nutrition references explain that feta is brined and contains higher sodium 
 ### Is feta different from other cheeses for dogs?
 Veterinary articles note that feta is generally saltier than hard cheeses, increasing concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Feta Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-feta-cheese/
-
-- **PetMD** — “Can Dogs Eat Feta Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-feta-cheese
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -85,17 +85,4 @@ Pet-safety literature explains that pecans can be contaminated with molds that p
 ### Are pecans different from peanuts?
 Veterinary sources distinguish pecans from peanuts, noting that pecans carry a higher risk due to toxin concerns and fat levels.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pecans?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pecans/
-
-- **PetMD** — “Can Dogs Eat Pecans?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pecans
-
-- **ASPCA** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

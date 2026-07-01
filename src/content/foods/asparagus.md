@@ -16,10 +16,8 @@ shortAnswer: ["Caution: asparagus is not toxic to dogs, but it is not an ideal f
 ## Are Asparagus Safe for Dogs?
 
 According to the AKC, **asparagus is not toxic to dogs**, but it is not considered especially beneficial. The AKC notes that raw asparagus is very tough and difficult for dogs to chew and digest.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-asparagus/
 
 PetMD similarly explains that asparagus itself is not poisonous, but its fibrous texture can cause digestive upset. The article also highlights that asparagus is often prepared with ingredients that are unsuitable for dogs.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-asparagus
 
 Across veterinary nutrition references, asparagus is typically classified with **caution**, mainly due to texture and preparation rather than toxicity.
 
@@ -90,15 +88,5 @@ Its tough texture and high fibre content may cause digestive upset or choking.
 
 ### Is cooked asparagus safer than raw?
 Veterinary sources note that cooked asparagus is softer, but added ingredients are a common concern.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Asparagus?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-asparagus/
-
-- **PetMD** — “Can Dogs Eat Asparagus?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-asparagus
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

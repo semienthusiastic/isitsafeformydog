@@ -83,14 +83,4 @@ Pet-safety sources frequently highlight olive pits as a physical hazard due to c
 ### Are plain olives different from seasoned olives?
 Veterinary nutrition articles distinguish plain olives from seasoned or stuffed varieties, noting that added ingredients increase potential risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Olives?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-olives/
-
-- **PetMD** — “Can Dogs Eat Olives?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-olives
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

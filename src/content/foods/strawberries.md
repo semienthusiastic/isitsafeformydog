@@ -17,13 +17,10 @@ shortAnswer: ["Yes, strawberries are safe for dogs. Veterinary organisations sta
 ## Are Strawberries Safe for Dogs?
 
 According to the AKC, **strawberries are safe for dogs** and are not classified as toxic by veterinary organisations. They are often mentioned as a fruit dogs can eat when plain and unprocessed.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-strawberries/
 
 The ASPCA does not list strawberries among foods that are toxic to dogs, but it notes that fruits with natural sugars may cause digestive upset in some pets.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals explains that dietary changes or foods higher in sugar or fibre can lead to gastrointestinal signs such as loose stools in some dogs.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 ## Why Strawberries Can Be a Problem for Some Dogs
 
@@ -88,18 +85,5 @@ Yes. Their sugar and fibre content may cause loose stools if eaten in larger amo
 
 ### Are strawberry leaves safe?
 Veterinary sources note that leaves are not commonly evaluated as food and may be harder to digest.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Strawberries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-strawberries/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

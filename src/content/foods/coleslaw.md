@@ -85,14 +85,4 @@ Pet-safety organisations classify onion as toxic to dogs due to its effects on r
 ### Is plain cabbage different from coleslaw?
 Veterinary articles clearly distinguish plain cabbage from coleslaw, with added ingredients being the main concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Coleslaw?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-coleslaw/
-
-- **PetMD** — “Can Dogs Eat Cabbage?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cabbage
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

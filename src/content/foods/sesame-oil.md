@@ -86,14 +86,4 @@ Pet-nutrition literature explains that concentrated fats can overwhelm digestion
 ### Is sesame oil different from other cooking oils?
 Veterinary sources generally treat sesame oil similarly to other edible oils, noting fat concentration as the primary concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sesame Seeds?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sesame-seeds/
-
-- **PetMD** — “Can Dogs Eat Fats and Oils?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-fats-oils
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

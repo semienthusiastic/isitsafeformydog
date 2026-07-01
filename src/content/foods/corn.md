@@ -83,17 +83,4 @@ Pet-safety references explain that corn cobs are indigestible and commonly cause
 ### Is corn different from other vegetables for dogs?
 Veterinary articles note that corn is similar to other vegetables nutritionally, but the cob presents a unique physical hazard.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Corn?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-corn/
-
-- **PetMD** — “Can Dogs Eat Corn?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-corn
-
-- **VCA Hospitals** — “Can Dogs Eat Corn?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-corn
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -93,17 +93,4 @@ Pet-health literature explains that water supports nearly every bodily function,
 
 Veterinary sources note that risks relate to **lack of water or contaminated water**, not to clean drinking water itself.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “How Much Water Should My Dog Drink?”  
-  https://www.akc.org/expert-advice/health/how-much-water-should-my-dog-drink/
-
-- **VCA Hospitals** — “Water Needs in Dogs”  
-  https://vcahospitals.com/know-your-pet/water-needs-in-dogs
-
-- **Merck Veterinary Manual** — “Nutrition: General Considerations for Dogs”  
-  https://www.merckvetmanual.com/dog-owners/management-and-nutrition-of-dogs/nutrition-general-considerations-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

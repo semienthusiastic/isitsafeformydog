@@ -82,14 +82,4 @@ Pet-nutrition references explain that corn oil is very high in fat, which can up
 ### Is corn oil different from other cooking oils for dogs?
 Veterinary articles discuss corn oil similarly to other vegetable oils, with fat content being the main concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Corn Oil?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-corn-oil/
-
-- **PetMD** — “Can Dogs Eat Corn Oil?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-corn-oil
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

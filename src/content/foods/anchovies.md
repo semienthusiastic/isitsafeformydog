@@ -16,10 +16,8 @@ shortAnswer: ["Caution: anchovies are not toxic to dogs, but many anchovy produc
 ## Are Anchovies Safe for Dogs?
 
 According to the AKC, **anchovies are not toxic to dogs**, and plain anchovies are sometimes discussed as a source of protein and omega-3 fatty acids. However, the AKC emphasises that preparation matters greatly.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-anchovies/
 
 PetMD similarly notes that anchovies themselves are not poisonous, but many commercially available anchovies are preserved in salt, oil, or sauces that are unsuitable for dogs.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-anchovies
 
 Across veterinary nutrition sources, anchovies are generally classified with **caution**, mainly because of how they are commonly processed rather than because of inherent toxicity.
 
@@ -88,15 +86,5 @@ Most anchovies are preserved with high salt or oil, which veterinary sources lis
 
 ### Are fresh anchovies safer than canned ones?
 Fresh anchovies contain less salt, but suitability still depends on preparation and individual tolerance.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Anchovies?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-anchovies/
-
-- **PetMD** — “Can Dogs Eat Anchovies?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-anchovies
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

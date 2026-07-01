@@ -92,14 +92,4 @@ According to VCA Hospitals, many dogs are lactose intolerant and cannot digest d
 
 Pet-nutrition articles note that Swiss cheese is **lower in lactose than some cheeses**, but it may still cause digestive upset in sensitive dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Swiss Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-swiss-cheese/
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

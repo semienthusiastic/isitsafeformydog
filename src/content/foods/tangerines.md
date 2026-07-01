@@ -93,17 +93,4 @@ Pet-care articles explain that citric acid and natural sugars may irritate a dog
 
 Veterinary sources generally group tangerines with other citrus fruits and discuss them under the same caution category.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tangerines?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tangerines/
-
-- **PetMD** — “Can Dogs Eat Tangerines?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tangerines
-
-- **VCA Hospitals** — “Citrus Fruit Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/citrus-fruit-toxicity-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

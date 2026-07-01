@@ -16,10 +16,8 @@ shortAnswer: ["Yes, bell peppers are safe for dogs. Veterinary sources state tha
 ## Are Bell Peppers Safe for Dogs?
 
 According to the AKC, **bell peppers are safe for dogs** and are not listed as toxic by veterinary organisations. Bell peppers are sometimes mentioned as a vegetable dogs can eat when served plain and without added ingredients.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bell-peppers/
 
 PetMD similarly reports that bell peppers are non-toxic to dogs and may be tolerated by many dogs. The article notes that bell peppers contain vitamins and antioxidants but are not nutritionally required for dogs.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-bell-peppers
 
 Across veterinary nutrition references, bell peppers are generally considered **low risk**, with preparation being the main factor affecting tolerance.
 
@@ -87,15 +85,5 @@ No. Red, green, yellow, and orange bell peppers are all considered safe.
 
 ### Can bell peppers cause stomach upset?
 Yes. Fibre and skin texture may cause mild digestive upset in some dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Bell Peppers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bell-peppers/
-
-- **PetMD** — “Can Dogs Eat Bell Peppers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-bell-peppers
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

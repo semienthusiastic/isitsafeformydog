@@ -90,17 +90,4 @@ Veterinary sources focus on digestion rather than toxicity. Pasta remains non-to
 ### Why is lasagna mentioned specifically in warnings?
 Veterinary guidance highlights lasagna because it commonly contains onion, garlic, cheese, and sauces that are unsafe for dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pasta?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pasta/
-
-- **PetMD** — “Can Dogs Eat Pasta?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pasta
-
-- **VCA Hospitals** — “Foods to Avoid Feeding Your Pet”  
-  https://vcahospitals.com/know-your-pet/foods-to-avoid-feeding-your-pet
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

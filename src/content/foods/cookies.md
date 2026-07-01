@@ -88,17 +88,4 @@ Pet-safety organisations classify chocolate and xylitol as toxic to dogs, and bo
 ### Are plain cookies safer than flavoured cookies?
 Veterinary articles note that plain cookies remove some toxic ingredient risks but still contain high sugar and fat levels.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cookies?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/
-
-- **PetMD** — “Can Dogs Eat Cookies?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

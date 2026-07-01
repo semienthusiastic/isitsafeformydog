@@ -79,17 +79,4 @@ Pet-nutrition articles generally treat oats and oatmeal similarly, with the main
 ### Do oats cause allergies in dogs?
 Veterinary literature notes that grain sensitivities vary by individual dog, but oats are not commonly identified as a major allergen.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Oatmeal?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-oatmeal/
-
-- **PetMD** — “Can Dogs Eat Oatmeal?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-oatmeal
-
-- **VCA Hospitals** — “Grains in Dog Food”  
-  https://vcahospitals.com/know-your-pet/grains-in-dog-food
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

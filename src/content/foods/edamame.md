@@ -82,17 +82,4 @@ Pet-nutrition references explain that legumes and soybeans contain fiber and com
 ### Is edamame different from other soy products?
 Veterinary articles distinguish whole soybeans from processed soy products, with processing and added ingredients being key concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Edamame?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-edamame/
-
-- **PetMD** — “Can Dogs Eat Edamame?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-edamame
-
-- **VCA Hospitals** — “Can Dogs Eat Soy?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-soy
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

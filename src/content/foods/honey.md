@@ -88,17 +88,4 @@ Veterinary sources note that raw honey may contain botulism spores, which are a 
 ### Does processing make honey safer?
 Pet-nutrition articles explain that processing may reduce microbial risk but does not change sugar-related concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Honey?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-honey/
-
-- **PetMD** — “Can Dogs Eat Honey?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-honey
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

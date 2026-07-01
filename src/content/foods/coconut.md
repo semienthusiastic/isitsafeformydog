@@ -82,17 +82,4 @@ Pet-nutrition references explain that coconut contains a high proportion of fats
 ### Are coconut products all treated the same?
 Veterinary articles distinguish between fresh coconut and processed coconut products, with additives being a key concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Coconut?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-coconut/
-
-- **PetMD** — “Can Dogs Eat Coconut?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-coconut
-
-- **VCA Hospitals** — “Coconut Oil for Dogs”  
-  https://vcahospitals.com/know-your-pet/coconut-oil-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

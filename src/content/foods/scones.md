@@ -90,17 +90,4 @@ Pet-safety organisations consistently warn that raisins can cause acute kidney f
 ### Are plain scones safer than flavored ones?
 Veterinary literature notes that plain scones lack some toxic add-ins, but sugar, fat, and dairy still pose concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Bread?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/
-
-- **PetMD** — “Can Dogs Eat Bread?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-bread
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

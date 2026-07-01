@@ -86,17 +86,4 @@ Veterinary organisations do not classify broccoli as toxic. It is considered a f
 ### Why do veterinary sources mention gas?
 Broccoli is a cruciferous vegetable. Pet-nutrition sources frequently associate this group with gas and bloating in dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Broccoli?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-broccoli/
-
-- **PetMD** — “Can Dogs Eat Broccoli?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-broccoli
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

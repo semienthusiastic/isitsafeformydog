@@ -89,17 +89,4 @@ The ASPCA and other veterinary sources list xylitol as highly toxic to dogs, and
 ### Are all maple syrups the same?
 Veterinary guidance emphasises that pure maple syrup differs from imitation syrups, which may contain harmful ingredients.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Maple Syrup?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-maple-syrup/
-
-- **PetMD** — “Can Dogs Eat Maple Syrup?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-maple-syrup
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -86,14 +86,4 @@ Veterinary literature generally treats rice and wheat noodles similarly, noting 
 ### Do rice noodles contain gluten?
 Pet-nutrition sources note that rice noodles are typically gluten-free, though this does not change their overall dietary role for dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Noodles?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-noodles/
-
-- **PetMD** — “Can Dogs Eat Noodles?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-noodles
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

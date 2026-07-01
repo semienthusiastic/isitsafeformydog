@@ -83,17 +83,4 @@ Pet-nutrition references explain that processed cheese slices contain added salt
 ### Are cheese slices different from block cheese for dogs?
 Veterinary literature distinguishes processed cheese from natural cheese, with processing and additives being the main difference.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
-
-- **PetMD** — “Can Dogs Eat Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cheese
-
-- **VCA Hospitals** — “Can Dogs Eat Cheese?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-cheese
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

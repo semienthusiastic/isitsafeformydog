@@ -84,17 +84,4 @@ Pet-safety organisations such as the ASPCA classify onion and garlic as toxic to
 ### Is soup different from plain broth for dogs?
 Veterinary articles distinguish soup from plain broth, with soups more likely to contain salt, seasonings, and other additives.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Soup?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-soup/
-
-- **PetMD** — “Can Dogs Eat Soup?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-soup
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -17,13 +17,10 @@ shortAnswer: ["Caution: apricot flesh is safe for dogs, but apricot pits are tox
 ## Are Apricots Safe for Dogs?
 
 According to the AKC, **the flesh of apricots is not toxic to dogs**, but the pit presents a serious risk. The AKC highlights that the pit can cause choking or intestinal blockage and should always be considered unsafe.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-apricots/
 
 The ASPCA lists apricot plants as toxic due to cyanogenic compounds found in the pit, leaves, and stems. These compounds can release cyanide when chewed or digested.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/apricot
 
 Pet Poison Helpline similarly warns that **apricot pits are dangerous**, citing both cyanide exposure and physical obstruction as major concerns.  
-Source: https://www.petpoisonhelpline.com/poison/apricot-pits/
 
 ## Why Apricots Can Be a Problem for Some Dogs
 
@@ -91,18 +88,5 @@ They contain amygdalin, which can release cyanide, and they also pose a choking 
 
 ### Can dogs eat dried apricots?
 Dried apricots without pits are not toxic, but their higher sugar content may cause digestive upset.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Apricots?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-apricots/
-
-- **ASPCA** — “Apricot (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/apricot
-
-- **Pet Poison Helpline** — “Apricot Pits”  
-  https://www.petpoisonhelpline.com/poison/apricot-pits/
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

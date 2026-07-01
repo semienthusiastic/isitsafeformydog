@@ -88,17 +88,4 @@ Pet-nutrition guidance explains that processed meats contain far more sodium tha
 ### Are all hot dogs the same?
 Veterinary sources emphasise that ingredient lists vary, which affects overall risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Hot Dogs?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-hot-dogs/
-
-- **PetMD** — “Can Dogs Eat Hot Dogs?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-hot-dogs
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

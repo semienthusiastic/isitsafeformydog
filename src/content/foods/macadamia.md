@@ -18,13 +18,10 @@ shortAnswer: ["No, macadamia nuts are toxic to dogs and should never be eaten. V
 ## Are Macadamia Nuts Safe for Dogs?
 
 Veterinary toxicology sources, including the ASPCA and Pet Poison Helpline, classify **macadamia nuts as toxic to dogs**. Reports show that even a small number of nuts may cause noticeable clinical signs in affected dogs.  
-Source: https://www.petpoisonhelpline.com/poison/macadamia-nuts/
 
 The ASPCA lists macadamia nuts among substances known to be dangerous for dogs and notes that the mechanism of toxicity is still unknown.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/macadamia-nut
 
 The Merck Veterinary Manual explains that macadamia nut toxicosis can lead to neurological and gastrointestinal signs, often appearing within 6–12 hours of ingestion.  
-Source: https://www.merckvetmanual.com/toxicology/food-hazards/macadamia-nut-toxicosis-in-dogs
 
 ## Why Macadamia Nuts Can Be a Problem for Some Dogs
 
@@ -97,21 +94,5 @@ Veterinary sources warn that even a small amount can cause illness, and there is
 
 ### Are cooked or roasted macadamia nuts safe?
 No. All forms—raw, roasted, salted, or baked into foods—are classified as unsafe.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Macadamia Nut (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/macadamia-nut
-
-- **Pet Poison Helpline** — “Macadamia Nut Poisoning”  
-  https://www.petpoisonhelpline.com/poison/macadamia-nuts/
-
-- **Merck Veterinary Manual** — “Macadamia Nut Toxicosis in Dogs”  
-  https://www.merckvetmanual.com/toxicology/food-hazards/macadamia-nut-toxicosis-in-dogs
-
-- **VCA Hospitals** — “Macadamia Nut Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/macadamia-nut-toxicity-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

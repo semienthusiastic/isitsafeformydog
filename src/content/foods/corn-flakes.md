@@ -84,14 +84,4 @@ Pet-nutrition references explain that high sugar intake can cause digestive upse
 ### Are corn flakes nutritionally useful for dogs?
 Veterinary literature notes that corn flakes provide little nutritional benefit for dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cornflakes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cornflakes/
-
-- **PetMD** — “Can Dogs Eat Cereal?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cereal
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

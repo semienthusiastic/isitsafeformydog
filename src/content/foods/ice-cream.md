@@ -91,17 +91,4 @@ The AKC and PetMD state that chocolate contains theobromine, which is toxic to d
 ### Do all dogs react the same way to ice cream?
 Veterinary sources explain that lactose tolerance varies widely between individual dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Ice Cream?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ice-cream/
-
-- **PetMD** — “Can Dogs Eat Ice Cream?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-ice-cream
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

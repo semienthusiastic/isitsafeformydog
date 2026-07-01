@@ -81,17 +81,4 @@ Veterinary nutrition references identify naturally occurring compounds in caulif
 ### Is cauliflower harder to digest than other vegetables?
 Some veterinary articles note that cauliflower is more likely to cause gas compared to vegetables such as carrots or green beans.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cauliflower?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cauliflower/
-
-- **PetMD** — “Can Dogs Eat Cauliflower?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cauliflower
-
-- **VCA Hospitals** — “Can Dogs Eat Cauliflower?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-cauliflower
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -87,17 +87,4 @@ Veterinary sources discuss both raw and cooked green beans, with preparation dif
 ### Why do sources mention salt so often?
 Pet-nutrition guidance highlights salt as a common issue in canned or seasoned vegetables, not in green beans themselves.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Green Beans?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-green-beans/
-
-- **PetMD** — “Can Dogs Eat Green Beans?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-green-beans
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

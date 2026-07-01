@@ -94,17 +94,4 @@ Veterinary sources still discourage tea products due to residual caffeine and ot
 
 According to veterinary toxicology resources, caffeine can overstimulate the nervous system and heart, leading to serious and potentially life-threatening effects.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Caffeine”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods/caffeine
-
-- **Pet Poison Helpline** — “Caffeine”  
-  https://www.petpoisonhelpline.com/poison/caffeine/
-
-- **American Kennel Club (AKC)** — “Caffeine and Dogs”  
-  https://www.akc.org/expert-advice/health/caffeine-and-dogs/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -88,14 +88,4 @@ Pet-nutrition literature explains that dogs are sensitive to capsaicin, which ir
 ### Are red pepper flakes worse than fresh peppers?
 Veterinary sources note that flakes are more concentrated, increasing the likelihood of irritation.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Spicy Food?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spicy-food/
-
-- **PetMD** — “Can Dogs Eat Chili Peppers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chili-peppers
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

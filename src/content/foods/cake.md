@@ -83,14 +83,4 @@ Pet-nutrition references explain that cake is high in sugar and fat and offers n
 ### Are homemade cakes safer than store-bought cakes?
 Veterinary literature notes that ingredient selection is the primary concern, regardless of whether a cake is homemade or commercially produced.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cake?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cake/
-
-- **PetMD** — “Can Dogs Eat Cake?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cake
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

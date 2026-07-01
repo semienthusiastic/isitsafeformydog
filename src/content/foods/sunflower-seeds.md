@@ -92,17 +92,4 @@ Pet-care articles note that **sunflower seed shells are hard to digest** and may
 
 Veterinary nutrition articles generally group sunflower seeds with other seeds and discuss them similarly, with emphasis on preparation and additives.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sunflower Seeds?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sunflower-seeds/
-
-- **PetMD** — “Can Dogs Eat Sunflower Seeds?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sunflower-seeds
-
-- **VCA Hospitals** — “Nuts, Seeds, and Dogs”  
-  https://vcahospitals.com/know-your-pet/nuts-seeds-and-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

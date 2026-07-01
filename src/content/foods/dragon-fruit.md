@@ -79,14 +79,4 @@ Pet-nutrition references explain that excessive amounts of fruit may cause mild 
 ### Are the seeds in dragon fruit dangerous?
 Veterinary articles note that the small seeds are generally tolerated but may contribute to digestive upset if large quantities are consumed.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Dragon Fruit?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-dragon-fruit/
-
-- **PetMD** — “Can Dogs Eat Dragon Fruit?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-dragon-fruit
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

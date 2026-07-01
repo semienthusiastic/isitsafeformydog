@@ -16,10 +16,8 @@ shortAnswer: ["Caution: almond milk is not toxic to dogs, but it is not consider
 ## Is Almond Milk Safe for Dogs?
 
 According to the AKC, **almond milk is not toxic to dogs**, but it is not recommended as a regular part of a dog’s diet. The AKC notes that almond milk offers little nutritional benefit for dogs and may cause digestive upset in some cases.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-drink-almond-milk/
 
 Pet Poison Helpline similarly states that almond milk is generally safe in small amounts but highlights that many commercial products contain additives that may be problematic for dogs.  
-Source: https://www.petpoisonhelpline.com/pet-safety-tips/is-almond-milk-safe-for-dogs/
 
 Across veterinary guidance, almond milk is typically classified as a **low-risk but unnecessary** food for dogs.
 
@@ -88,15 +86,5 @@ Yes. Digestive upset has been reported, especially with sweetened or flavoured p
 
 ### Is almond milk better than regular milk?
 Veterinary sources note that almond milk avoids lactose but introduces other additives and does not provide nutritional benefits for dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Drink Almond Milk?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-drink-almond-milk/
-
-- **Pet Poison Helpline** — “Is Almond Milk Safe for Dogs?”  
-  https://www.petpoisonhelpline.com/pet-safety-tips/is-almond-milk-safe-for-dogs/
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

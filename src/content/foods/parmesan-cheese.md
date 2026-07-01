@@ -83,14 +83,4 @@ Veterinary nutrition literature frequently notes that Parmesan cheese is more co
 ### Do all dogs react the same way to dairy?
 Veterinary sources explain that lactose tolerance varies among dogs, and digestive sensitivity differs by individual.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
-
-- **PetMD** — “Can Dogs Eat Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cheese
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

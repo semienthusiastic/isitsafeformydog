@@ -87,17 +87,4 @@ Veterinary literature places chives in the same Allium group as onions and garli
 ### Does cooking chives make them safe?
 Veterinary toxicology references state that cooking does not remove the toxic compounds.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Chives (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chives
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chives?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chives/
-
-- **PetMD** — “Can Dogs Eat Chives?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chives
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -82,14 +82,4 @@ Pet-nutrition references explain that capers are preserved in salt or brine, lea
 ### Are capers different from other pickled foods?
 Veterinary articles discuss capers similarly to other pickled or brined foods, with sodium content being the primary issue.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Capers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-capers/
-
-- **PetMD** — “Can Dogs Eat Capers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-capers
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

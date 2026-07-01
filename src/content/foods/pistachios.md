@@ -90,14 +90,4 @@ Pet-safety literature explains that pistachios can harbor molds that produce myc
 ### Are pistachios different from peanuts?
 Veterinary sources distinguish pistachios from peanuts, noting that pistachios carry higher risks related to toxins and fat content.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pistachios?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pistachios/
-
-- **PetMD** — “Can Dogs Eat Pistachios?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pistachios
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

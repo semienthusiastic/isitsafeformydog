@@ -17,13 +17,10 @@ shortAnswer: ["Yes, fresh pineapple is safe for dogs. Veterinary organisations s
 ## Is Pineapple Safe for Dogs?
 
 According to the AKC, **fresh pineapple is safe for dogs** and is not classified as toxic. Plain pineapple flesh is generally tolerated when eaten without added ingredients.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pineapple/
 
 The ASPCA does not list pineapple among foods that are toxic to dogs, but it notes that fruits with higher sugar content may cause digestive upset in some pets.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals explains that dietary changes or foods high in sugar can contribute to gastrointestinal signs such as diarrhoea in sensitive dogs.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 ## Why Pineapple Can Be a Problem for Some Dogs
 
@@ -90,18 +87,5 @@ Fresh pineapple does not contain added sugar and is generally better tolerated.
 
 ### Can pineapple cause diarrhoea?
 Yes. Its sugar and acid content may cause loose stools in some dogs.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Pineapple?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pineapple/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

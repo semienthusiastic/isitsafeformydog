@@ -91,17 +91,4 @@ Pet-nutrition articles explain that excess fat can cause digestive upset and may
 
 Veterinary sources note that fats in dog food are **balanced and formulated**, whereas pure oils are highly concentrated and lack nutritional balance.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Vegetable Oil?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-vegetable-oil/
-
-- **PetMD** — “Can Dogs Eat Cooking Oil?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cooking-oil
-
-- **VCA Hospitals** — “Fats in Dog Food”  
-  https://vcahospitals.com/know-your-pet/fats-in-dog-food
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

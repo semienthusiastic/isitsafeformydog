@@ -94,17 +94,4 @@ Veterinary organisations confirm that cooking does not neutralise garlic’s tox
 ### Can small amounts build up over time?
 Pet Poison Helpline notes that repeated small exposures may still lead to toxicity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Garlic”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/garlic
-
-- **Pet Poison Helpline** — “Garlic Poisoning in Dogs”  
-  https://www.petpoisonhelpline.com/poison/garlic/
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Garlic?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-garlic/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

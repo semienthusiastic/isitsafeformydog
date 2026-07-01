@@ -84,17 +84,4 @@ The AKC and other veterinary organisations warn about raw dough because of yeast
 ### Can dogs be allergic to flour?
 VCA Hospitals notes that wheat and related grains can be involved in food sensitivities in some dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **PetMD** — “Can Dogs Eat Flour?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-flour
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Bread?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/
-
-- **VCA Hospitals** — “Food Allergies in Dogs”  
-  https://vcahospitals.com/know-your-pet/food-allergies-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

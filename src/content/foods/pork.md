@@ -86,14 +86,4 @@ Pet-nutrition literature explains that raw pork may contain parasites or bacteri
 ### Is pork different from other meats?
 Veterinary sources treat pork similarly to other meats, with emphasis on thorough cooking and avoidance of seasoning and processing.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pork?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pork/
-
-- **PetMD** — “Can Dogs Eat Pork?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pork
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

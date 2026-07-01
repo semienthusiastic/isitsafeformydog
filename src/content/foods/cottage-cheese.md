@@ -83,17 +83,4 @@ Pet-nutrition references explain that lactose intolerance and sodium content are
 ### Is cottage cheese different from other cheeses for dogs?
 Veterinary articles note that cottage cheese is lower in fat than many cheeses but still contains lactose.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cottage Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cottage-cheese/
-
-- **PetMD** — “Can Dogs Eat Cottage Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cottage-cheese
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

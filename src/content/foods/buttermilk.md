@@ -82,17 +82,4 @@ Pet-nutrition references explain that many dogs lack sufficient lactase to diges
 ### Is buttermilk different from regular milk for dogs?
 Veterinary sources note that while buttermilk may contain slightly less lactose than whole milk, it can still cause digestive upset.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Drink Milk?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-drink-milk/
-
-- **PetMD** — “Can Dogs Eat Dairy Products?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-dairy-products
-
-- **Dial A Vet** — “Is it safe for dogs to drink buttermilk?”  
-  https://www.dialavet.com/vet-answers/buttermilk-safe-for-dogs-9604
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

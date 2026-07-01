@@ -83,14 +83,4 @@ Pet-nutrition articles note that peanuts differ from some tree nuts that are cla
 ### Do peanuts cause allergies in dogs?
 Veterinary literature notes that food sensitivities vary by individual dog, and peanuts are not among the most commonly cited allergens.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Peanuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanuts/
-
-- **PetMD** — “Can Dogs Eat Peanuts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-peanuts
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

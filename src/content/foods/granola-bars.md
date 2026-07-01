@@ -87,17 +87,4 @@ The ASPCA lists grapes and raisins as toxic to dogs, and they are commonly found
 ### Are all granola bars the same?
 Pet-nutrition sources emphasise that ingredient lists vary widely, which significantly affects safety.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Granola?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-granola/
-
-- **PetMD** — “Can Dogs Eat Granola?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-granola
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

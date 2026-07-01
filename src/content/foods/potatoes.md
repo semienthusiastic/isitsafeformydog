@@ -85,17 +85,4 @@ Pet-safety sources explain that green coloration indicates higher solanine level
 ### Are potatoes different from sweet potatoes?
 Veterinary literature distinguishes white potatoes from sweet potatoes, noting different plant families and different safety considerations.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Potatoes?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-potatoes/
-
-- **PetMD** — “Can Dogs Eat Potatoes?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-potatoes
-
-- **ASPCA** — “Potato (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/potato
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

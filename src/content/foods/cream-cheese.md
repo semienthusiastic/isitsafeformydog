@@ -84,17 +84,4 @@ Pet-nutrition references explain that lactose intolerance and high fat content a
 ### Is cream cheese different from other cheeses for dogs?
 Veterinary articles note that cream cheese is higher in fat and moisture than many hard cheeses, which may increase digestive sensitivity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cream Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cream-cheese/
-
-- **PetMD** — “Can Dogs Eat Cream Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cream-cheese
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

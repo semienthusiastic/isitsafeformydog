@@ -93,17 +93,4 @@ According to VCA Hospitals, soy protein is commonly used in dog foods and is not
 
 Veterinary nutrition articles discuss soy milk similarly to other plant-based milks, focusing on **processing, additives, and sugar content** rather than toxicity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Drink Soy Milk?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-drink-soy-milk/
-
-- **PetMD** — “Can Dogs Drink Soy Milk?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-drink-soy-milk
-
-- **VCA Hospitals** — “Soy in Dog Food”  
-  https://vcahospitals.com/know-your-pet/soy-in-dog-food
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

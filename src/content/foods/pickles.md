@@ -83,14 +83,4 @@ Pet-nutrition articles clearly distinguish pickles from cucumbers, noting that p
 ### Why is salt mentioned so often?
 Veterinary literature frequently associates high sodium intake with digestive and systemic concerns in dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pickles?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pickles/
-
-- **PetMD** — “Can Dogs Eat Pickles?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pickles
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

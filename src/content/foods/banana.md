@@ -17,13 +17,10 @@ shortAnswer: ["Yes, bananas are safe for dogs. Veterinary organisations note tha
 ## Are Bananas Safe for Dogs?
 
 According to the AKC, **bananas are safe for dogs** and are not classified as toxic by veterinary organisations. They are commonly mentioned as a fruit that dogs can eat in moderation when plain and unprocessed.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bananas/
 
 The ASPCA does not list bananas among foods that are toxic to dogs, but it notes that fruits containing sugar should be given with awareness of their sugar content.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 VCA Hospitals explains that foods high in fibre or sugar may contribute to digestive changes in some dogs, particularly if eaten in larger quantities.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 ## Why Bananas Can Be a Problem for Some Dogs
 
@@ -85,18 +82,5 @@ Yes. Their sugar and fibre content may cause loose stools if eaten in larger amo
 
 ### Are banana peels safe?
 Veterinary sources note that banana peels are difficult to digest and may cause gastrointestinal upset or obstruction.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Bananas?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bananas/
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

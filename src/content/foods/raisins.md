@@ -93,21 +93,4 @@ Veterinary organisations state that no safe dose has been established. Even smal
 ### Are raisins more dangerous than grapes?
 Veterinary literature treats raisins and grapes as equally dangerous, noting that raisins are a more concentrated form.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Grapes and Raisins”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grapes-and-raisins
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Raisins?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-raisins/
-
-- **Pet Poison Helpline** — “Raisins”  
-  https://www.petpoisonhelpline.com/poison/raisins/
-
-- **VCA Hospitals** — “Grape, Raisin, and Currant Poisoning in Dogs”  
-  https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.
-

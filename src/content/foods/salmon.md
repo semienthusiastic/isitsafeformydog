@@ -17,13 +17,10 @@ shortAnswer: ["Caution: cooked salmon is safe for dogs, but raw salmon is not. V
 ## Is Salmon Safe for Dogs?
 
 According to the AKC, **plain, cooked salmon is safe for dogs** and is often included in commercial dog foods because it is a source of protein and omega-3 fatty acids.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-salmon/
 
 However, veterinary organisations caution strongly against feeding **raw salmon**. VCA Hospitals explains that raw salmon may carry *Neorickettsia helminthoeca*, a bacterium transmitted by a parasitic fluke that can cause salmon poisoning disease in dogs.  
-Source: https://vcahospitals.com/know-your-pet/salmon-poisoning-disease-in-dogs
 
 The FDA warns that raw fish can contain harmful pathogens and parasites, and therefore should not be given to pets.  
-Source: https://www.fda.gov/animal-veterinary/animal-health-literacy/keep-your-pet-safe-food-borne-illness
 
 ## Why Salmon Can Be a Problem for Some Dogs
 
@@ -96,18 +93,5 @@ Raw salmon may contain a parasite that carries bacteria known to cause salmon po
 
 ### Can dogs eat salmon skin?
 Salmon skin is often high in fat, and suitability depends on preparation and the individual dog’s tolerance.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Salmon?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-salmon/
-
-- **VCA Hospitals** — “Salmon Poisoning Disease in Dogs”  
-  https://vcahospitals.com/know-your-pet/salmon-poisoning-disease-in-dogs
-
-- **FDA** — “Keep Your Pet Safe from Food-Borne Illness”  
-  https://www.fda.gov/animal-veterinary/animal-health-literacy/keep-your-pet-safe-food-borne-illness
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -90,17 +90,4 @@ Veterinary sources focus on digestion rather than toxicity. Macaroni remains non
 ### Why is macaroni and cheese often mentioned?
 Veterinary guidance highlights macaroni dishes because they frequently contain cheese, butter, and seasoning that are unsuitable for dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pasta?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pasta/
-
-- **PetMD** — “Can Dogs Eat Pasta?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pasta
-
-- **VCA Hospitals** — “Foods to Avoid Feeding Your Pet”  
-  https://vcahospitals.com/know-your-pet/foods-to-avoid-feeding-your-pet
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

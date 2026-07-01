@@ -91,17 +91,4 @@ Dogs lack tolerance for capsaicin, and spicy foods commonly cause gastrointestin
 ### Are all hot sauces the same?
 Veterinary guidance emphasises that ingredient lists vary widely, which affects overall risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Spicy Foods?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-spicy-foods/
-
-- **PetMD** — “Can Dogs Eat Spicy Foods?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-spicy-foods
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -18,13 +18,10 @@ shortAnswer: ["No, onions are toxic to dogs and should never be eaten. Veterinar
 ## Are Onions Safe for Dogs?
 
 Veterinary organisations, including the ASPCA and Pet Poison Helpline, classify **onions as toxic to dogs**. Onions contain sulfur-containing compounds that can damage red blood cells, resulting in haemolytic anaemia.  
-Source: https://www.petpoisonhelpline.com/poison/onions/
 
 The Merck Veterinary Manual explains that toxicity can occur from raw, cooked, or powdered onion, and that onion powder found in processed foods is a particularly common source of exposure.  
-Source: https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals
 
 VCA Hospitals notes that clinical signs may not appear for several days after ingestion, but damage to red blood cells begins earlier.  
-Source: https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs
 
 ## Why Onions Can Be a Problem for Some Dogs
 
@@ -95,21 +92,5 @@ No. Veterinary toxicology sources state that all forms of onion are unsafe.
 
 ### How soon do signs appear?
 Signs may appear within a day but often develop over several days as red blood cell damage progresses.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Onion (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion
-
-- **Pet Poison Helpline** — “Onion Poisoning”  
-  https://www.petpoisonhelpline.com/poison/onions/
-
-- **Merck Veterinary Manual** — “Onion and Garlic Toxicity in Animals”  
-  https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals
-
-- **VCA Hospitals** — “Onion Toxicity in Dogs”  
-  https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

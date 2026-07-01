@@ -85,17 +85,4 @@ Pet-safety sources explain that pear seeds contain cyanogenic compounds and may 
 ### Are pears similar to apples for dogs?
 Veterinary literature groups pears and apples together, noting similar seed-related risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pears?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pears/
-
-- **ASPCA** — “Pear (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pear
-
-- **PetMD** — “Can Dogs Eat Pears?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pears
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

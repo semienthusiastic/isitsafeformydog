@@ -18,13 +18,10 @@ shortAnswer: ["No, chocolate is toxic to dogs and should never be eaten. Veterin
 ## Is Chocolate Safe for Dogs?
 
 Veterinary toxicology sources, including the ASPCA and Merck Veterinary Manual, state clearly that **chocolate is toxic to dogs**. Chocolate contains the methylxanthines **theobromine** and **caffeine**, which dogs process far more slowly than humans.  
-Source: https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
 
 VCA Hospitals explains that even small amounts of chocolate may cause vomiting, diarrhoea, agitation, or an increased heart rate, while larger amounts can lead to tremors, seizures, or dangerous heart rhythm changes.  
-Source: https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
 
 Cornell University notes that the severity of chocolate toxicity depends on the type of chocolate, the amount eaten, and the size of the dog, with darker chocolates posing the highest risk.  
-Source: https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate
 
 ## Why Chocolate Can Be a Problem for Some Dogs
 
@@ -96,21 +93,5 @@ Dark chocolate, baking chocolate, and cocoa powder contain the highest toxin lev
 
 ### Can dogs eat white chocolate?
 White chocolate contains very little theobromine but is still considered unsuitable due to sugar and fat content.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “People Foods to Avoid Feeding Your Pet”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pet
-
-- **VCA Hospitals** — “Chocolate Poisoning in Dogs”  
-  https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
-
-- **Merck Veterinary Manual** — “Chocolate Toxicosis in Animals”  
-  https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals
-
-- **Cornell University College of Veterinary Medicine** — “Chocolate Toxicity: What Should I Do If My Dog Eats Chocolate?”  
-  https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/chocolate-toxicity-what-should-i-do-if-my-dog-eats-chocolate
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

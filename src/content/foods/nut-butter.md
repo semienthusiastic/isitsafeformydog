@@ -95,17 +95,4 @@ The ASPCA and other veterinary sources list xylitol as one of the most dangerous
 ### Are all nut butters the same?
 Veterinary guidance emphasises that formulations vary widely, and safety depends on ingredients.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Peanut Butter?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-peanut-butter/
-
-- **PetMD** — “Is Peanut Butter Safe for Dogs?”  
-  https://www.petmd.com/dog/nutrition/is-peanut-butter-safe-for-dogs
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

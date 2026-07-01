@@ -94,17 +94,4 @@ Veterinary sources explain that pits can cause choking, block the intestines, an
 ### Is canned nectarine different from fresh?
 Pet-nutrition sources note that canned fruit often contains added sugar, which increases digestive concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Nectarines?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-nectarines/
-
-- **PetMD** — “Can Dogs Eat Nectarines?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-nectarines
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

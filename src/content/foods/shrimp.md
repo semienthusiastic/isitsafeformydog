@@ -93,17 +93,4 @@ Pet-care articles frequently note that **shrimp shells are difficult to digest**
 
 Veterinary literature clearly distinguishes plain shrimp from seasoned or processed shrimp, with **added ingredients being the primary concern**.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Shrimp?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-shrimp/
-
-- **PetMD** — “Can Dogs Eat Shrimp?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-shrimp
-
-- **VCA Hospitals** — “Fish and Fish Products in Dogs”  
-  https://vcahospitals.com/know-your-pet/fish-and-fish-products-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

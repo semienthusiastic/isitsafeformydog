@@ -93,17 +93,4 @@ Pet-nutrition articles explain that food sensitivities vary between dogs, and so
 
 Veterinary sources note that tofu is **less processed than some soy products**, but still differs from soy ingredients used in formulated dog foods.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tofu?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tofu/
-
-- **PetMD** — “Can Dogs Eat Tofu?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tofu
-
-- **VCA Hospitals** — “Soy in Dog Food”  
-  https://vcahospitals.com/know-your-pet/soy-in-dog-food
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

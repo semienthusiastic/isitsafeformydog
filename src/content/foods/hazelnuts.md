@@ -91,17 +91,4 @@ Pet-safety sources explain that toxicity varies by nut type, with some, such as 
 ### Do roasted hazelnuts change the risk?
 Veterinary guidance focuses on form and additives. Roasting does not remove choking risk and may add salt or fat.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Nuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-nuts/
-
-- **PetMD** — “Can Dogs Eat Hazelnuts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-hazelnuts
-
-- **VCA Hospitals** — “Foods to Avoid Feeding Your Pet”  
-  https://vcahospitals.com/know-your-pet/foods-to-avoid-feeding-your-pet
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -82,14 +82,4 @@ Pet-nutrition literature explains that raw or undercooked beans contain compound
 ### Are canned beans different from dried beans?
 Veterinary sources distinguish canned beans due to added salt and preservatives rather than the beans themselves.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Beans?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-beans/
-
-- **PetMD** — “Can Dogs Eat Beans?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

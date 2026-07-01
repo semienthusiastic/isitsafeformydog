@@ -98,17 +98,4 @@ The ASPCA and other veterinary sources list xylitol as extremely toxic to dogs, 
 ### Are all marshmallows the same?
 Veterinary guidance emphasises that ingredient lists vary, particularly between regular and sugar-free products.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Marshmallows?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-marshmallows/
-
-- **PetMD** — “Can Dogs Eat Marshmallows?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-marshmallows
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

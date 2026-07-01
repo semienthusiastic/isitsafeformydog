@@ -83,17 +83,4 @@ While the flesh itself does not contain cyanide, veterinary sources generally cl
 ### Are maraschino cherries safer than fresh cherries?
 Veterinary references note that maraschino cherries avoid pit risks but introduce concerns related to sugar and additives, and are still considered unsuitable.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cherries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cherries/
-
-- **ASPCA** — “Cherry (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cherry
-
-- **PetMD** — “Can Dogs Eat Cherries?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cherries
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

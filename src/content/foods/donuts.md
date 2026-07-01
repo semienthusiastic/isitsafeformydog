@@ -85,14 +85,4 @@ Pet-safety organisations classify xylitol as toxic to dogs, and it may be presen
 ### Are plain donuts safer than flavoured donuts?
 Veterinary articles note that plain donuts remove some toxic ingredient risks but still contain high sugar and fat levels.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Donuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-donuts/
-
-- **PetMD** — “Can Dogs Eat Donuts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-donuts
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

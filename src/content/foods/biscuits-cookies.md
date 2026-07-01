@@ -16,10 +16,8 @@ shortAnswer: ["Caution: cookies are not considered safe foods for dogs. Veterina
 ## Are Biscuits (Cookies) Safe for Dogs?
 
 According to the AKC, **cookies are not a suitable food for dogs**. While plain baked goods are not inherently poisonous, cookies are typically high in sugar and fat and may include ingredients that veterinary organisations classify as unsafe.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/
 
 PetMD similarly reports that cookies provide no nutritional benefit for dogs and frequently contain chocolate, raisins, nuts, or artificial sweeteners, all of which may pose risks.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies
 
 Across veterinary nutrition guidance, cookies are consistently classified with **caution**, primarily due to ingredient-related concerns rather than the baked product itself.
 
@@ -91,15 +89,5 @@ Chocolate contains theobromine and caffeine, which dogs metabolise slowly and wh
 
 ### Are dog biscuits different from human cookies?
 Yes. Dog biscuits are formulated specifically for dogs and do not include toxic ingredients.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Cookies?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cookies/
-
-- **PetMD** — “Can Dogs Eat Cookies?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cookies
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -80,14 +80,4 @@ Pet-nutrition literature frequently associates high sugar intake with digestive 
 ### Is orange juice different from whole oranges?
 Veterinary articles distinguish orange juice from whole oranges, noting that juice concentrates sugars and acids while lacking fiber.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Drink Orange Juice?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-drink-orange-juice/
-
-- **PetMD** — “Can Dogs Drink Orange Juice?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-drink-orange-juice
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

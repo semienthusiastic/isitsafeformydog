@@ -17,13 +17,10 @@ shortAnswer: ["Yes, plain cooked rice is safe for dogs. Veterinary organisations
 ## Is Rice Safe for Dogs?
 
 According to the AKC, **plain, cooked rice is safe for dogs**, and many dogs tolerate it well as part of an occasional meal. It is widely used because of its mild flavour and easy digestibility.  
-Source: https://www.akc.org/expert-advice/nutrition/can-dogs-eat-rice/
 
 VCA Hospitals notes that plain rice is often included in bland diets due to its gentle effect on the digestive system. Their guidance focuses on rice as an easily digestible carbohydrate.  
-Source: https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
 
 The ASPCA cautions that foods containing added seasonings, fats, or spices may not be suitable for dogs, but plain cooked rice itself is not classified as unsafe.  
-Source: https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 ## Why Rice Can Be a Problem for Some Dogs
 
@@ -87,18 +84,5 @@ Most fried rice contains seasonings, oils, or vegetables such as onion that are 
 
 ### Is brown rice safe?
 Yes, but its higher fibre content may be more difficult for some dogs to digest.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **AKC** — “Can Dogs Eat Rice?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-rice/
-
-- **VCA Hospitals** — “Dietary Diarrhea in Dogs”  
-  https://vcahospitals.com/know-your-pet/dietary-diarrhea-in-dogs
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/general-pet-care/people-foods-pets-should-never-eat
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

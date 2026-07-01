@@ -95,17 +95,4 @@ According to veterinary toxicology resources, alcohol can depress the nervous sy
 
 Veterinary sources distinguish vanilla extract as particularly concerning due to alcohol, while other flavourings vary by formulation and still warrant caution.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Alcohol”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods/alcohol
-
-- **Pet Poison Helpline** — “Alcohol Poisoning”  
-  https://www.petpoisonhelpline.com/poison/alcohol/
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Vanilla?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-vanilla/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

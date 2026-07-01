@@ -90,17 +90,4 @@ The ASPCA and other veterinary sources list xylitol as highly toxic to dogs, and
 ### Are grape jellies a concern?
 Veterinary sources classify grapes and grape products as toxic to dogs, making grape-based jellies unsafe.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Jelly?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-jelly/
-
-- **PetMD** — “Can Dogs Eat Jelly?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-jelly
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

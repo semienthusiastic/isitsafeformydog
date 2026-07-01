@@ -89,17 +89,4 @@ Veterinary sources focus on concentration rather than cooking. Ginger remains no
 ### Why do veterinary sources use caution language?
 Ginger is a strong spice. Veterinary articles note that individual tolerance varies.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Ginger?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-ginger/
-
-- **PetMD** — “Can Dogs Eat Ginger?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-ginger
-
-- **VCA Hospitals** — “Herbs and Supplements for Dogs”  
-  https://vcahospitals.com/know-your-pet/herbs-and-supplements-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

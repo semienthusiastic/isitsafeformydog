@@ -83,14 +83,4 @@ Pet-nutrition references explain that chestnuts can be difficult to digest and m
 ### Are chestnuts the same as other nuts for dogs?
 Veterinary literature distinguishes chestnuts from toxic nuts like macadamias but still places them in a caution category.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chestnuts?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chestnuts/
-
-- **PetMD** — “Can Dogs Eat Chestnuts?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chestnuts
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

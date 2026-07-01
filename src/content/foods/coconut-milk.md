@@ -82,14 +82,4 @@ Pet-nutrition references explain that coconut milk is made from coconut flesh, w
 ### Is coconut milk different from coconut water for dogs?
 Veterinary articles distinguish coconut milk as much higher in fat than coconut water, leading to different digestive considerations.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Coconut Milk?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-coconut-milk/
-
-- **PetMD** — “Can Dogs Eat Coconut Milk?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-coconut-milk
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

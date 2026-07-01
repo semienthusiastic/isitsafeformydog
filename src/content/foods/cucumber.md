@@ -78,14 +78,4 @@ Pet-nutrition references explain that pickles contain salt and vinegar, which ra
 ### Does cucumber have nutritional value for dogs?
 Veterinary articles describe cucumber as low-calorie and mostly water, with limited nutritional impact.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cucumbers?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cucumbers/
-
-- **PetMD** — “Can Dogs Eat Cucumbers?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cucumbers
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

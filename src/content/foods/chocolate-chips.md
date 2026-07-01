@@ -87,17 +87,4 @@ Pet-safety references explain that chocolate chips contain concentrated cocoa so
 ### Is baked chocolate less dangerous than raw chocolate?
 Veterinary toxicology sources state that baking does not remove theobromine or caffeine.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “People Foods Pets Should Never Eat”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-pets-should-never-eat
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chocolate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/
-
-- **PetMD** — “Can Dogs Eat Chocolate?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chocolate
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

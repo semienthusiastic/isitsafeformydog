@@ -83,14 +83,4 @@ Pet-nutrition articles clearly distinguish plain pasta from pasta dishes with sa
 ### Do dogs need grains like pasta?
 Veterinary literature explains that dogs can digest grains, but pasta is not considered a necessary dietary component.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pasta?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pasta/
-
-- **PetMD** — “Can Dogs Eat Pasta?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pasta
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

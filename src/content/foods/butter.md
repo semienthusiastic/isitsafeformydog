@@ -82,17 +82,4 @@ Veterinary literature commonly associates pancreatitis with high-fat foods, incl
 ### Is unsalted butter safer than salted butter?
 Veterinary references note that unsalted butter removes excess sodium but does not reduce fat-related risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Butter?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-butter/
-
-- **PetMD** — “Can Dogs Eat Butter?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-butter
-
-- **VCA Hospitals** — “Can Dogs Eat Butter?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-butter
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

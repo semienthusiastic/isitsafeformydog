@@ -86,17 +86,4 @@ Pet-nutrition literature notes that large amounts may cause mild digestive irrit
 ### Is rosemary oil the same as the herb?
 Veterinary sources distinguish rosemary essential oil from the plant, noting that oils are more concentrated and discussed separately.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “Rosemary (Toxic and Non-Toxic Plants)”  
-  https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/rosemary
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Rosemary?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-rosemary/
-
-- **PetMD** — “Can Dogs Eat Rosemary?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-rosemary
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

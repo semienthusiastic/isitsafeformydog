@@ -82,14 +82,4 @@ Pet-nutrition references explain that eggplant belongs to the nightshade family,
 ### Is cooked eggplant different from raw eggplant?
 Veterinary articles note that cooked eggplant is generally easier to digest than raw eggplant.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Eggplant?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-eggplant/
-
-- **PetMD** — “Can Dogs Eat Eggplant?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-eggplant
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

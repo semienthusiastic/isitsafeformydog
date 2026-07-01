@@ -86,14 +86,4 @@ Pet-nutrition literature associates cabbage’s sulfur-containing compounds with
 ### Is red cabbage different from green cabbage for dogs?
 Veterinary sources generally treat red and green cabbage the same, noting similar safety and digestive considerations.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cabbage?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cabbage/
-
-- **PetMD** — “Can Dogs Eat Cabbage?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cabbage
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

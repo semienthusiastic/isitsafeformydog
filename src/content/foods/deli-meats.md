@@ -85,14 +85,4 @@ Pet-nutrition references explain that dogs are sensitive to high sodium intake, 
 ### Are deli meats different from plain cooked meat?
 Veterinary articles clearly distinguish processed deli meats from plain, unseasoned meats, with processing being the key difference.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Lunch Meat?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lunch-meat/
-
-- **PetMD** — “Can Dogs Eat Deli Meat?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-deli-meat
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -81,17 +81,4 @@ Veterinary nutrition references identify isothiocyanates as naturally occurring 
 ### Are broccoli stems different from florets?
 Veterinary articles more frequently associate stems with digestive or choking concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Broccoli?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-broccoli/
-
-- **PetMD** — “Can Dogs Eat Broccoli?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-broccoli
-
-- **VCA Hospitals** — “Can Dogs Eat Broccoli?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-broccoli
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

@@ -85,14 +85,4 @@ Pet-nutrition literature notes that large amounts of lettuce may cause loose sto
 ### Is romaine lettuce different from other lettuces?
 Veterinary sources generally treat romaine lettuce the same as other lettuce varieties in terms of safety.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Lettuce?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-lettuce/
-
-- **PetMD** — “Can Dogs Eat Lettuce?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-lettuce
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

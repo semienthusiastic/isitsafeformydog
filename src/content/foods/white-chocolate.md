@@ -92,17 +92,4 @@ Pet-care articles explain that white chocolate contains little to no theobromine
 
 Veterinary sources note that high fat and sugar content may cause **vomiting, diarrhoea, or stomach discomfort**, even without toxicity.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat White Chocolate?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-white-chocolate/
-
-- **PetMD** — “Is White Chocolate Bad for Dogs?”  
-  https://www.petmd.com/dog/nutrition/is-white-chocolate-bad-dogs
-
-- **VCA Hospitals** — “Chocolate Poisoning in Dogs”  
-  https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -90,17 +90,4 @@ Pet-nutrition sources note that lactose content varies by cheese, but individual
 ### Why do veterinary sources mention lactose so often?
 VCA Hospitals explains that lactose intolerance is common in dogs and is a frequent cause of digestive issues.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Cheese?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-cheese/
-
-- **PetMD** — “Can Dogs Eat Cheese?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-cheese
-
-- **VCA Hospitals** — “Lactose Intolerance in Dogs”  
-  https://vcahospitals.com/know-your-pet/lactose-intolerance-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

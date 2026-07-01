@@ -82,17 +82,4 @@ Pet-nutrition references explain that chickpeas are high in fiber and starch, wh
 ### Are chickpeas different from other legumes for dogs?
 Veterinary literature discusses chickpeas similarly to other legumes, with digestive tolerance being the main concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Chickpeas?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chickpeas/
-
-- **PetMD** — “Can Dogs Eat Chickpeas?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-chickpeas
-
-- **VCA Hospitals** — “Can Dogs Eat Chickpeas?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-chickpeas
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

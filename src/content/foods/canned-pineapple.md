@@ -82,17 +82,4 @@ Pet-nutrition references explain that high sugar intake can contribute to digest
 ### Is canned pineapple different from fresh pineapple?
 Veterinary articles distinguish between fresh pineapple and canned pineapple, with processing and added ingredients being the primary difference.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pineapple?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pineapple/
-
-- **PetMD** — “Can Dogs Eat Pineapple?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pineapple
-
-- **VCA Hospitals** — “Can Dogs Eat Pineapple?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-pineapple
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -93,17 +93,4 @@ Pet-nutrition articles note that tuna contains **higher mercury levels** than ma
 
 Veterinary sources explain that canned tuna often contains **added salt or oils**, increasing digestive and dietary concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Tuna?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-tuna/
-
-- **PetMD** — “Can Dogs Eat Tuna?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-tuna
-
-- **VCA Hospitals** — “Fish and Fish Products in Dogs”  
-  https://vcahospitals.com/know-your-pet/fish-and-fish-products-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

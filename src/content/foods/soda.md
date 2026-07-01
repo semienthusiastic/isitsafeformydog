@@ -94,17 +94,4 @@ Veterinary sources still discuss concerns due to sugar, carbonation, and additiv
 
 Caffeine is listed in veterinary toxicology resources as affecting the nervous system and heart, making it a recognised poisoning risk for dogs.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA** — “Caffeine”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods/caffeine
-
-- **Pet Poison Helpline** — “Caffeine”  
-  https://www.petpoisonhelpline.com/poison/caffeine/
-
-- **American Kennel Club (AKC)** — “Caffeine and Dogs”  
-  https://www.akc.org/expert-advice/health/caffeine-and-dogs/
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

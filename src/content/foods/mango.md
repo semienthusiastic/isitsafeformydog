@@ -89,17 +89,4 @@ The pit is large and hard, creating a choking or intestinal blockage risk.
 ### Is dried mango different from fresh mango?
 Veterinary sources note that dried fruit is more concentrated in sugar, which may increase digestive concerns.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Mango?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-mango/
-
-- **PetMD** — “Can Dogs Eat Mango?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-mango
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

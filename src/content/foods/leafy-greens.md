@@ -92,17 +92,4 @@ Oxalates are naturally occurring compounds that may contribute to urinary issues
 ### Are all leafy greens treated the same?
 Veterinary guidance stresses that different greens vary significantly in composition and tolerance.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Vegetables?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-vegetables/
-
-- **PetMD** — “Vegetables Dogs Can and Can’t Eat”  
-  https://www.petmd.com/dog/nutrition/vegetables-dogs-can-and-cant-eat
-
-- **VCA Hospitals** — “Vegetables and Fruits for Dogs”  
-  https://vcahospitals.com/know-your-pet/vegetables-and-fruits-for-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -93,17 +93,4 @@ Garlic naan is common, and veterinary sources classify garlic as toxic to dogs.
 ### Is plain naan different from flavoured naan?
 Veterinary guidance emphasises that ingredient lists matter. Added fats, salt, or garlic increase risk.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Bread?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-bread/
-
-- **PetMD** — “Can Dogs Eat Bread?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-bread
-
-- **VCA Hospitals** — “Foods to Avoid Feeding Your Pet”  
-  https://vcahospitals.com/know-your-pet/foods-to-avoid-feeding-your-pet
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

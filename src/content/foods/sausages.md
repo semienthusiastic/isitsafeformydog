@@ -94,17 +94,4 @@ Pet-safety literature notes that sausage meat typically contains the same season
 ### Are sausages worse than plain cooked meat?
 Veterinary sources distinguish sausages from plain meat because of processing, seasoning, and preservatives.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Sausage?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-sausage/
-
-- **PetMD** — “Can Dogs Eat Sausage?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-sausage
-
-- **ASPCA Animal Poison Control** — “People Foods to Avoid Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

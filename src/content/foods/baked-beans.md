@@ -16,10 +16,8 @@ shortAnswer: ["Caution: baked beans are not considered safe for dogs. Veterinary
 ## Are Baked Beans Safe for Dogs?
 
 Nutrition and pet-care sources indicate that **baked beans are not a suitable food for dogs**. Baked beans often include tomato sauce, sugar, salt, and seasonings such as onion or garlic, which many dog-specific resources list as unsuitable for canine consumption.  
-Source: https://www.purina.co.uk/articles/dogs/feeding/what-dogs-eat/can-dogs-eat-baked-beans
 
 PetMD notes that while many legumes are safe for dogs in plain, cooked form, baked beans are typically prepared with additional ingredients that can pose health concerns.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
 
 Because of these factors, baked beans are generally classified with **caution** and are not recommended as a treat or meal component in dogs’ diets.
 
@@ -64,7 +62,6 @@ Veterinary and nutrition sources do not classify baked beans differently for pup
 
 ### Plain Cooked Beans (e.g., black beans, kidney beans)
 When cooked without seasoning, some beans may be tolerated by dogs and can contribute protein and fibre.  
-Source: https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
 
 ### Refried or Chili Beans
 Often contain high fat, spices, salt, or onion/garlic, making them **unsuitable for dogs**.
@@ -92,15 +89,5 @@ A small accidental taste of plain, unseasoned beans is unlikely to cause severe 
 
 ### Are other beans good for dogs?
 Plain cooked beans like green beans are safe, but baked beans with sauce and seasonings should be avoided.
-
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **Purina UK** — “Can Dogs Eat Baked Beans?”  
-  https://www.purina.co.uk/articles/dogs/feeding/what-dogs-eat/can-dogs-eat-baked-beans
-
-- **PetMD** — “Can Dogs Eat Beans?” (includes reference to baked beans)  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-beans
 
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

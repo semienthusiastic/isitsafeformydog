@@ -92,17 +92,4 @@ Pet-care articles explain that acidic substances can irritate the gastrointestin
 
 Veterinary sources discuss vinegar as **more concentrated and acidic** than many foods, which influences its caution classification.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Have Vinegar?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-have-vinegar/
-
-- **PetMD** — “Is Vinegar Safe for Dogs?”  
-  https://www.petmd.com/dog/nutrition/is-vinegar-safe-dogs
-
-- **VCA Hospitals** — “Gastritis in Dogs”  
-  https://vcahospitals.com/know-your-pet/gastritis-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

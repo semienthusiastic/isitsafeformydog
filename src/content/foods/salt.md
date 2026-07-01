@@ -93,17 +93,4 @@ Veterinary literature states that toxicity depends on body weight and exposure, 
 ### Is sea salt safer than table salt?
 Veterinary sources state that all salt types pose the same sodium-related risks.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **ASPCA Animal Poison Control** — “People Foods to "Avoid" Feeding Your Pets”  
-  https://www.aspca.org/pet-care/animal-poison-control/people-foods-avoid-feeding-your-pets
-
-- **Pet Poison Helpline** — “Salt”  
-  https://www.petpoisonhelpline.com/poison/salt/
-
-- **VCA Hospitals** — “Sodium Ion Poisoning in Dogs”  
-  https://vcahospitals.com/know-your-pet/sodium-ion-poisoning-in-dogs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

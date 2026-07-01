@@ -83,14 +83,4 @@ Pet-nutrition references explain that sugar and plant compounds may irritate the
 ### Are fig plants different from fig fruit?
 Veterinary articles note that fig plants and sap are more likely to cause irritation than the fruit itself.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Figs?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-figs/
-
-- **PetMD** — “Can Dogs Eat Figs?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-figs
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

@@ -89,14 +89,4 @@ Pet-safety sources explain that cheese contributes to fat content, but garlic, o
 ### Are pizza rolls worse than plain pizza crust?
 Veterinary literature notes that pizza rolls concentrate multiple risky ingredients into a small, processed snack, increasing concern.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Pizza?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-pizza/
-
-- **PetMD** — “Can Dogs Eat Pizza?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-pizza
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.

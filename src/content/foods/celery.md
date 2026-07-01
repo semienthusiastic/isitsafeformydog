@@ -82,17 +82,4 @@ Veterinary nutrition references explain that celery contains tough fibers that s
 ### Is celery more likely to cause choking than other vegetables?
 Some veterinary articles note that celery’s stringy texture may increase choking risk compared to softer vegetables.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-safety resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Celery?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-celery/
-
-- **PetMD** — “Can Dogs Eat Celery?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-celery
-
-- **VCA Hospitals** — “Can Dogs Eat Celery?”  
-  https://vcahospitals.com/know-your-pet/can-dogs-eat-celery
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.

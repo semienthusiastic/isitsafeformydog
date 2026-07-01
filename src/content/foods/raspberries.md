@@ -85,14 +85,4 @@ Pet-nutrition literature explains that raspberries naturally contain small amoun
 ### Are raspberries safer than other berries?
 Veterinary sources treat raspberries similarly to other berries, noting individual digestive tolerance as the main factor.
 
-## Source Reference
-
-This page compiles information from publicly accessible veterinary and pet-nutrition resources, including:
-
-- **American Kennel Club (AKC)** — “Can Dogs Eat Raspberries?”  
-  https://www.akc.org/expert-advice/nutrition/can-dogs-eat-raspberries/
-
-- **PetMD** — “Can Dogs Eat Raspberries?”  
-  https://www.petmd.com/dog/nutrition/can-dogs-eat-raspberries
-
 This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review these sources directly.
