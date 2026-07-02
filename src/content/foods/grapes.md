@@ -8,7 +8,7 @@ source: ["ASPCA", "Pet Poison Helpline", "VCA Hospitals", "Merck Veterinary Manu
 sourceUrl: [
   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grape",
   "https://www.petpoisonhelpline.com/poison/grapes/",
-  "https://vcahospitals.com/know-your-pet/grape-or-raisin-poisoning-in-dogs",
+  "https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs",
   "https://www.merckvetmanual.com/toxicology/grape-and-raisin-toxicity-in-dogs"
 ]
 keywords: ["grapes", "can dogs eat grapes", "dog safety", "grapes dogs"]

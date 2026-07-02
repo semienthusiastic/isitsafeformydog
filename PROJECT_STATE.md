@@ -194,7 +194,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 
 ### 4.1 Pages rewritten with calibrated content
 
-19 priority pages completed, in approximate chronological order:
+26 priority pages completed, in approximate chronological order:
 
 1. soy-sauce
 2. cream-of-mushroom-soup
@@ -221,10 +221,13 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 23. yogurt (§6.5 data-driven prioritisation; xylitol calibration correction — mainstream sugar-free yogurts don't use xylitol despite popular framing; dairy cluster sibling to milk and evaporated-milk)
 24. curry-powder (§6.5 data-driven prioritisation; ingredient-list-led framing — allium is the real concern, not "curry powder is toxic" generic claim; sibling calibration to italian-seasoning)
 25. milk (§6.5 data-driven prioritisation; dairy cluster anchor — highest-lactose in the cluster progression; discovered/corrected the affiliate URL drift documented in §5.7)
+26. oregano (repair-rewrite of a pre-existing truncated page discovered during citation cleanup Batch 2; ASPCA "toxic" reframe — the toxic principle is a GI irritant, not systemic; herbs cluster sibling to italian-seasoning; no affiliate treatment since not on the priority page list)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-All 25 rewritten pages confirmed to carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts). The retrofit batch completed across all previously-rewritten pages; subsequent rewrites (peanut-butter, eggs, mayonnaise, yogurt, curry-powder, milk) launched with affiliate treatment from the start.
+All 26 rewritten pages carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts) with one deliberate exception: **oregano.md** (page 26) does not carry affiliate treatment because it was a repair-rewrite of a pre-existing truncated page, not a data-driven or cluster-based rewrite selected for editorial promotion. Repair-rewrites restore structural integrity to broken pages without adding monetisation infrastructure that wouldn't otherwise be justified for that page's traffic profile. This distinction is worth preserving as a general principle: not every rewrite needs affiliate treatment.
+
+The retrofit batch completed across all previously-rewritten pages; subsequent rewrites through milk launched with affiliate treatment from the start.
 
 The pizza-dough page uses a deliberate variation on the standard layout: the affiliate disclosure and panel are placed *after* the emergency-triage block rather than before, so a reader arriving in panic gets the critical "call your vet now" information before any affiliate content. This is the rule for any future Emergency-status page.
 
@@ -263,6 +266,22 @@ Three independent readings, all showing sustained healthy growth:
 | Pages not indexed | n/a | 166 | 162 |
 
 At ~3.7 real organic visitors per day, traffic is small in absolute terms but on a clean compounding trajectory.
+
+### 4.6 Citation cleanup and structural alignment (completed June 2026)
+
+A substantial infrastructure cleanup pass was completed across the site. The work was originally scoped in §6.3 as "fixing zero-source and single-source Caution pages," but a preliminary audit revealed the actual state was different: a prior pass had given every page at least 2 sources, so the cleanup problem was entirely a **link decay** problem rather than a **missing sources** problem. The work reshaped accordingly into two mechanical batches plus one repair-rewrite:
+
+**Batch 1 — ASPCA URL swap** (43 pages, committed June 30 2026). Four dead ASPCA "people foods" URL variants were mechanically replaced with the single confirmed-live URL (`.../aspca-poison-control/people-foods-avoid-feeding-your-pets`). Paired `source` names standardised to "ASPCA — People Foods to Avoid" for consistency with rewritten pages. Zero editorial risk (URL swap operation); high-leverage (one operation fixed ~38 page-instances of the same problem, plus 3 dead ASPCA sub-URLs).
+
+**Batch 2 — Legacy body citation blocks stripped** (220 pages, committed June 30 2026). Old-format pages carried citations twice — once via the template rendering from frontmatter, once as a redundant body `## Source Reference` block plus inline `Source: URL` lines. The body block was legacy from the pre-template era. Batch 2 mechanically stripped the redundant body content: `## Source Reference` heading and everything beneath it (up to but preserving the disclaimer), plus standalone inline `Source: URL` lines. This eliminated 224 dead body links across ~186 pages and structurally aligned old-format pages with the current template pattern. Rewritten pages were correctly excluded (they don't have `## Source Reference` blocks). A verification sample confirmed body citations were always a subset of frontmatter citations before the strip proceeded — no genuine body-only citations existed to preserve.
+
+**Oregano repair-rewrite** (committed separately). Discovered during Batch 2: `oregano.md` was pre-existing broken content — cut off mid-FAQ at line 74, missing the standard disclaimer. Handled as a repair-rewrite using the herbs-cluster calibration (consistent with italian-seasoning): ASPCA "toxic" label reframed as GI-irritant, not systemic hazard; three-tier hazard structure (plain oregano low-risk vs. essential oil concentrated concern vs. allium-bearing blends). Repair-rewrites don't carry affiliate treatment.
+
+**Cumulative structural improvement:** ~263 pages received structural improvement across the cleanup batches. The site's baseline integrity is now uniform: proper frontmatter citations rendered by the template, no legacy body duplication, no visible dead-link failure modes for readers of old-format pages. Rewritten pages (~26) remain the higher tier with affiliate treatment; old-format pages are now the "structurally aligned but not editorially rewritten" tier.
+
+**What remains as future work:**
+- Batch 3 — Toxic pages with real VCA/PPH replacement URLs available (chocolate cluster, xylitol, allium cluster, caffeine cluster, grapes/raisins). This is where the highest editorial priority of the remaining citation work sits. Approximately 15-20 pages requiring per-page attention rather than mechanical batching.
+- Long-tail frontmatter dead-link repairs — some old-format pages still have dead URLs in the frontmatter `sourceUrl` array (not just body). The body-strip resolved the body problem site-wide, but frontmatter dead links remain until each page is individually addressed. Lower priority than Batch 3.
 
 ---
 
@@ -321,21 +340,33 @@ The full URLs generated by SiteStripe (the ones with the long parameter strings)
 
 ## 6. Backlog and next steps
 
-### 6.1 Immediate next: complete the affiliate retrofit
+### 6.1 Completed (historical reference)
 
-See section 4.2 — ~14 pages still need the Option C affiliate treatment applied. This should be done before any new rewrites, so the affiliate infrastructure is uniform across all rewritten pages.
+- **Affiliate retrofit** (completed): all 26 rewritten pages now carry Option C affiliate treatment (25 with three-callout treatment; oregano correctly excluded as a repair-rewrite per §4.2).
+- **Peanut-butter rewrite** (completed): page 20 in §4.1; xylitol calibration centrepiece; affiliate-from-launch discipline established.
+- **Citation cleanup batches 1 and 2** (completed June 2026): 43-page ASPCA URL swap plus 220-page legacy body citation block strip. See §4.6 for the full record.
+- **Sitemap and robots.txt** (completed June 2026): sitemap generation confirmed working via `@astrojs/sitemap`; robots.txt added at `public/robots.txt` pointing to the sitemap. Sitemap advertised via standard `Sitemap:` directive; other search engines can now auto-discover it. Google was already using the sitemap via direct Search Console submission.
 
-### 6.2 Next rewrite (after retrofit completes): peanut-butter
+### 6.2 Immediate next: return to food page rewrites
 
-Selected as the next rewrite because: it has the strongest affiliate fit of any unwritten page (xylitol-free peanut butter is a meaningful safety recommendation, not opportunistic), it's high-traffic, and the calibration is genuinely important (xylitol concerns are real and dose-critical). The page should be built with affiliate links from launch, not retrofitted later.
+Current data-driven priority list (per §6.5 methodology):
 
-Candidate xylitol-free peanut butter products to consider: Crazy Richard's 100% Natural, Smucker's Natural, Teddie All Natural, Kirkland Signature Organic, Bark Bistro Buddy Budder. Verify on Amazon at time of rewrite.
+| Order | Page | Impressions (28d, Jun 2026) | Position | Notes |
+|---|---|---|---|---|
+| 1 | **lemon** | 986 | 7.72 | Page 1 |
+| 2 | **tortillas** | 903 | 12.21 | Top of page 2 |
+| 3 | **crackers** | 701 | 11.19 | Top of page 2 |
+| 4 | **tuna** | 577 | 10.54 | Bottom of page 1 |
+| 5 | **pistachios** | 535 | 35.91 | Page 4 — lower priority given ranking gap |
+
+Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
 
 ### 6.3 Parked
 
 - **Off-site SEO:** Reddit and Pinterest were identified as candidate pilot channels. Decision deferred — choose one and pilot for 8 weeks rather than spreading effort across both.
 - **AdSense application:** Not yet at threshold (~100 daily real visitors). Re-evaluate when organic traffic crosses ~50/day. Currently ~3.7/day, so 3-6 months out at current trajectory.
-- **Citation cleanup (background work):** 5 Safe pages with zero sources, 65 Caution pages with zero sources, 61 pages with one source, 111 healthy pages needing dead-link strips. Still on hold.
+- **Citation cleanup Batch 3 — Toxic pages with real VCA/PPH replacements available.** Approximately 15-20 pages requiring per-page attention rather than mechanical batching. Real VCA/PPH replacement URLs verified as available for chocolate cluster (chocolate, chocolate-chips, milk-chocolate, cocoa-powder, hot-chocolate-mix, white-chocolate), xylitol page, allium cluster on Toxic pages (onions, chives, green-onions, leeks), caffeine cluster (coffee, tea, hot-chocolate-mix, soda), and grape/raisin cluster (grapes, raisins). Highest editorial priority of remaining citation work — dead citations on YMYL Toxic pages are the worst-case credibility exposure. See §4.6 for context.
+- **Citation cleanup Batch 4 — Long-tail frontmatter dead-link repairs.** Old-format pages with dead URLs in the frontmatter `sourceUrl` array that don't have obvious VCA/PPH replacements (rhubarb, sausages, vanilla-extract, wine, salt, macadamia, pizza-roll, cherries, and others). Requires research to find replacement sources per page. Lower priority than Batch 3.
 - **Email forwarding for the contact page** ([CONTACT EMAIL] placeholder still in place). Recommended: Cloudflare Email Routing (free).
 - **Category structure cleanup:** The eggs page currently sits under categories ["Dairy", "Pantry"] — eggs are not dairy. The page itself addresses this honestly in the body ("eggs are not dairy despite often sharing the fridge shelf"), but the underlying category data is inaccurate. Likely affects other foods too. A small structural cleanup task: review existing categories, identify miscategorised foods, consider whether a new category (e.g. "Eggs & Protein") is warranted. Touches category-page navigation, so worth doing as a deliberate small pass rather than ad-hoc per page.
 

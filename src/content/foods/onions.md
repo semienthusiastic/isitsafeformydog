@@ -9,7 +9,7 @@ sourceUrl: [
   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion",
   "https://www.petpoisonhelpline.com/poison/onions/",
   "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
-  "https://vcahospitals.com/know-your-pet/onion-toxicity-in-dogs"
+  "https://vcahospitals.com/know-your-pet/onion-garlic-chive-and-leek-toxicity-in-dogs"
 ]
 keywords: ["onions", "can dogs eat onions", "dog safety", "onions dogs"]
 shortAnswer: ["No, onions are toxic to dogs and should never be eaten. Veterinary organisations explain that onions contain compounds that can damage a dog's red blood cells, which may lead to haemolytic anaemia. All forms—raw, cooked, powdered, or dehydrated—are considered unsafe."]
