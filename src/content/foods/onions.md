@@ -7,7 +7,7 @@ description: "Veterinary toxicology organisations classify onions as toxic to do
 source: ["ASPCA", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospitals"]
 sourceUrl: [
   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion",
-  "https://www.petpoisonhelpline.com/poison/onions/",
+  "https://www.petpoisonhelpline.com/poison/onion/",
   "https://www.merckvetmanual.com/toxicology/food-hazards/garlic-and-onion-allium-spp-toxicosis-in-animals",
   "https://vcahospitals.com/know-your-pet/onion-garlic-chive-and-leek-toxicity-in-dogs"
 ]

@@ -8,7 +8,7 @@ source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "Merck Veteri
 sourceUrl: [
   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/caffeine/",
-  "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-and-caffeine-toxicosis",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals",
   "https://vcahospitals.com/know-your-pet/caffeine-toxicity-in-pets"
 ]
 keywords: ["coffee", "can dogs drink coffee", "dog safety", "coffee dogs"]

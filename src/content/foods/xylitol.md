@@ -4,11 +4,11 @@ category: ["Sweeteners"]
 status: Toxic
 image: "/images/xylitol.jpg"
 description: "Veterinary toxicology organisations classify xylitol as highly toxic to dogs because it can cause a rapid drop in blood sugar and may lead to liver failure."
-source: ["ASPCA", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospitals"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "Merck Veterinary Manual", "VCA Hospitals"]
 sourceUrl: [
-  "https://www.aspca.org/news/xylitol-and-your-dog-what-you-need-know",
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
   "https://www.petpoisonhelpline.com/poison/xylitol/",
-  "https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicity-in-animals",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/xylitol-toxicosis-in-dogs",
   "https://vcahospitals.com/know-your-pet/xylitol-toxicity-in-dogs"
 ]
 keywords: ["xylitol", "can dogs eat xylitol", "dog safety", "xylitol dogs"]
