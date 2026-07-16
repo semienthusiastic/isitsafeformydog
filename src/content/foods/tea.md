@@ -4,11 +4,10 @@ category: ["Beverages"]
 status: Toxic
 image: "/images/tea.jpg"
 description: "Tea is classified as unsafe for dogs because it contains caffeine, which veterinary toxicology sources list as toxic to dogs. Both brewed tea and tea leaves present a poisoning risk."
-source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline"]
 sourceUrl: [
   "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
-  "https://www.petpoisonhelpline.com/poison/caffeine/",
-  "https://www.akc.org/expert-advice/health/caffeine-and-dogs/"
+  "https://www.petpoisonhelpline.com/poison/caffeine/"
 ]
 keywords: ["tea", "can dogs drink tea", "caffeine dogs", "tea dog safety"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations such as the ASPCA and Pet Poison Helpline list caffeine as toxic to dogs, and tea is a common source of caffeine. The AKC also warns that caffeinated drinks like tea can cause serious health effects in dogs."]

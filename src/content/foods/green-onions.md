@@ -4,8 +4,8 @@ category: ["Vegetables", "Herbs & Spices"]
 status: Toxic
 image: "/images/green-onions.jpg"
 description: "Veterinary toxicology sources classify green onions as toxic to dogs, as they are a form of onion and contain compounds that damage red blood cells."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "https://www.petpoisonhelpline.com/poison/onion/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-green-onions/"]
+source: ["ASPCA", "Pet Poison Helpline"]
+sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "https://www.petpoisonhelpline.com/poison/onion/"]
 keywords: ["green onions", "can dogs eat green onions", "scallions dogs", "green onions dog safety"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary toxicology organisations state that green onions are poisonous to dogs because they are a type of onion and contain compounds that damage red blood cells. The ASPCA, Pet Poison Helpline, and the AKC all list green onions as unsafe for dogs."]
 ---

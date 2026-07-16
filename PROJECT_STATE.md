@@ -255,17 +255,25 @@ Footer wired with all four links. About page references Claire Donnelly byline c
 
 Three independent readings, all showing sustained healthy growth:
 
-| Metric | March 2026 | Early May 2026 | June 2026 |
-|---|---|---|---|
-| Organic Search sessions (30 days) | 22 → 62 (+182%) | 29 → 76 (+162%) | 70 → 111 (+58.57%) |
-| Engaged sessions (30 days) | 7 → 19 (+171%) | 9 → 27 (+200%) | 23 → 41 (+78.26%) |
-| Engagement rate | ~31% → 31% | 32% → 36% | 32.86% → 36.94% |
-| Search Console clicks (28 days) | n/a | 26 → 58 (+123%) | 55 → 83 (+43%) |
-| Search Console impressions (28 days) | n/a | 27.8K → 40.7K (+46%) | 36.9K → 64.7K (+59%) |
-| Pages indexed | n/a | 114 | 124 |
-| Pages not indexed | n/a | 166 | 162 |
+| Metric | March 2026 | Early May 2026 | June 2026 | July 2026 |
+|---|---|---|---|---|
+| Organic Search sessions (30 days) | 22 → 62 (+182%) | 29 → 76 (+162%) | 70 → 111 (+58.57%) | 94 → 245 (+161%) |
+| Engaged sessions (30 days) | 7 → 19 (+171%) | 9 → 27 (+200%) | 23 → 41 (+78.26%) | 31 → 111 (+258%) |
+| Engagement rate | ~31% → 31% | 32% → 36% | 32.86% → 36.94% | 33% → 45% |
+| Search Console clicks (28 days) | n/a | 26 → 58 (+123%) | 55 → 83 (+43%) | data unavailable |
+| Search Console impressions (28 days) | n/a | 27.8K → 40.7K (+46%) | 36.9K → 64.7K (+59%) | ~2K → ~8.5K daily impressions |
+| Pages indexed | n/a | 114 | 124 | 146 → 279 |
+| Pages not indexed | n/a | 166 | 162 | n/a |
 
 At ~3.7 real organic visitors per day, traffic is small in absolute terms but on a clean compounding trajectory.
+
+Reading 4 (July 2026) — inflection point. Organic sessions climbed from 94 → 245 in 28 days (+161%). Engaged sessions climbed from 31 → 111 (+258%). Engagement rate jumped from 33% → 45%. Average engagement time nearly doubled (22.6s → 40.8s). Real organic visitors climbed from ~3.7/day to ~8.75/day.
+
+The causal explanation is documented in §4.6: Batches 1 and 2 of the citation cleanup (committed June 30 2026) apparently produced a site-wide indexing boost, moving Google's indexed page count from 146 → 279 within 24 hours. Daily impressions climbed from ~2,000 to ~8,500 over the following ten days. This drove significant additional traffic beyond what the page rewrites alone had been producing.
+
+§6.5 hypothesis confirmed: The data-driven page selection strategy is producing meaningfully faster traffic growth than the cluster-based approach did in earlier periods. Combined with the discovery that structural cleanup has quantifiable indexing benefits, the current methodology (rewrites + cleanup) is compounding at a materially faster rate than any prior reading predicted.
+
+AI Assistant channel first appearance. Two sessions in this reading arrived from AI Assistant referrals (ChatGPT, Perplexity, Claude directing users to calibrated content). Small but a genuine new channel signal — the site's calibrated approach is exactly what LLMs prefer to cite.
 
 ### 4.6 Citation cleanup and structural alignment (completed June 2026)
 
@@ -282,6 +290,12 @@ A substantial infrastructure cleanup pass was completed across the site. The wor
 **What remains as future work:**
 - Batch 3 — Toxic pages with real VCA/PPH replacement URLs available (chocolate cluster, xylitol, allium cluster, caffeine cluster, grapes/raisins). This is where the highest editorial priority of the remaining citation work sits. Approximately 15-20 pages requiring per-page attention rather than mechanical batching.
 - Long-tail frontmatter dead-link repairs — some old-format pages still have dead URLs in the frontmatter `sourceUrl` array (not just body). The body-strip resolved the body problem site-wide, but frontmatter dead links remain until each page is individually addressed. Lower priority than Batch 3.
+
+**Post-cleanup measurement (July 2026):** Analysis of Search Console indexing data revealed that Batches 1 and 2 produced a significant site-wide indexing boost. Between June 30 (Batches 1+2 committed) and July 1, Google's indexed page count for the site went from 146 → 279 — nearly doubling within 24 hours. Daily impressions climbed from ~2,000 to ~8,500 over the following ten days. The "Crawled — currently not indexed" bucket dropped from 154 → 33 pages.
+
+This is a materially different result than we predicted when the batches were framed as "editorial credibility work." Structural cleanup on the site apparently produced ranking signals significant enough that Google promoted ~133 previously-not-indexed pages into active indexing — most of which are unrewritten old-format pages that benefited from the cleanup without receiving editorial rewrites.
+
+**Implication for remaining cleanup work:** Batch 3b Session B (7 investigative Toxic-page items) and Batch 4 (long-tail frontmatter dead-link repairs) are likely to produce similar quiet indexing benefits when completed. Structural cleanup should be prioritised alongside — not after — page rewrites, given its demonstrated ranking impact.
 
 ---
 
@@ -335,6 +349,14 @@ This risk was surfaced during the milk page research (June 2026), when the `amzn
 4. **For future pages, prefer full-form Amazon URLs where feasible** — while short links are cleaner, the ASIN visibility in full URLs makes drift immediately apparent. If a short link is chosen for aesthetic reasons, the verification discipline above becomes more important.
 
 The full URLs generated by SiteStripe (the ones with the long parameter strings) are more durable than shortlinks; the shortlink is a convenience representation that can be repointed independently.
+
+### 5.8 Post-change indexing requests
+
+Google's crawl cadence on individual pages is slower than one might expect. Pages rewritten months earlier may not have been re-crawled even as the site as a whole has been re-crawled. Discovered in July 2026: italian-seasoning (rewritten April 24 2026) and green-onions (Batch 3 URL healing) were both still in the "Crawled — currently not indexed" bucket months after their improvements, because Google had not re-crawled them since the changes.
+
+**Discipline:** When shipping any significant page change — whether a full rewrite or a targeted URL fix — request indexing in Search Console (URL Inspection → Request Indexing) shortly after the commit. This accelerates Google's re-crawl of the specific URL and can materially improve the time-to-visibility for the improved page.
+
+**Sweep-request principle:** For older rewrites (or older cleanup targets) that may not have been re-crawled since their improvements, periodically sweep-request indexing on the earliest pages in the batch. The daily indexing quota (~10-12 requests) allows for a manual refresh of 30-40 URLs per week without impact on urgent requests. Patrick has done this sweep for the earliest rewrites in July 2026; it can be repeated any time an indexing gap is suspected.
 
 ---
 

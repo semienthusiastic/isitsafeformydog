@@ -4,10 +4,8 @@ category: ["Sweets"]
 status: Caution
 image: "/images/white-chocolate.jpg"
 description: "White chocolate is not considered toxic to dogs because it contains little to no theobromine, but veterinary sources note concerns related to high fat and sugar content."
-source: ["AKC", "PetMD", "VCA Hospitals"]
+source: ["VCA Hospitals"]
 sourceUrl: [
-  "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-white-chocolate/",
-  "https://www.petmd.com/dog/nutrition/is-white-chocolate-bad-dogs",
   "https://vcahospitals.com/know-your-pet/chocolate-poisoning-in-dogs"
 ]
 keywords: ["white chocolate", "can dogs eat white chocolate", "white chocolate dog safety", "chocolate dogs"]

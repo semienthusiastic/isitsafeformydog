@@ -4,12 +4,12 @@ category: ["Fruits"]
 status: Toxic
 image: "/images/grapes.jpg"
 description: "Veterinary toxicology organisations classify grapes and raisins as toxic to dogs because they have been linked to sudden kidney failure, although the exact toxic compound is still unknown."
-source: ["ASPCA", "Pet Poison Helpline", "VCA Hospitals", "Merck Veterinary Manual"]
+source: ["ASPCA", "Pet Poison Helpline", "VCA Hospitals", "Merck Veterinary Manual — Grape, Raisin, and Tamarind Toxicosis"]
 sourceUrl: [
   "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/grape",
   "https://www.petpoisonhelpline.com/poison/grapes/",
   "https://vcahospitals.com/know-your-pet/grape-raisin-and-currant-poisoning-in-dogs",
-  "https://www.merckvetmanual.com/toxicology/grape-and-raisin-toxicity-in-dogs"
+  "https://www.merckvetmanual.com/toxicology/food-hazards/grape-raisin-and-tamarind-vitis-spp-tamarindus-spp-toxicosis-in-dogs"
 ]
 keywords: ["grapes", "can dogs eat grapes", "dog safety", "grapes dogs"]
 shortAnswer: ["No, grapes are toxic to dogs and should never be eaten. Veterinary organisations including the ASPCA and Pet Poison Helpline report that grapes and raisins can cause sudden kidney failure in dogs. The exact cause of the toxicity is still unknown, but even small amounts may be dangerous."]

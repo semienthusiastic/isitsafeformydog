@@ -4,8 +4,8 @@ category: ["Herbs & Spices", "Pantry"]
 status: Toxic
 image: "/images/chives.jpg"
 description: "Veterinary toxicology sources classify chives as toxic to dogs because they belong to the Allium family and contain compounds that can damage red blood cells."
-source: ["ASPCA", "AKC", "PetMD"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chives", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chives/", "https://www.petmd.com/dog/nutrition/can-dogs-eat-chives"]
+source: ["ASPCA", "PetMD"]
+sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/chives", "https://www.petmd.com/dog/poisoning/can-dogs-eat-chives-chive-poisoning-in-dogs"]
 keywords: ["chives", "can dogs eat chives", "dog safety", "chives dogs"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations such as the ASPCA and AKC state that chives are part of the Allium family and contain compounds that can damage red blood cells in dogs. PetMD also classifies chives as unsafe for dogs."]
 ---

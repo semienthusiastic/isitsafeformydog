@@ -4,8 +4,8 @@ category: ["Vegetables"]
 status: Toxic
 image: "/images/leeks.jpg"
 description: "Veterinary toxicology sources classify leeks as toxic to dogs because they belong to the Allium family and contain compounds that damage red blood cells."
-source: ["ASPCA", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "https://www.petpoisonhelpline.com/poison/onion/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-leeks/"]
+source: ["ASPCA", "Pet Poison Helpline"]
+sourceUrl: ["https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/onion", "https://www.petpoisonhelpline.com/poison/onion/"]
 keywords: ["leeks", "can dogs eat leeks", "dogs leeks", "leeks dog safety"]
 shortAnswer: ["No, the food is toxic to dogs. Veterinary toxicology organisations state that leeks are poisonous to dogs because they are part of the onion family and contain compounds that damage red blood cells. The ASPCA, Pet Poison Helpline, and the AKC all classify leeks as unsafe."]
 ---
