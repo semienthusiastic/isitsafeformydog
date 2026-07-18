@@ -1,6 +1,6 @@
 # Project State — Is It Safe For My Dog
 
-**Last updated:** June 2026
+**Last updated:** July 2026
 **Purpose:** Single-source onboarding document for any collaborator (human or AI) resuming work on this project. Read this before doing anything else.
 
 ---
@@ -297,6 +297,14 @@ This is a materially different result than we predicted when the batches were fr
 
 **Implication for remaining cleanup work:** Batch 3b Session B (7 investigative Toxic-page items) and Batch 4 (long-tail frontmatter dead-link repairs) are likely to produce similar quiet indexing benefits when completed. Structural cleanup should be prioritised alongside — not after — page rewrites, given its demonstrated ranking impact.
 
+**Batch 3b Session B (completed July 2026).** The seven investigative items were resolved: 2 healed with genuine live replacements (grapes → Merck's current grape/raisin/tamarind toxicosis page; chives → PetMD's moved poisoning-section page), 7 removed where no live same-food page existed on the flagged source (tea and soda's AKC caffeine citation; chives, green-onions, and leeks' AKC allium citations; white-chocolate's AKC and PetMD citations).
+
+**The remove-vs-substitute discipline established:** when a dead URL's source site has no live page specifically covering the food in question, remove the citation rather than substitute a same-source page covering a broader or adjacent topic (e.g., don't cite AKC's general onion page as a replacement for a dead AKC chives-specific URL, even though the onion page does mention chives). This keeps every citation precisely matched to what it's cited for. The cost is that some pages lose sources they can't immediately replace.
+
+**New finding:** six pages dropped below the site's 4-5 source guideline as a result of this discipline — white-chocolate (1 source, VCA only), plus tea, soda, chives, green-onions, and leeks (2 sources each). These are not currently in the site's priority rewrite list but are flagged as genuine candidates: each would benefit from a full rewrite that adds proper source coverage, consistent with how the allium cluster (onions, garlic, marinara, hummus, guacamole, pesto, worcestershire-sauce) and chocolate cluster were handled. See §6.2 for the updated priority list.
+
+**Known body/frontmatter inconsistency on these six pages:** removing the dead sources left body prose that still names the removed source (e.g., green-onions' shortAnswer says "the ASPCA, Pet Poison Helpline, and the AKC all list..." despite AKC no longer being cited). This is out of scope for citation-cleanup batches (no body edits) and will resolve naturally when these pages get full rewrites.
+
 ---
 
 ## 5. Methodology
@@ -358,6 +366,12 @@ Google's crawl cadence on individual pages is slower than one might expect. Page
 
 **Sweep-request principle:** For older rewrites (or older cleanup targets) that may not have been re-crawled since their improvements, periodically sweep-request indexing on the earliest pages in the batch. The daily indexing quota (~10-12 requests) allows for a manual refresh of 30-40 URLs per week without impact on urgent requests. Patrick has done this sweep for the earliest rewrites in July 2026; it can be repeated any time an indexing gap is suspected.
 
+### 5.9 Citation cleanup: remove vs. substitute discipline
+
+When a citation cleanup task finds a dead URL and no live page on the same source specifically covers the food in question, remove the citation rather than substitute an adjacent or broader-topic page from the same source. For example, a dead AKC "can dogs eat chives" URL should not be replaced with AKC's general "can dogs eat onions" page, even though onions pages typically mention chives — the citation would no longer precisely support what it's cited for.
+
+This discipline can drop a page below the standing 4-5 source guideline (§2.1). When that happens, flag the page as a rewrite candidate rather than force a substitute source into place. Undersourcing is more honest than false precision, and pages that fall below the guideline through this discipline are exactly the pages that benefit most from a proper rewrite.
+
 ---
 
 ## 6. Backlog and next steps
@@ -382,6 +396,10 @@ Current data-driven priority list (per §6.5 methodology):
 | 5 | **pistachios** | 535 | 35.91 | Page 4 — lower priority given ranking gap |
 
 Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
+
+**Rewrite candidates from citation cleanup (§4.6).** Six pages dropped below the 4-5 source guideline during Batch 3b Session B's remove-vs-substitute cleanup (§5.9): white-chocolate (1 source), tea, soda, chives, green-onions, leeks (2 sources each). These aren't currently driven by Search Console demand data the way the main priority list is, but they're genuine editorial gaps — particularly white-chocolate, which is down to a single source on a Caution-status page.
+
+**Suggested sequencing:** chives, green-onions, and leeks would complete the allium cluster properly (joining onions, garlic, marinara, hummus, guacamole, pesto, worcestershire-sauce) and could be done as one small coordinated batch. White-chocolate, tea, and soda could follow as a second small batch, extending the chocolate and caffeine cluster work from Batch 3. Neither batch is scheduled ahead of the main data-driven priority list; both are queued as the natural "next small project" after the current list is worked through.
 
 ### 6.3 Parked
 
