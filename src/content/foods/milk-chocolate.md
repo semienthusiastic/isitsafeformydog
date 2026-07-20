@@ -1,99 +1,66 @@
 ---
 name: "Milk Chocolate"
+metaTitle: "Can Dogs Eat Milk Chocolate? The Lowest-Theobromine Chocolate — But Still Toxic | Is It Safe For My Dog"
 category: ["Sweets"]
 status: Toxic
 image: "/images/milk-chocolate.jpg"
-description: "Veterinary toxicology sources classify milk chocolate as toxic to dogs because it contains theobromine and caffeine, compounds that dogs cannot safely metabolise."
-source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline", "AKC"]
-sourceUrl: ["https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets", "https://www.petpoisonhelpline.com/poison/chocolate/", "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/"]
-keywords: ["milk chocolate", "can dogs eat milk chocolate", "dogs chocolate", "milk chocolate dog safety"]
-shortAnswer: ["No, the food is toxic to dogs. Veterinary organisations state that milk chocolate contains theobromine and caffeine, which dogs cannot process safely and which can cause serious poisoning. The ASPCA, Pet Poison Helpline, and the AKC all classify chocolate as dangerous for dogs."]
+description: "Milk chocolate is toxic to dogs — it has the least theobromine of the real chocolates (~64 mg/oz, versus ~150–160 in dark), but it's still a genuine hazard, and it's the type dogs most often eat in whole-bar quantities. See the chocolate hub for the full dose math."
+source: ["ASPCA — People Foods to Avoid", "Pet Poison Helpline — Chocolate", "AKC — Chocolate", "Merck Veterinary Manual — Chocolate Toxicosis"]
+sourceUrl: [
+  "https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+  "https://www.petpoisonhelpline.com/poison/chocolate/",
+  "https://www.akc.org/expert-advice/nutrition/can-dogs-eat-chocolate/",
+  "https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+]
+keywords: ["can dogs eat milk chocolate", "is milk chocolate toxic to dogs", "dog ate milk chocolate", "milk chocolate theobromine dogs", "dog ate a chocolate bar"]
+shortAnswer: ["Yes, milk chocolate is toxic to dogs — it just sits at the lower end of the chocolate scale. It contains about 64 mg of theobromine per ounce (Merck), the least of the true chocolates, versus ~150–160 mg/oz in dark and ~807 in cocoa powder. But 'least toxic chocolate' is not 'safe': a 10 kg (22 lb) dog can reach mild-toxicity signs from roughly 3 oz of milk chocolate, and because milk chocolate is the kind people leave around in bars and boxes, dogs often eat it in exactly those quantities. Signs (vomiting, restlessness, a racing heart) come on within hours, not days. Any real amount is a same-day call to your vet — see the chocolate page for the full dose-by-weight table."]
 ---
 
 ## Is Milk Chocolate Safe for Dogs?
 
-Veterinary toxicology authorities consistently classify **milk chocolate as toxic to dogs**. Chocolate is one of the most well-documented food toxins in dogs.
+No. Milk chocolate is toxic to dogs — it's simply the mildest of the *real* chocolates. The toxin is **theobromine** (with some caffeine), a methylxanthine that dogs clear far too slowly. The full mechanism and the dose-by-weight tables live on the [chocolate](/chocolate/) hub; this page is about where milk chocolate sits, and why "mildest" doesn't mean safe.
 
-According to the ASPCA and Pet Poison Helpline, chocolate contains **methylxanthines**, primarily theobromine and caffeine. Dogs metabolise these substances very slowly, allowing them to build up to dangerous levels. The AKC confirms that all types of chocolate pose a risk, including milk chocolate.
+## Where Milk Chocolate Sits on the Theobromine Scale
 
-Across veterinary references, milk chocolate is not considered safe in any amount.
+Milk chocolate carries about **2.3 mg/g (~64 mg/oz) of theobromine** (Merck) — the lowest of the true chocolates. For comparison: [dark chocolate](/chocolate/) is ~150–160 mg/oz, and [cocoa powder](/cocoa-powder/) ~807 mg/oz. Only [white chocolate](/white-chocolate/) is lower (negligible).
 
-## Why Milk Chocolate Is Dangerous for Dogs
+As a rough guide, a **10 kg (22 lb) dog reaches mild-toxicity signs at ~200 mg of theobromine — roughly 3 oz of milk chocolate** (much less for a small dog). The catch is quantity: milk chocolate is the form people keep as bars, boxes, and Easter eggs, so dogs tend to eat it in multi-ounce amounts — a large bar alone can be 3–4 oz. "Lowest tier" and "eaten in the biggest servings" cancel out into a genuine hazard. See the [chocolate](/chocolate/) hub for the full weight-by-weight table.
 
-### Theobromine
-Veterinary sources identify theobromine as the primary toxic compound in chocolate. It affects the nervous system, heart, and muscles in dogs.
+## Where Dogs Encounter Milk Chocolate
 
-### Caffeine
-Chocolate also contains caffeine, another stimulant that compounds the toxic effects of theobromine.
+- Bars and boxed chocolates left on tables or in bags
+- Easter eggs, advent calendars, holiday candy
+- Chocolate-coated sweets and baked goods
 
-### Dose-related risk
-Veterinary toxicology sources explain that toxicity depends on the amount consumed relative to body weight, but **no amount is considered safe**.
+## Symptoms & What To Do
 
-## Signs Reported in Milk Chocolate Toxicity
+Signs begin **within 1–4 hours** (not delayed for days like [onion/garlic](/onions/) poisoning): vomiting, diarrhoea, restlessness, a racing heart; and at higher doses tremors, seizures, and heart-rhythm changes.
 
-Veterinary organisations report the following signs of chocolate poisoning:
+**Call your vet or a poison line** with your dog's **weight** and the **amount** eaten — don't wait for symptoms. The [chocolate](/chocolate/) hub has the full dose math and action detail.
 
-- Vomiting  
-- Diarrhoea  
-- Restlessness or hyperactivity  
-- Rapid heart rate  
+## Frequently Asked Questions
 
-### More serious signs
-- Tremors  
-- Seizures  
-- Abnormal heart rhythms  
-- Collapse  
+> This FAQ summarises general veterinary toxicology guidance. It's informational only and not a substitute for advice from your own vet.
 
-Symptoms may begin within hours and can worsen as toxins are absorbed.
+### Is milk chocolate safer than dark chocolate?
 
-## Ingredients or Additives of Particular Concern
+It has less theobromine per ounce — roughly 64 mg versus 150–160 in dark — so gram for gram it's milder. But it's still toxic, and because it's eaten in bigger quantities (whole bars), the real-world exposure is often just as serious. "Less concentrated" isn't "safe."
 
-Milk chocolate products may contain additional ingredients that increase risk:
+### My dog ate a milk chocolate bar — should I worry?
 
-- ❌ **Theobromine** (inherent to chocolate)  
-- ❌ **Caffeine** (inherent to chocolate)  
-- ⚠️ **High sugar and fat**, which may worsen digestive upset  
+Yes, note the bar's weight and your dog's size and call your vet or a poison line. A standard bar for a small dog can be a real dose. Signs come on within hours.
 
-The presence of milk does not make chocolate safe.
+### Does the milk in milk chocolate make it safer?
 
-## Puppies vs. Adult Dogs
+No. The milk just dilutes the cocoa slightly compared to dark chocolate; it doesn't neutralise the theobromine.
 
-Veterinary toxicology sources state that **chocolate toxicity affects dogs of all ages**. Puppies may be more vulnerable due to smaller body size, but adult dogs are also at risk.
+## About This Guide
 
-## Comparison With Other Types of Chocolate
+This guide was researched and written by **Claire Donnelly** for *Is It Safe For My Dog?*. We are not veterinarians. Each guide is compiled from published, publicly accessible veterinary and toxicology sources — for this page, the ASPCA, the Pet Poison Helpline, the American Kennel Club, and the Merck Veterinary Manual — and cross-checked before publication. For the full theobromine dose math, see the [chocolate](/chocolate/) reference page. This is general information; it does not replace a consultation with your vet.
 
-### Dark chocolate
-Contains higher levels of theobromine and is considered even more dangerous.
+### Sources for the figures on this page
 
-### Baking chocolate
-Veterinary sources identify this as extremely concentrated and highly toxic.
+- **Merck Veterinary Manual** — *Chocolate Toxicosis in Animals* (milk chocolate ~2.3 mg/g / ~64 mg/oz theobromine; mild-signs threshold ~20 mg/kg; methylxanthine mechanism and within-hours onset)
+- **VCA / ASPCA / Pet Poison Helpline / AKC** — chocolate classified toxic to dogs; theobromine and caffeine as the toxic methylxanthines; clinical signs and "no safe amount" framing (ASPCA — People Foods to Avoid; Pet Poison Helpline — Chocolate; AKC — Chocolate)
 
-### White chocolate
-Contains minimal theobromine but is still discussed cautiously due to fat and sugar.
-
-## Chocolate Products Listed as Toxic
-
-Veterinary and pet-safety organisations consistently classify the following as toxic:
-
-- Milk chocolate  
-- Dark chocolate  
-- Baking chocolate  
-- Cocoa powder  
-
-All are unsafe for dogs.
-
-## Frequently Asked Questions (FAQ)
-
-> *This FAQ summarises themes appearing in veterinary toxicology and pet-safety resources.  
-> It is informational only and not a substitute for professional veterinary care.*
-
-### Is milk chocolate less dangerous than dark chocolate?
-Veterinary sources note that milk chocolate contains less theobromine than dark chocolate, but it is still toxic and unsafe.
-
-### Can small amounts be harmless?
-Veterinary organisations state that no amount of chocolate is considered safe for dogs.
-
-### Why are dogs affected differently from humans?
-Dogs metabolise theobromine much more slowly, allowing toxic levels to accumulate.
-
-This page is **informational only** and does **not** constitute veterinary or medical advice. Readers are encouraged to review the cited sources directly.
+This page is **informational only** and does **not** constitute veterinary or medical advice.
