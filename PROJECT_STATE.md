@@ -196,7 +196,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 
 ### 4.1 Pages rewritten with calibrated content
 
-33 priority pages completed, in approximate chronological order:
+36 priority pages completed, in approximate chronological order:
 
 1. soy-sauce
 2. cream-of-mushroom-soup
@@ -231,6 +231,9 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 31. chives (satellite; restored from 2 sources to 5 after citation-cleanup removal; calibration: raw garnish quantities are low per-incident dose, but chive-flavoured products — chive cream cheese, sour-cream-and-chive dips — are the realistic higher-exposure route; no affiliate treatment)
 32. green-onions (satellite; restored from 2 sources to 4; calibration: milder allium concentration per gram than mature onions, but eaten raw in larger garnish quantities — realistic exposure can exceed the "milder" framing; no affiliate treatment)
 33. leeks (satellite; restored from 2 sources to 4; calibration: "lower incidence, not lower toxicity" — poisoning is rarer because leeks are usually cooked into dishes rather than shared as snacks, not because they're less toxic gram-for-gram; sources include ASPCA's general people-foods page rather than an adjacent-topic proxy, per §5.9 discipline; no affiliate treatment)
+34. white-chocolate (§6.2 undersourcing fix; restored from 1 source to 4; calibration anchored on Merck's theobromine-by-chocolate-type table — white chocolate at 0.04 mg/g is "a negligible source of methylxanthines" versus milk's 2.3 mg/g and dark's 5.3-5.6 mg/g; status Caution unchanged, but the real concern reframed from theobromine to fat/sugar/additives — macadamia, raisins, xylitol in some products; Category 3 affiliate)
+35. tea (§6.2 undersourcing fix; restored from 2 sources to 4; status recalibrated Toxic → Caution — see §5.10 for the site's status-recalibration transparency discipline; caffeine content varies by type, herbal teas are usually caffeine-free entirely; distinct higher-risk treatment for dry tea bags/leaves eaten whole, concentrated and undiluted; Category 3 affiliate)
+36. soda (§6.2 undersourcing fix; restored from 2 sources to 4; status recalibrated Toxic → Caution, same rationale family as tea — caffeine varies enormously by product, many sodas (root beer, citrus) are caffeine-free entirely; sugar reframed as the more realistic everyday concern than caffeine; diet-soda xylitol check with named current products (Diet Coke, Coke Zero, Diet Pepsi, Pepsi Zero — verified aspartame/ace-K/sucralose, not xylitol, as of July 2026); Category 3 affiliate)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
@@ -381,6 +384,16 @@ When a citation cleanup task finds a dead URL and no live page on the same sourc
 
 This discipline can drop a page below the standing 4-5 source guideline (§2.1). When that happens, flag the page as a rewrite candidate rather than force a substitute source into place. Undersourcing is more honest than false precision, and pages that fall below the guideline through this discipline are exactly the pages that benefit most from a proper rewrite.
 
+### 5.10 Status recalibration transparency
+
+When a rewrite changes a page's existing Toxic/Caution/Safe/Emergency status — not just its framing or sourcing, but the actual status field — the change must be stated explicitly and near the top of the page, not buried or left implicit. The reader should never have to infer that a recalibration happened; the page should say so directly and explain why.
+
+This discipline has applied at two scales:
+- **Single-page recalibrations** (Toxic → Caution): italian-seasoning, pesto — corrected because the original status assumed allium content that pure herb/pesto formulations don't actually have.
+- **Coordinated multi-page recalibrations**: the chocolate/caffeine batch (July 2026) recalibrated both tea and soda from Toxic to Caution simultaneously, the first time the site has changed a status downward across multiple pages in one coordinated decision. The rationale in both cases: caffeine content varies enormously within the category (by tea type, by soda product), and a meaningful share of each category is genuinely caffeine-free (herbal teas; root beer and citrus sodas) — so a blanket Toxic label misrepresented the category. The safety margin is preserved in the action guidance, not the badge: a dog that ate concentrated tea leaves or a large amount of caffeinated soda still gets urgent guidance regardless of the page-level status.
+
+**Recalibrations run in both directions on this site** — sometimes upward in caution (rare — most corrections found the popular framing already too alarmist) and sometimes downward, as with tea/soda. Downward recalibrations require the same rigor as upward ones: they must be source-anchored, transparent about the change, and must not weaken the actual safety guidance for the genuinely risky scenario within that category (e.g., tea bags eaten dry, concentrated caffeinated soda in a small dog).
+
 ---
 
 ## 6. Backlog and next steps
@@ -406,9 +419,7 @@ Current data-driven priority list (per §6.5 methodology):
 
 Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
 
-**Rewrite candidates from citation cleanup (§4.6) — 3 of 6 resolved.** Six pages dropped below the 4-5 source guideline during Batch 3b Session B's remove-vs-substitute cleanup (§5.9). Three are now resolved via the allium batch (§4.1, entries 31-33): chives (restored to 5 sources), green-onions (4 sources), leeks (4 sources) — all as full calibrated rewrites, not just citation restorations.
-
-Three remain outstanding: **white-chocolate** (1 source, VCA only — the most urgent of the three), **tea** and **soda** (2 sources each). Suggested next step: a coordinated chocolate/caffeine batch, following the same efficient-batch logic as the allium work — the chocolate and caffeine toxicology is already deeply established on the site (chocolate cluster, xylitol, the existing VCA caffeine-toxicity-in-pets citation), so the research cost for this batch should be low relative to the editorial gain.
+**Rewrite candidates from citation cleanup (§4.6) — 6 of 6 resolved.** All six pages that dropped below the source guideline during Batch 3b Session B's remove-vs-substitute cleanup (§5.9) have now been fully restored via two coordinated batches: the allium batch (chives, green-onions, leeks — §4.1 entries 31-33) and the chocolate/caffeine batch (white-chocolate, tea, soda — §4.1 entries 34-36). This closes the citation-cleanup-to-rewrite pipeline that began with the June 2026 Batch 1/2/3 work. Both batches demonstrated the same efficient-batch principle: when a toxin's mechanism is already well-established elsewhere on the site, restoring a handful of related undersourced pages is low-cost relative to the editorial gain, because the research burden is mostly verification rather than fresh discovery.
 
 ### 6.3 Parked
 
