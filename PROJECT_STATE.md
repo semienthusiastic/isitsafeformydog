@@ -432,6 +432,31 @@ As of the eggs rewrite (page 21), page selection has shifted from cluster-based 
 
 This is a hypothesis worth measuring deliberately rather than assuming. The current cluster-based pages (the allium cluster, tomato cluster, etc.) have produced real and verifiable traffic growth across three analytics readings — that approach was working. The data-driven approach should outperform it, but we shouldn't assume it does until the evidence is in.
 
+### 6.6 AI agent / LLM accessibility (queued, low priority)
+
+As AI-mediated search grows (the "AI Assistant" channel appeared in GA4 for the first time in the July 2026 reading — 2 sessions, see §4.5), it's worth making the site genuinely accessible and citable to AI systems (ChatGPT, Perplexity, Claude, Google AI Overviews, and similar). Researched July 2026; the landscape is evolving fast and vendor claims in this space are frequently overstated, so recommendations below are calibrated against the most credible available evidence rather than SEO-tool marketing content.
+
+**What's credible:**
+
+- **Robots.txt AI-crawler allowlist.** Explicitly allowing GPTBot, ClaudeBot, PerplexityBot, Google-Extended, and similar crawlers is low-effort and directly serves the site's goal of being cited. Blocking these (even by omission/default in some configurations) actively works against visibility. No real downside for a site with no paywalled or proprietary content.
+- **Bing Webmaster Tools submission.** ChatGPT's search backend partially relies on Bing, not just its own crawl. The site has only ever been submitted to Google Search Console — Bing indexation is a genuine, previously-overlooked gap.
+- **FAQPage + Article JSON-LD structured data.** Mixed evidence on whether this directly drives AI citations (an independent Ahrefs analysis of ~1,900 pages found no measurable citation lift, contradicting many vendor claims), but it's good general hygiene — helps traditional rich results, Bing/DuckDuckGo parsing, and knowledge-graph tools. Nearly free to implement here because every rewritten page already has a clean FAQ section with distinct Q&A pairs; this is templating existing content, not new work. Should be done as a dedicated site-wide template change (touches the shared Astro page template across ~275 pages) — needs its own sample-then-execute session per the discipline established for the Batch 2 body-strip work, not a quick add-on.
+
+**What's overhyped — deprioritise:**
+
+- **llms.txt.** A proposed community convention (Jeremy Howard, 2024), not an official standard. As of early 2026, no major AI provider (OpenAI, Google, Anthropic, Meta) had confirmed reading or acting on it in production; Google's John Mueller confirmed no Google Search system uses it; independent analysis found near-zero crawler visits to llms.txt files in practice. Real use case is developer-tooling (coding assistants), not consumer content citation. Cheap to create if desired, but should not be expected to move traffic.
+
+**Deliberate exclusion — consistent with site philosophy:** Do not use medical/veterinary-specific Schema.org types (MedicalWebPage, MedicalCondition, etc.) even though they exist in the vocabulary. Every page carries "we are not veterinarians" / "informational only" disclaimers; claiming a medical schema type would overstate what the site is to any system reading that markup. Use generic Article and FAQPage types only.
+
+**Sequencing** (not urgent, queued behind current rewrite/cleanup priorities):
+
+1. Robots.txt AI-crawler allowlist — mechanical, do first
+2. Bing Webmaster Tools + sitemap submission — Patrick-side manual task, 20 minutes
+3. FAQPage + Article JSON-LD templating — dedicated future session, sample-then-execute
+4. llms.txt — optional, low priority, skip if time is short
+
+**Leading indicator to watch:** the "AI Assistant" channel in GA4 (§4.5). If these changes are working, that number should grow across subsequent analytics readings. Treat this as the honest measurement rather than vendor claims about citation-rate percentages.
+
 ---
 
 ## 7. Glossary of project-specific terms
