@@ -59,7 +59,7 @@ Dry leaves are **concentrated caffeine**, undiluted by a mug of water, so a dog 
 
 Caffeine is a **methylxanthine**, the same chemical family as the theobromine in [chocolate](/chocolate/). Dogs are more sensitive to it than people and clear it more slowly — the Merck Veterinary Manual gives caffeine a **half-life of about 4.5 hours** in dogs. It's a heart-and-nervous-system stimulant: at a high enough dose it causes agitation, a racing heart, tremors, and in severe cases seizures.
 
-We're deliberately **not** printing a precise "milligrams per kilogram" cutoff, because the confirmed veterinary sources don't publish a clean one for caffeine, and a false-precision table would be worse than an honest range. The workable rule: **a lap of brewed tea is a small dose; concern scales up with the amount, the caffeine level of the specific tea, and how small the dog is** — and eaten dry leaves are the scenario to act on.
+A precise "milligrams per kilogram" dose table does technically exist for caffeine (see [coffee](/coffee/), which uses it) — but serving-level variation makes it less directly useful here than the type-by-type comparison above. A "cup of tea" varies enormously depending on the tea type, so the practical guide for this page is the table above, not a single per-kg number. The workable rule: **a lap of brewed tea is a small dose; concern scales up with the amount, the caffeine level of the specific tea, and how small the dog is** — and eaten dry leaves are the scenario to act on.
 
 ## Symptoms to Watch For
 
