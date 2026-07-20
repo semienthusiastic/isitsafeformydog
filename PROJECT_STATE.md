@@ -188,13 +188,15 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 - **Category 1 (three callouts, treat substitute + first-aid kit + book):** Condiment and sauce pages where a "savoury meat treat" recommendation is editorially natural. Currently includes: bacon, soy-sauce, pesto, marinara-sauce, ketchup, pasta-sauce, hummus, worcestershire-sauce, cream-of-mushroom-soup.
 - **Category 3 (two callouts, first-aid kit + book only):** Pages where no third specific-product recommendation is editorially defensible. Currently includes: nutmeg, italian-seasoning, tomato-paste, tomato-sauce, avocado, guacamole.
 
+**Pure single-toxin explainer hubs — no affiliate treatment (established pattern, 6 pages total as of the allium batch: xylitol, plus the five allium pages — onions, garlic, chives, green-onions, leeks).** Pages whose primary purpose is explaining a genuine, serious toxin mechanism (haemolytic anaemia, hypoglycaemia, etc.) do not carry affiliate callouts, regardless of Toxic/Caution status. Reasoning: a product recommendation placed beside content describing a real medical emergency (potential transfusion, organ failure) creates a tonal mismatch that undercuts the page's credibility, and generic standing products (the ARCA first-aid kit, the Forever Dog book) typically don't address the specific hazard being explained, making their inclusion feel forced rather than genuinely useful. This is distinct from oregano's affiliate exclusion, which was a repair-rewrite scoping decision (§4.2) rather than a category rule — oregano's exclusion doesn't generalise the way this one does. When evaluating whether a new page fits this pattern, ask: is this page's primary purpose to explain a specific toxin's mechanism and dose thresholds (yes → no affiliate), or is it evaluating a food/product where a safer alternative genuinely helps the reader (no → normal Category 1/3 treatment applies)?
+
 ---
 
 ## 4. Current project state
 
 ### 4.1 Pages rewritten with calibrated content
 
-26 priority pages completed, in approximate chronological order:
+33 priority pages completed, in approximate chronological order:
 
 1. soy-sauce
 2. cream-of-mushroom-soup
@@ -222,10 +224,17 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 24. curry-powder (§6.5 data-driven prioritisation; ingredient-list-led framing — allium is the real concern, not "curry powder is toxic" generic claim; sibling calibration to italian-seasoning)
 25. milk (§6.5 data-driven prioritisation; dairy cluster anchor — highest-lactose in the cluster progression; discovered/corrected the affiliate URL drift documented in §5.7)
 26. oregano (repair-rewrite of a pre-existing truncated page discovered during citation cleanup Batch 2; ASPCA "toxic" reframe — the toxic principle is a GI irritant, not systemic; herbs cluster sibling to italian-seasoning; no affiliate treatment since not on the priority page list)
+27. lemon (§6.5 data-driven prioritisation; calibration anchored on the ASPCA's own quote that "the fruit is edible" while skin/pith/plant material concentrate the actual psoralen concern — part of the "risk-overstating myth" set with oregano and avocado, see §7; distinct sub-treatment for peel/pith/rind exposure scenarios, essential-oil caution cross-linked to oregano's established principle, and lemon-flavoured products where the citrus toxicology doesn't actually apply and sugar/xylitol are the real concern instead; Category 3 affiliate, matching avocado's precedent; status Caution)
+28. tortillas (§6.5 data-driven prioritisation, first page shipped off the data-driven priority list; Caution is category-driven — plain tortilla low-concern, while seasoned/allium wraps and chip salt-fat variants carry the real risk; AKC/PetMD grain-framework attribution per the mayonnaise pattern; Category 3 affiliate)
+29. onions (canonical allium hub — full dose-math table, delayed-onset timeline, all-forms-toxic detail, breed-sensitivity note for Akita/Shiba Inu; the site's most heavily cross-linked page, rewritten to deliver on promises made by pesto, marinara-sauce, hummus, guacamole, worcestershire-sauce, curry-powder, tortillas, and others; no affiliate treatment — see §3.7)
+30. garlic (second canonical allium hub — derived dose table shown transparently as onion's threshold × Merck's potency multiplier since Merck publishes no standalone garlic g/kg figure; includes the "garlic is a natural flea treatment" myth rebuttal via AKC's direct quote — the site's first "harm-encouraging myth" FAQ, see §7; no affiliate treatment)
+31. chives (satellite; restored from 2 sources to 5 after citation-cleanup removal; calibration: raw garnish quantities are low per-incident dose, but chive-flavoured products — chive cream cheese, sour-cream-and-chive dips — are the realistic higher-exposure route; no affiliate treatment)
+32. green-onions (satellite; restored from 2 sources to 4; calibration: milder allium concentration per gram than mature onions, but eaten raw in larger garnish quantities — realistic exposure can exceed the "milder" framing; no affiliate treatment)
+33. leeks (satellite; restored from 2 sources to 4; calibration: "lower incidence, not lower toxicity" — poisoning is rarer because leeks are usually cooked into dishes rather than shared as snacks, not because they're less toxic gram-for-gram; sources include ASPCA's general people-foods page rather than an adjacent-topic proxy, per §5.9 discipline; no affiliate treatment)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
-All 26 rewritten pages carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts) with one deliberate exception: **oregano.md** (page 26) does not carry affiliate treatment because it was a repair-rewrite of a pre-existing truncated page, not a data-driven or cluster-based rewrite selected for editorial promotion. Repair-rewrites restore structural integrity to broken pages without adding monetisation infrastructure that wouldn't otherwise be justified for that page's traffic profile. This distinction is worth preserving as a general principle: not every rewrite needs affiliate treatment.
+All rewritten pages carry the Option C affiliate treatment (top-of-page recommendations panel + body callouts), with two categories of deliberate exception: (1) oregano.md, a repair-rewrite of a pre-existing truncated page rather than a data-driven or cluster-based editorial promotion (see this section's original note below); and (2) the six pure single-toxin explainer hubs — xylitol, onions, garlic, chives, green-onions, leeks — which are excluded as a category rule per §3.7, not a page-specific decision. Repair-rewrites restore structural integrity to broken pages without adding monetisation infrastructure that wouldn't otherwise be justified for that page's traffic profile. This distinction is worth preserving as a general principle: not every rewrite needs affiliate treatment.
 
 The retrofit batch completed across all previously-rewritten pages; subsequent rewrites through milk launched with affiliate treatment from the start.
 
@@ -397,9 +406,9 @@ Current data-driven priority list (per §6.5 methodology):
 
 Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
 
-**Rewrite candidates from citation cleanup (§4.6).** Six pages dropped below the 4-5 source guideline during Batch 3b Session B's remove-vs-substitute cleanup (§5.9): white-chocolate (1 source), tea, soda, chives, green-onions, leeks (2 sources each). These aren't currently driven by Search Console demand data the way the main priority list is, but they're genuine editorial gaps — particularly white-chocolate, which is down to a single source on a Caution-status page.
+**Rewrite candidates from citation cleanup (§4.6) — 3 of 6 resolved.** Six pages dropped below the 4-5 source guideline during Batch 3b Session B's remove-vs-substitute cleanup (§5.9). Three are now resolved via the allium batch (§4.1, entries 31-33): chives (restored to 5 sources), green-onions (4 sources), leeks (4 sources) — all as full calibrated rewrites, not just citation restorations.
 
-**Suggested sequencing:** chives, green-onions, and leeks would complete the allium cluster properly (joining onions, garlic, marinara, hummus, guacamole, pesto, worcestershire-sauce) and could be done as one small coordinated batch. White-chocolate, tea, and soda could follow as a second small batch, extending the chocolate and caffeine cluster work from Batch 3. Neither batch is scheduled ahead of the main data-driven priority list; both are queued as the natural "next small project" after the current list is worked through.
+Three remain outstanding: **white-chocolate** (1 source, VCA only — the most urgent of the three), **tea** and **soda** (2 sources each). Suggested next step: a coordinated chocolate/caffeine batch, following the same efficient-batch logic as the allium work — the chocolate and caffeine toxicology is already deeply established on the site (chocolate cluster, xylitol, the existing VCA caffeine-toxicity-in-pets citation), so the research cost for this batch should be low relative to the editorial gain.
 
 ### 6.3 Parked
 
@@ -468,6 +477,7 @@ As AI-mediated search grows (the "AI Assistant" channel appeared in GA4 for the 
 - **Streamlined verification:** The current calibration review mode — Claude reviews figures, sources, and calibration; not prose.
 - **Cluster:** A group of related pages that cross-link as a topical authority unit (allium cluster, tomato cluster, etc.).
 - **Meta-honesty FAQ:** A signature FAQ pattern on calibration-correction pages, of the form "Why does the internet say X?" — addresses the misconception directly and explains its source.
+- **Harm-encouraging myth:** A variant of the meta-honesty FAQ pattern, first used on garlic.md. Distinct from the more common "risk-overstating myth" pattern (where popular framing exaggerates a real-but-milder hazard — see oregano, lemon, avocado). A harm-encouraging myth is one where popular belief actively recommends the harmful behaviour (e.g., "garlic is a natural flea treatment for dogs") rather than merely overstating a risk. These require direct, source-backed rebuttal rather than nuanced recalibration, since the myth is actively steering readers toward harm rather than toward excess caution.
 
 ---
 
