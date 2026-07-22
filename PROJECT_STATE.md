@@ -196,7 +196,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 
 ### 4.1 Pages rewritten with calibrated content
 
-42 priority pages completed, in approximate chronological order:
+43 priority pages completed, in approximate chronological order:
 
 1. soy-sauce
 2. cream-of-mushroom-soup
@@ -240,6 +240,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 40. chocolate-chips (satellite upgrade; restored 3→4 sources; the batch's standout correction — standard semi-sweet chips are dark-chocolate-tier (~150 mg/oz), more than double milk chocolate per gram, contrary to their "mild baking ingredient" appearance; dedicated meta-honesty FAQ; no affiliate treatment)
 41. cocoa-powder (satellite upgrade; restored 3→4 sources; highest-tier satellite — ~807 mg/oz, roughly 12× milk chocolate by weight; includes the cocoa-mulch outdoor exposure scenario; no affiliate treatment)
 42. hot-chocolate-mix (satellite upgrade; restored 3→4 sources; mirror-image correction to chocolate-chips — the cocoa is diluted ~12-fold by sugar/milk powder, landing at milk-chocolate tier (~2 mg/g) despite the "chocolate powder" appearance suggesting cocoa-powder-level concentration; explicitly framed as the opposite-direction counterpart to chocolate-chips; no affiliate treatment)
+43. paprika (§6.2 data-driven prioritisation; cleared two dead sources — AKC and PetMD paprika-specific URLs both 404, framework/analog attribution used instead (AKC general framework, PetMD bell-peppers as the on-topic pepper baseline); key calibration finding — sweet and smoked paprika sit at ~0 Scoville heat, so the popular "capsaicin will irritate your dog" warning is overstated for the common types; Caution is category-driven by hot paprika varieties, allium-laden seasoning blends (BBQ rubs, taco seasoning), and salt in those same products — same "plain form is low-concern, the blend is the real hazard" pattern as curry-powder and tortillas; herbs/spices cluster sibling to oregano, italian-seasoning, curry-powder; Category 3 affiliate)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
@@ -269,19 +270,19 @@ Footer wired with all four links. About page references Claire Donnelly byline c
 - All 246 foods have valid categories — no orphans confirmed
 - .slug grep sweep clean (search.json's .slug is custom-derived from item.id)
 
-### 4.5 Analytics trajectory (June 2026)
+### 4.5 Analytics trajectory (March–July 2026)
 
 Three independent readings, all showing sustained healthy growth:
 
-| Metric | March 2026 | Early May 2026 | June 2026 | July 2026 |
-|---|---|---|---|---|
-| Organic Search sessions (30 days) | 22 → 62 (+182%) | 29 → 76 (+162%) | 70 → 111 (+58.57%) | 94 → 245 (+161%) |
-| Engaged sessions (30 days) | 7 → 19 (+171%) | 9 → 27 (+200%) | 23 → 41 (+78.26%) | 31 → 111 (+258%) |
-| Engagement rate | ~31% → 31% | 32% → 36% | 32.86% → 36.94% | 33% → 45% |
-| Search Console clicks (28 days) | n/a | 26 → 58 (+123%) | 55 → 83 (+43%) | data unavailable |
-| Search Console impressions (28 days) | n/a | 27.8K → 40.7K (+46%) | 36.9K → 64.7K (+59%) | ~2K → ~8.5K daily impressions |
-| Pages indexed | n/a | 114 | 124 | 146 → 279 |
-| Pages not indexed | n/a | 166 | 162 | n/a |
+| Metric | March 2026 | Early May 2026 | June 2026 | July 2026 | Reading 5 (July 21, 2026) |
+|---|---|---|---|---|---|
+| Organic Search sessions (30 days) | 22 → 62 (+182%) | 29 → 76 (+162%) | 70 → 111 (+58.57%) | 94 → 245 (+161%) | 104 → 341 (+228%) |
+| Engaged sessions (30 days) | 7 → 19 (+171%) | 9 → 27 (+200%) | 23 → 41 (+78.26%) | 31 → 111 (+258%) | 40 → 158 (+295%) |
+| Engagement rate | ~31% → 31% | 32% → 36% | 32.86% → 36.94% | 33% → 45% | 38.5% → 46.3% |
+| Search Console clicks (28 days) | n/a | 26 → 58 (+123%) | 55 → 83 (+43%) | data unavailable | — |
+| Search Console impressions (28 days) | n/a | 27.8K → 40.7K (+46%) | 36.9K → 64.7K (+59%) | ~2K → ~8.5K daily impressions | — |
+| Pages indexed | n/a | 114 | 124 | 146 → 279 | — |
+| Pages not indexed | n/a | 166 | 162 | n/a | — |
 
 At ~3.7 real organic visitors per day, traffic is small in absolute terms but on a clean compounding trajectory.
 
@@ -292,6 +293,8 @@ The causal explanation is documented in §4.6: Batches 1 and 2 of the citation c
 §6.5 hypothesis confirmed: The data-driven page selection strategy is producing meaningfully faster traffic growth than the cluster-based approach did in earlier periods. Combined with the discovery that structural cleanup has quantifiable indexing benefits, the current methodology (rewrites + cleanup) is compounding at a materially faster rate than any prior reading predicted.
 
 AI Assistant channel first appearance. Two sessions in this reading arrived from AI Assistant referrals (ChatGPT, Perplexity, Claude directing users to calibrated content). Small but a genuine new channel signal — the site's calibrated approach is exactly what LLMs prefer to cite.
+
+**Reading 5 (July 21 2026) — strongest single reading yet.** Organic Search sessions climbed 104 → 341 in 28 days (+228%), exceeding even Reading 4's inflection jump. Engaged sessions rose 40 → 158 (+295%), engagement rate to 46.3%, and average engagement time nearly doubled (28.3s → 39.8s). This reading lands after the full toxin-hub arc (allium batch, chocolate/caffeine batch, chocolate/coffee hub upgrade, chocolate-cluster satellites) — strong evidence that both the calibrated-rewrite pace and the citation-cleanup structural work continue to compound rather than plateau. AI Assistant channel sessions ticked from 0 to 2 — still negligible but present in back-to-back readings now.
 
 ### 4.6 Citation cleanup and structural alignment (completed June 2026)
 
@@ -415,13 +418,16 @@ This discipline has applied at two scales:
 
 Current data-driven priority list (per §6.5 methodology):
 
-| Order | Page | Impressions (28d, Jun 2026) | Position | Notes |
+| Order | Page | Impressions (28d, Jul 21 2026) | Position | Notes |
 |---|---|---|---|---|
-| 1 | **lemon** | 986 | 7.72 | Page 1 |
-| 2 | **tortillas** | 903 | 12.21 | Top of page 2 |
-| 3 | **crackers** | 701 | 11.19 | Top of page 2 |
-| 4 | **tuna** | 577 | 10.54 | Bottom of page 1 |
-| 5 | **pistachios** | 535 | 35.91 | Page 4 — lower priority given ranking gap |
+| 1 | **sour-cream** | 4,206 | 8.38 | Dairy cluster continuation (milk/yogurt/evaporated-milk/condensed-milk) |
+| 2 | **maple-syrup** | 3,445 | 8.94 | Zero clicks despite near-page-1 position |
+| 3 | **deli-meats** | 3,393 | 8.54 | Already converting somewhat (6 clicks) — lower urgency than 1-2 |
+| 4 | **apple** | 1,732 | 6.59 | Strong position, zero clicks — worth checking whether this is a title/meta issue rather than pure content gap |
+
+**Note on crackers:** previously flagged as the top priority (701 impressions, position 11.19) — re-checked July 21 and found to have collapsed to 54 impressions (position improved to 7.98, but volume cratered). No longer a priority target. Demonstrates the value of re-checking Search Console data before starting a rewrite rather than trusting an older snapshot — the picture can shift meaningfully over a few weeks.
+
+**Anomaly flagged, not yet actioned:** /eggs/ (fully rewritten, §4.1 entry 21) shows 7,217 impressions at position 7.51 but zero clicks in the July 21 reading. Worth a second look if this persists into the next reading — could indicate a metaTitle/description issue rather than a content problem, since the position is solid.
 
 Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
 
