@@ -196,7 +196,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 
 ### 4.1 Pages rewritten with calibrated content
 
-44 priority pages completed, in approximate chronological order:
+45 priority pages completed, in approximate chronological order:
 
 1. soy-sauce
 2. cream-of-mushroom-soup
@@ -242,6 +242,7 @@ Substitute a standing URL only when a page-specific product would *genuinely* se
 42. hot-chocolate-mix (satellite upgrade; restored 3→4 sources; mirror-image correction to chocolate-chips — the cocoa is diluted ~12-fold by sugar/milk powder, landing at milk-chocolate tier (~2 mg/g) despite the "chocolate powder" appearance suggesting cocoa-powder-level concentration; explicitly framed as the opposite-direction counterpart to chocolate-chips; no affiliate treatment)
 43. paprika (§6.2 data-driven prioritisation; cleared two dead sources — AKC and PetMD paprika-specific URLs both 404, framework/analog attribution used instead (AKC general framework, PetMD bell-peppers as the on-topic pepper baseline); key calibration finding — sweet and smoked paprika sit at ~0 Scoville heat, so the popular "capsaicin will irritate your dog" warning is overstated for the common types; Caution is category-driven by hot paprika varieties, allium-laden seasoning blends (BBQ rubs, taco seasoning), and salt in those same products — same "plain form is low-concern, the blend is the real hazard" pattern as curry-powder and tortillas; herbs/spices cluster sibling to oregano, italian-seasoning, curry-powder; Category 3 affiliate)
 44. sour-cream (§6.2 data-driven prioritisation; cleared three dead sources — AKC, PetMD, and VCA-lactose all 404, framework/analog attribution used (AKC framework, PetMD-yogurt as the closest cultured-dairy analog, VCA-allium for the flavoured-dip risk); central finding — sour cream splits into two distinct questions: plain sour cream is a fat-and-lactose question (18-20% milkfat, higher than yogurt; lactose lower than milk, roughly level with yogurt), while flavoured sour cream (French onion dip, sour-cream-and-onion/chive) is potentially an allium question, using verified typical product ratios (~1 tsp onion powder + ½ tsp garlic powder per cup) to make the exposure concrete; explicit sibling cross-reference with chives.md — "two halves of the same dip" — added reciprocally to both pages; dairy cluster member alongside milk, yogurt, evaporated-milk; Category 3 affiliate)
+45. maple-syrup (§6.2 data-driven prioritisation; cleared two dead sources — AKC and PetMD maple-specific URLs both 404, framework/analog attribution used (AKC framework, PetMD-honey as the closest concentrated-sugar-syrup analog); central and most consequential finding — sugar-free/keto syrup is a genuine, verified xylitol risk category, unlike the "rare, don't name brands" pattern found on yogurt/soda/tortillas: Nature's Hollow Sugar-Free Maple-Flavored Syrup confirmed (via Patrick's direct ingredient-label check) to list xylitol as its second ingredient after water; Mrs. Butterworth's and Log Cabin sugar-free variants verified as sorbitol-based, not xylitol; Merck Veterinary Manual explicitly names "sugar-free syrups" among products that frequently contain xylitol; page structured xylitol-first (the emergency-conditional risk leads, ahead of the much milder pure-maple-is-just-sugar finding); status Caution (not Emergency page-level) since the typical exposure is the mild sugar case, consistent with the peanut-butter/yogurt precedent for conditional xylitol risk; Category 3 affiliate)
 
 ### 4.2 Pages with full Option C affiliate treatment
 
@@ -404,6 +405,12 @@ This discipline has applied at two scales:
 
 **Recalibrations run in both directions on this site** — sometimes upward in caution (rare — most corrections found the popular framing already too alarmist) and sometimes downward, as with tea/soda. Downward recalibrations require the same rigor as upward ones: they must be source-anchored, transparent about the change, and must not weaken the actual safety guidance for the genuinely risky scenario within that category (e.g., tea bags eaten dry, concentrated caffeinated soda in a small dog).
 
+### 5.11 Interpreting Search Console impression volatility and automated alerts
+
+Search Console's automated "significant change" alerts (e.g., "this page recently got fewer impressions than usual") fire on week-over-week comparisons, which are a much noisier window than the site's standard 28-day analytics readings. Observed pattern across multiple pages (crackers in July 2026's priority re-check; ketchup's July 21 alert): impressions can swing substantially week-to-week while position holds steady or improves — this is the signature of ordinary search-volume fluctuation for a topic, not a technical or ranking problem. A genuine issue (de-indexing, a broken title/meta, content decay) would typically show a concentrated drop in specific queries and/or a position decline, not a broad, even drop across the full query set with stable-or-improving position.
+
+**Discipline:** when one of these alerts fires, check (a) whether the drop is concentrated in specific queries or spread evenly across the page's whole query set, and (b) whether position moved with the impressions or stayed independent. A broad, position-stable drop is very likely noise — note it and re-check at the next full 28-day reading rather than reacting immediately. Only investigate further (indexing status, title/meta drift, content issues) if the drop persists into that next full reading.
+
 ---
 
 ## 6. Backlog and next steps
@@ -429,6 +436,8 @@ Current data-driven priority list (per §6.5 methodology):
 **Note on crackers:** previously flagged as the top priority (701 impressions, position 11.19) — re-checked July 21 and found to have collapsed to 54 impressions (position improved to 7.98, but volume cratered). No longer a priority target. Demonstrates the value of re-checking Search Console data before starting a rewrite rather than trusting an older snapshot — the picture can shift meaningfully over a few weeks.
 
 **Anomaly flagged, not yet actioned:** /eggs/ (fully rewritten, §4.1 entry 21) shows 7,217 impressions at position 7.51 but zero clicks in the July 21 reading. Worth a second look if this persists into the next reading — could indicate a metaTitle/description issue rather than a content problem, since the position is solid.
+
+**Ketchup impression alert (July 21 2026, flagged, not actionable):** Search Console flagged a 71% week-over-week impression drop on /ketchup/ (4,714 → 1,355, position improved 9.1 → 8.34). Query-level and position data both point to ordinary volatility rather than a real issue — see §5.11. Logged for reference; re-check at the next full 28-day analytics reading before considering any action.
 
 Higher-impression cluster continuations if we return to cluster-based selection: **cheese** and **butter** (dairy cluster continuation from milk, yogurt, evaporated-milk), **almond-milk** and **soy-milk** (plant milk cluster extension from milk).
 
