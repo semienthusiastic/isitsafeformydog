@@ -32,7 +32,7 @@ Chives contain the same organosulfur compounds as the rest of the family. Absorb
 This is the practical heart of the chives question, and it's about **dose, not garnish.**
 
 - **Fresh chives as a garnish** — the sprinkle on a baked potato, in scrambled eggs, over a salad — is usually a **small per-incident amount.** A dog that licked a plate with a little chopped chive on it is generally lower concern than the word "toxic" might suggest. That's honest calibration: quantity matters, and garnish quantities are small.
-- **Chive-flavoured products are the real risk.** **Chive cream cheese, sour-cream-and-chive dips, and onion-and-chive spreads** are eaten by the spoonful, not the pinch — and a dog that gets into a tub of dip can take in far more allium than one that licked a garnished plate. These products often combine chives *and* onion, compounding the dose.
+- **Chive-flavoured products are the real risk.** **Chive cream cheese, sour-cream-and-chive dips, and onion-and-chive spreads** are eaten by the spoonful, not the pinch — and a dog that gets into a tub of dip can take in far more allium than one that licked a garnished plate. These products often combine chives *and* onion, compounding the dose. Sour-cream-and-chive dip is the other half of this same product — see the [sour cream](/sour-cream/) page, which covers it from the dairy-and-dip side.
 - **Dried and powdered chives** are concentrated by weight, like all dried allium — a small measure represents more chive than the fresh herb.
 
 The takeaway: don't panic over a stray fresh sprinkle, but don't treat chives as a harmless herb either — the flavoured products are where dogs actually reach a concerning dose.
