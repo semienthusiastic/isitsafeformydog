@@ -85,7 +85,10 @@ const relatedPosts = allFoods
     <meta name="description" content={entry.data.description} />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    
+
+    <!-- Self-referencing canonical (trailing-slash form) -->
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
+
     <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:type" content="article" />
     <meta property="og:title" content={seoTitle} />
@@ -114,8 +117,8 @@ const relatedPosts = allFoods
               <a href="/" class="text-blue-500 hover:underline">&larr; Back to Search</a>
               <div class="flex flex-wrap gap-2">
                 {(entry.data.category ?? []).map(cat => (
-                  <a 
-                    href={`/category/${cat.toLowerCase().replace(/\s+/g, '-')}`} 
+                  <a
+                    href={`/category/${cat.toLowerCase().replace(/\s+/g, '-')}/`}
                     class="text-xs font-bold uppercase tracking-wider bg-gray-100 text-gray-600 px-2 py-1 rounded hover:bg-blue-100 hover:text-blue-600 transition-colors"
                   >
                       {cat}
@@ -222,7 +225,7 @@ const relatedPosts = allFoods
             <h3 class="text-2xl font-bold text-gray-900 mb-6">Related Safety Guides</h3>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
               {relatedPosts.map((post) => (
-                <a href={`/${post.id.replace(/\.md$/, '')}`} class="group block">
+                <a href={`/${post.id.replace(/\.md$/, '')}/`} class="group block">
                   <div class="overflow-hidden rounded-lg shadow-sm border border-gray-100 group-hover:shadow-md transition-shadow">
                     {post.data.image && (
                       <img 

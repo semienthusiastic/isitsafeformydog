@@ -33,6 +33,7 @@ const statusColors: Record<string, string> = {
     <meta name="description" content="Browse every dog food safety guide on Is It Safe For My Dog? — grouped by category and sorted A–Z." />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
 

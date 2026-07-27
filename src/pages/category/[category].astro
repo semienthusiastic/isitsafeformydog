@@ -48,6 +48,7 @@ const statusColors = {
     <meta name="description" content={`List of ${categoryName} and their safety status for dogs.`} />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
     
@@ -67,8 +68,8 @@ const statusColors = {
       <!-- Grid of Items -->
       <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {foods.map((food) => (
-          <a 
-            href={`/${food.id.replace(/\.md$/, '')}`} 
+          <a
+            href={`/${food.id.replace(/\.md$/, '')}/`}
             class="block group bg-white rounded-xl border border-gray-200 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col h-full"
           >
             <!-- Image Area -->

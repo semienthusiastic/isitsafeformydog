@@ -12,6 +12,7 @@ import GA from '../components/GoogleAnalytics.astro';
     <meta name="description" content="How we research, write, and fact-check our dog food safety guides — our sources, our cross-checking process, and the limits of what this site can be." />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
 

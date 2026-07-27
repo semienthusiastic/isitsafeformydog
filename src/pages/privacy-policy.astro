@@ -12,6 +12,7 @@ import GA from '../components/GoogleAnalytics.astro';
     <meta name="description" content="How Is It Safe For My Dog? handles data, cookies, analytics, advertising, and affiliate links." />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
 

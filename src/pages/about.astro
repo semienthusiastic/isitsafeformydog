@@ -12,6 +12,7 @@ import GA from '../components/GoogleAnalytics.astro';
     <meta name="description" content="The story behind Is It Safe For My Dog? — a clear, honest, properly sourced dog food safety resource written by a lifelong dog owner with a background in research and education." />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
+    <link rel="canonical" href={new URL(Astro.url.pathname.replace(/\/?$/, '/'), Astro.site).href} />
   </head>
   <body class="bg-gray-50 min-h-screen font-sans flex flex-col">
 
